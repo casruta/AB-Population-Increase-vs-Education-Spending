@@ -1,0 +1,29 @@
+{
+  "base_year": 2012,
+  "latest": {
+    "k12_operating_expenses": {
+      "year": 2023,
+      "period": "2023-24",
+      "real_per_learner": 9021.177374983661,
+      "segment": "k12_2023_complete_aro_draft_northland|k12_alberta_reporting_authorities"
+    },
+    "k12_operating_grants": {
+      "year": 2023,
+      "period": "2023-24",
+      "real_per_learner": 8168.72278703987,
+      "segment": "k12_2023_complete_aro_draft_northland|k12_alberta_reporting_authorities"
+    },
+    "postsec_operating_expenses": {
+      "year": 2024,
+      "period": "2024-25",
+      "real_per_learner": 14817.161162990453,
+      "segment": "ug3_fiscal_2023_2024|ug3_fiscal_2023_2024"
+    },
+    "postsec_operating_grants": {
+      "year": 2022,
+      "period": "2022-23",
+      "real_per_learner": 8439.815934324268,
+      "segment": "department_programs_2022_onward|fle_2022"
+    }
+  }
+}

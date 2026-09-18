@@ -1,0 +1,72 @@
+{
+  "sources": [
+    {
+      "source_id": "statcan_population_17100009_2026-06-17",
+      "title": "Population estimates, quarterly",
+      "table_id": "17-10-0009-01",
+      "product_id": "17100009",
+      "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100009-eng.zip",
+      "landing_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901",
+      "release_date": "2026-06-17",
+      "retrieved_date": "2026-09-17",
+      "raw_files": [
+        {
+          "path": "data/raw/shared/population-17100009.zip",
+          "sha256": "4c99d5f137222ca7bcbb3c2c0e23b422c374e2712b68412965d06411bb0f31f5"
+        },
+        {
+          "path": "data/raw/shared/population-17100009-archive/17100009.csv",
+          "sha256": "849a57df96cd7af3223665bf816d2843c2af878277066218fff2f821e093f0bd"
+        },
+        {
+          "path": "data/raw/shared/population-17100009-archive/17100009_MetaData.csv",
+          "sha256": "eaf9ec0ac1dc2fed29fbc04d607760ab3a908387da1dd1a7ef78e3a9426d39e6"
+        }
+      ],
+      "extraction": {
+        "input": "data/raw/shared/population-17100009-archive/17100009.csv",
+        "filters": {
+          "GEO": "Alberta",
+          "UOM": "Persons",
+          "REF_DATE": "2012-01 through latest available January 1 row",
+          "quarter_rule": "Q1 = January 1 (confirmed by table metadata)"
+        },
+        "rows": 15,
+        "output": "data/raw/shared/population-alberta-q1-extract.csv",
+        "normalized_output": "data/staging/shared/population.csv"
+      }
+    },
+    {
+      "source_id": "statcan_cpi_2025",
+      "title": "Consumer Price Index, annual average, not seasonally adjusted",
+      "table_id": "18-10-0005-01",
+      "product_id": "18100005",
+      "url": "https://www150.statcan.gc.ca/n1/tbl/csv/18100005-eng.zip",
+      "landing_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501",
+      "release_date": "2026-01-19",
+      "retrieved_date": "2026-09-17",
+      "raw_files": [
+        {
+          "path": "data/raw/shared/cpi-18100005.zip",
+          "sha256": "9b52900a2fc26b7e11ac22d819b3164678fe9a2a5ff241c5db085816a5fe8e0a"
+        },
+        {
+          "path": "data/raw/shared/cpi-alberta-extract.csv",
+          "sha256": "66f88f320de0784cf6a18d3555403dd88801619d6e0d499c422d2c88f1bf6110"
+        }
+      ],
+      "extraction": {
+        "input": "data/raw/shared/cpi-alberta-extract.csv",
+        "filters": {
+          "GEO": "Alberta",
+          "Products and product groups": "All-items",
+          "UOM": "2002=100",
+          "REF_DATE": "2012 through 2025 inclusive"
+        },
+        "rows": 14,
+        "output": "data/staging/shared/cpi.csv",
+        "note": "No 2026 CPI value is included or extrapolated."
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "macewan2024-25",
+    "title": "Grant MacEwan University Annual Report 2024-25 audited financial statements",
+    "url": "https://www.macewan.ca/c/documents/annual-report-2024-25.pdf",
+    "release_date": null,
+    "retrieval_date": "2026-09-17",
+    "raw_file": "data/raw/postsec/macewan2024-25.pdf",
+    "sha256": "c88dd48c23f98478a77f4fc1c7a56cc337398d169a7e1d65494a45c2ea99bd75",
+    "notes": "Release date not independently confirmed. Expense by object audited statement; see component locator."
+  },
+  {
+    "source_id": "mru2024-25",
+    "title": "Mount Royal University Annual Report 2024-25 audited financial statements",
+    "url": "https://www.mtroyal.ca/AboutMountRoyal/OfficesGovernance/_pdfs/pdf_annualreport_2024-2025.pdf",
+    "release_date": null,
+    "retrieval_date": "2026-09-17",
+    "raw_file": "data/raw/postsec/mru2024-25.pdf",
+    "sha256": "4a8c868b9657adddacdfa07c38b2763ecf62255be948dc4d95dd896cf25e5856",
+    "notes": "Release date not independently confirmed. Expense by object audited statement; see component locator."
+  },
+  {
+    "source_id": "auarts2024-25",
+    "title": "Alberta University of the Arts Annual Report 2024-25 audited financial statements",
+    "url": "https://www.auarts.ca/sites/default/files/2025-12/AUArts%202024-25%20Annual%20Report%20-%20Signed.pdf",
+    "release_date": null,
+    "retrieval_date": "2026-09-17",
+    "raw_file": "data/raw/postsec/auarts2024-25.pdf",
+    "sha256": "8b23d0fd2a83d69bb65f803008012f9fbdeee273fd9e512b9e85a70ab998f5d9",
+    "notes": "Release date not independently confirmed. Expense by object audited statement; see component locator."
+  }
+]

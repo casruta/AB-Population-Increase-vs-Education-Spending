@@ -1,0 +1,57 @@
+series_id,year,period,available,gap_reason,coverage_id
+k12_operating_grants,2012,2012-13,False,No verified recognized provincial operating-support observation on this boundary.,
+k12_operating_grants,2013,2013-14,False,No verified recognized provincial operating-support observation on this boundary.,
+k12_operating_grants,2014,2014-15,False,No approved learner denominator for this period.,k12_alberta_reporting_authorities
+k12_operating_grants,2015,2015-16,False,No approved learner denominator for this period.,k12_alberta_reporting_authorities
+k12_operating_grants,2016,2016-17,True,,k12_alberta_reporting_authorities
+k12_operating_grants,2017,2017-18,True,,k12_alberta_reporting_authorities
+k12_operating_grants,2018,2018-19,True,,k12_alberta_reporting_authorities
+k12_operating_grants,2019,2019-20,True,,k12_alberta_reporting_authorities
+k12_operating_grants,2020,2020-21,True,,k12_alberta_reporting_authorities
+k12_operating_grants,2021,2021-22,True,,k12_alberta_reporting_authorities
+k12_operating_grants,2022,2022-23,True,,k12_without_valhalla
+k12_operating_grants,2023,2023-24,True,,k12_alberta_reporting_authorities
+k12_operating_grants,2024,2024-25,False,No verified recognized provincial operating-support observation on this boundary.,
+k12_operating_grants,2025,2025-26,False,No verified recognized provincial operating-support observation on this boundary.,
+k12_operating_expenses,2012,2012-13,False,No approved learner denominator for this period.,k12_alberta_reporting_authorities
+k12_operating_expenses,2013,2013-14,False,No approved learner denominator for this period.,k12_alberta_reporting_authorities
+k12_operating_expenses,2014,2014-15,False,No approved learner denominator for this period.,k12_alberta_reporting_authorities
+k12_operating_expenses,2015,2015-16,False,No approved learner denominator for this period.,k12_alberta_reporting_authorities
+k12_operating_expenses,2016,2016-17,True,,k12_alberta_reporting_authorities
+k12_operating_expenses,2017,2017-18,True,,k12_alberta_reporting_authorities
+k12_operating_expenses,2018,2018-19,True,,k12_alberta_reporting_authorities
+k12_operating_expenses,2019,2019-20,True,,k12_alberta_reporting_authorities
+k12_operating_expenses,2020,2020-21,True,,k12_alberta_reporting_authorities
+k12_operating_expenses,2021,2021-22,True,,k12_alberta_reporting_authorities
+k12_operating_expenses,2022,2022-23,True,,k12_without_valhalla
+k12_operating_expenses,2023,2023-24,True,,k12_alberta_reporting_authorities
+k12_operating_expenses,2024,2024-25,False,No verified combined school-authority expense observation on this boundary.,
+k12_operating_expenses,2025,2025-26,False,No verified combined school-authority expense observation on this boundary.,
+postsec_operating_grants,2012,2012-13,False,No approved learner denominator for this period.,alberta_public20_excluding_banff
+postsec_operating_grants,2013,2013-14,False,No approved learner denominator for this period.,alberta_public20_excluding_banff
+postsec_operating_grants,2014,2014-15,False,No approved learner denominator for this period.,alberta_public20_excluding_banff
+postsec_operating_grants,2015,2015-16,True,,alberta_public20_excluding_banff
+postsec_operating_grants,2016,2016-17,True,,alberta_public20_excluding_banff
+postsec_operating_grants,2017,2017-18,True,,alberta_public20_excluding_banff
+postsec_operating_grants,2018,2018-19,True,,alberta_public20_excluding_banff
+postsec_operating_grants,2019,2019-20,True,,alberta_public20_excluding_banff
+postsec_operating_grants,2020,2020-21,True,,alberta_public20_excluding_banff
+postsec_operating_grants,2021,2021-22,True,,alberta_public20_excluding_banff
+postsec_operating_grants,2022,2022-23,True,,alberta_public20_excluding_banff
+postsec_operating_grants,2023,2023-24,False,"Keyano College: The significant increase in enrolments at Keyano College can be attributed the college's continuous efforts in international student recruitment. | Lakeland College: Lakeland College changed its LERS reporting period to align with its updated fiscal year in 2022-23. As a result, the institution shifted from a 4-session to a 3-session reporting structure for 2023-24 LERS reporting. | Lethbridge College: Lethbridge College will become Lethbridge Polytechnic in the 2024-25 academic year. As all data in these tables precedes this change, the changes will not appear in this file. | NorQuest College: In 2022-23, NorQuest College incorrectly reported learners from Ukraine that have expedited visas with a “Permanent Resident” Legal Status; this over‐reported the number of domestic learners by around 500 learners among English as a Second Language programming. For 2023‐24 reporting and future reporting, these learners were coded as “Other Visa”. | Northwestern Polytechnic: Northwestern Polytechnic changed its LERS reporting period to align with its updated fiscal year in 2022-23. As a result, the institution shifted from a 4-session to a 3-session reporting structure for 2023-24 LERS reporting forward. | Portage College: Portage College is in the process of teaching out programming that is being offered through partnerships with two private institutions. The significant drop in international learners at the college is a result of these offerings being taught out over the year. | University of Calgary: In 2023-24, the University of Calgary moved course-based graduate students to term based registration (previously an annual registration). In order to ensure accurate reporting to correctly reflect this change in our enrolment policy, a review of program records in PAPRS was completed. Changes included full load updates, administrative updates and PAPRS corrections. The adjustments resulted in an increase in FLEs in a number of programs where the FLE counts were previously underreported. | University of Alberta: Graduate level thesis FLE at the University of Alberta continues to be over reported in the 2023-24 submission. The U of A has committed to ensuring this is resolved in time for the 2024-25 LERS submission.",alberta_public20_excluding_banff
+postsec_operating_grants,2024,2024-25,False,"Athabasca University: Athabasca University updated their LERS reporting period from a calendar year to a May through April reporting period (to align with other post-secondary reporting). To ensure no enrolments went unreported, this reporting change resulted in the university having to report one additional session in the transition year (January 2024 – April 2025). Therefore, this transition year has created an artificial increase to the institutional, sector and system enrolments. The inclusion of the ""extra"" Spring 2024 session adds an additional 3,200 FLE and 7,500 learners to what the university would have reported during the 12-month period. This is a one-year anomaly to ensure no enrolments went unreported and future LERS reporting cycles will follow the May – April reporting period. | Lethbridge Polytechnic: Lethbridge College became Lethbridge Polytechnic in the 2024/25 academic year, moving from the CCC sector to the POLY sector. To ensure longitudinal analysis, all reporting will use the new name and sector allocation. | Makami College: MaKami College first reported LERS enrolments in 2024/25 and the inclusion of their enrolment data will impact longitudinal analysis at the IAI sector and system level, as both these totals will show increases of around 1,700 FLE and learners due to MaKami College first reporting in 2024/25. | NorQuest College: NorQuest College updated their LERS Academic Year to align with Fiscal Reporting for 2024-25 forward.  To ensure consistent reporting, the 2024 spring session has been reported in both the 2023-24 and 2024-25 academic years. | University of Alberta: University of Alberta worked to update their thesis program records in 2024/25 (correcting the issue of over-reporting FLE), which resulted in a slight drop in FLEs among Graduate programs. Along with this change, the University of Alberta began to report course and thesis based graduate programming separately.",alberta_public20_excluding_banff
+postsec_operating_grants,2025,2025-26,False,No verified department operating-grant observation on this boundary.,
+postsec_operating_expenses,2012,2012-13,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2013,2013-14,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2014,2014-15,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2015,2015-16,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2016,2016-17,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2017,2017-18,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2018,2018-19,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2019,2019-20,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2020,2020-21,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2021,2021-22,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2022,2022-23,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,
+postsec_operating_expenses,2023,2023-24,True,,postsec_undergrad3
+postsec_operating_expenses,2024,2024-25,True,,postsec_undergrad3
+postsec_operating_expenses,2025,2025-26,False,No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.,

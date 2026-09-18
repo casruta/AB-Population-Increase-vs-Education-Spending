@@ -1,0 +1,75 @@
+year,period,component,amount_cad,source_id,locator
+2012,2012-13,statement_goa_revenue,6191801464,k12_2012_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2012,2012-13,total_expenses,6791950650,k12_2012_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2012,2012-13,total_amortization,292984714,k12_2012_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2013,2013-14,statement_goa_revenue,6296485402,k12_2013_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2013,2013-14,total_expenses,6944521778,k12_2013_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2013,2013-14,total_amortization,297071704,k12_2013_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2014,2014-15,statement_goa_revenue,6555703400,k12_2014_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2014,2014-15,total_expenses,7228040463,k12_2014_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2014,2014-15,total_amortization,305046656,k12_2014_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2014,2014-15,capital_recognition_education,220336818,k12_2014_schedule_of_capital_revenue,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2014,2014-15,capital_recognition_other_goa,3209846,k12_2014_schedule_of_capital_revenue,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2015,2015-16,statement_goa_revenue,6858608117,k12_2015_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2015,2015-16,total_expenses,7538460294,k12_2015_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2015,2015-16,total_amortization,316480964,k12_2015_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2015,2015-16,capital_recognition_education,228559413,k12_2015_schedule_of_capital_revenue,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2015,2015-16,capital_recognition_other_goa,2087423,k12_2015_schedule_of_capital_revenue,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2016,2016-17,statement_goa_revenue,6972141426,k12_2016_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2016,2016-17,total_expenses,7740445060,k12_2016_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2016,2016-17,total_amortization,338472018,k12_2016_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2016,2016-17,capital_recognition_education,243751467,k12_2016_schedule_of_capital_revenue,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2016,2016-17,capital_recognition_other_goa,6389636,k12_2016_schedule_of_capital_revenue,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2017,2017-18,statement_goa_revenue,7218824516,k12_2017_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2017,2017-18,total_expenses,7964542426,k12_2017_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2017,2017-18,total_amortization,385384207,k12_2017_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2017,2017-18,capital_recognition_education,271816728,k12_2017_schedule_of_capital_revenue,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2017,2017-18,capital_recognition_other_goa,20865723,k12_2017_schedule_of_capital_revenue,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2018,2018-19,statement_goa_revenue,7288910958,k12_2018_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2018,2018-19,total_expenses,8097032842,k12_2018_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2018,2018-19,total_amortization,409591407,k12_2018_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2018,2018-19,capital_recognition_education,45070003,k12_2018_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2018,2018-19,capital_recognition_other_goa,268684659,k12_2018_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2018,2018-19,udcc_revenue_education,-838788,k12_2018_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2018,2018-19,udcc_revenue_other_goa,249028,k12_2018_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2018,2018-19,interschool_revenue_in_goa,8096532,k12_2018_schedule_of_program_operations,PDF page 1; Revenue row Other Alberta school authorities; current-year TOTAL
+2019,2019-20,statement_goa_revenue,7059125323,k12_2019_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2019,2019-20,total_expenses,7757851883,k12_2019_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2019,2019-20,total_amortization,426686923,k12_2019_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2019,2019-20,capital_recognition_education,32067956,k12_2019_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2019,2019-20,capital_recognition_other_goa,297473929,k12_2019_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2019,2019-20,udcc_revenue_education,523337,k12_2019_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2019,2019-20,udcc_revenue_other_goa,359929,k12_2019_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2019,2019-20,interschool_revenue_in_goa,6765099,k12_2019_schedule_of_program_operations,PDF page 1; Revenue row Other Alberta school authorities; current-year TOTAL
+2020,2020-21,statement_goa_revenue,7442290617,k12_2020_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2020,2020-21,total_expenses,7895651070,k12_2020_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2020,2020-21,total_amortization,435043678,k12_2020_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2020,2020-21,capital_recognition_education,46432898,k12_2020_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2020,2020-21,capital_recognition_other_goa,296518507,k12_2020_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2020,2020-21,udcc_revenue_education,874691,k12_2020_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2020,2020-21,udcc_revenue_other_goa,544069,k12_2020_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2020,2020-21,interschool_revenue_in_goa,7461200,k12_2020_schedule_of_program_operations,PDF page 1; Revenue row Other Alberta school authorities; current-year TOTAL
+2021,2021-22,statement_goa_revenue,7484308299,k12_2021_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2021,2021-22,total_expenses,8169673854,k12_2021_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2021,2021-22,total_amortization,450782523,k12_2021_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2021,2021-22,capital_recognition_education,56625370,k12_2021_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2021,2021-22,capital_recognition_other_goa,305984760,k12_2021_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2021,2021-22,udcc_revenue_education,1174198,k12_2021_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2021,2021-22,udcc_revenue_other_goa,257833,k12_2021_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2021,2021-22,interschool_revenue_in_goa,7487674,k12_2021_schedule_of_program_operations,PDF page 1; Revenue row Other Alberta school authorities; current-year TOTAL
+2022,2022-23,statement_goa_revenue,7649105742,k12_2022_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2022,2022-23,total_expenses,8476086027,k12_2022_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2022,2022-23,total_amortization,465646709,k12_2022_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2022,2022-23,capital_recognition_education,64494132,k12_2022_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2022,2022-23,capital_recognition_other_goa,302468171,k12_2022_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2022,2022-23,udcc_revenue_education,1166132,k12_2022_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2022,2022-23,udcc_revenue_other_goa,116819,k12_2022_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2022,2022-23,interschool_revenue_in_goa,8180964,k12_2022_schedule_of_program_operations,PDF page 1; Revenue row Other Alberta school authorities; current-year TOTAL
+2023,2023-24,statement_goa_revenue,8050631396,k12_2023_statement_of_operations,PDF page 1; Actual current year; Government of Alberta (before 2018: Alberta Education + Other Government of Alberta)
+2023,2023-24,total_expenses,8955338793,k12_2023_statement_of_operations,PDF page 1; Actual current year; Total expenses
+2023,2023-24,total_amortization,492100123,k12_2023_statement_of_cash_flows,PDF page 1; Actual current year; Total amortization expense / Amortization of tangible capital assets
+2023,2023-24,capital_recognition_education,71594701,k12_2023_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2023,2023-24,capital_recognition_other_goa,301140808,k12_2023_schedule_of_deferred_contributions,PDF page 1; Capital revenue recognized (2014-17) / SDCC-EDCC amounts recognized as revenue (2018+); Alberta Education or Total Other GoA Ministries
+2023,2023-24,udcc_revenue_education,827050,k12_2023_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2023,2023-24,udcc_revenue_other_goa,4945019,k12_2023_schedule_of_deferred_contributions,PDF page 1; UDCC section; transfer (to) grant/donation revenue; Education / Total Other GoA. Sign converted to recognised revenue.
+2023,2023-24,interschool_revenue_in_goa,8617415,k12_2023_schedule_of_program_operations,PDF page 1; Revenue row Other Alberta school authorities; current-year TOTAL

@@ -1,0 +1,795 @@
+year,authority_code,authority_name,category,learners,included,exclusion_reason,source_id,locator
+2016,0009,Foundations for the Future Charter Academy Charter School Society,Charter,3394,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q65
+2016,0012,Suzuki Charter School Society,Charter,317,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q66
+2016,0019,Red Deer Catholic Regional Division No. 39,Separate,9532,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q44
+2016,0020,St. Thomas Aquinas Roman Catholic Separate Regional Division No. 38,Separate,3987,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q45
+2016,0021,Holy Family Catholic Regional Division No. 37,Separate,2130,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q46
+2016,0045,Connect Charter School Society,Charter,613,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q67
+2016,0046,Elk Island Catholic Separate Regional Division No. 41,Separate,6242,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q47
+2016,0047,Living Waters Catholic Regional Division No. 42,Separate,2145,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q48
+2016,0048,Evergreen Catholic Separate Regional Division No. 2,Separate,4102,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q49
+2016,0052,Clearview School Division No. 71,Public,2370,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q2
+2016,0053,Chinook's Edge School Division No. 73,Public,11091,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q3
+2016,0054,Wolf Creek School Division No. 72,Public,7588,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q4
+2016,0056,Westwind School Division No. 74,Public,4506,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q5
+2016,0109,Westmount Charter School Society,Charter,1293,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q68
+2016,0110,Edmonton Catholic Separate School District No. 7,Separate,41175,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q50
+2016,0151,Calgary Arts Academy Society,Charter,533,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q69
+2016,0152,Calgary Girls' School Society,Charter,586,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q70
+2016,0154,Mother Earth's Children's Charter School Society,Charter,75,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q71
+2016,0177,Peace Wapiti School Division No. 76,Public,5954,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q6
+2016,0195,Prairie Rose School Division No. 8,Public,3532,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q7
+2016,0224,Valhalla School Foundation,Charter,88,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q72
+2016,0284,The Southern Francophone Education Region No. 4,Francophone,3379,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q61
+2016,1045,Horizon School Division No. 67,Public,3459,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q8
+2016,1070,Peace River School Division No. 10,Public,2974,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q9
+2016,1085,Grande Yellowhead Public School Division No. 77,Public,4531,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q10
+2016,1110,Sturgeon School Division No. 24,Public,5261,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q11
+2016,1115,Prairie Land Regional Division No. 25,Public,1399,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q12
+2016,1135,Livingstone Range School Division No. 68,Public,3576,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q13
+2016,1155,Buffalo Trail Public Schools Regional Division No. 28,Public,4133,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q14
+2016,1175,Pembina Hills Regional Division No. 7,Public,12629,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q15
+2016,1180,Foothills School Division No. 38,Public,7889,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q16
+2016,1190,Rocky View School Division No. 41,Public,22568,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q17
+2016,1220,High Prairie School Division No. 48,Public,3153,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q18
+2016,1245,Northern Lights School Division No. 69,Public,6015,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q19
+2016,1250,Fort Vermilion School Division No. 52,Public,3408,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q20
+2016,1280,Northland School Division No. 61,Public,2603,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q21
+2016,1325,Wild Rose School Division No. 66,Public,4873,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q22
+2016,2045,Grasslands Regional Division No. 6,Public,3753,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q23
+2016,2115,Wetaskiwin Regional Division No. 11,Public,3940,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q24
+2016,2125,Aspen View Public School Division No. 78,Public,2864,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q25
+2016,2155,Golden Hills School Division No. 75,Public,6868,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q26
+2016,2185,St. Paul Education Regional Division No. 1,Public,4004,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q27
+2016,2195,Elk Island Public Schools Regional Division No. 14,Public,17107,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q28
+2016,2245,Black Gold Regional Division No. 18,Public,11123,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q29
+2016,2255,Palliser Regional Division No. 26,Public,8162,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q30
+2016,2275,Northern Gateway Regional Division No. 10,Public,4898,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q31
+2016,2285,Battle River Regional Division No. 31,Public,6312,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q32
+2016,2305,Parkland School Division No. 70,Public,10809,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q33
+2016,3020,Edmonton School District No. 7,Public,96008,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q34
+2016,3030,Calgary School District No. 19,Public,118793,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q35
+2016,3040,Lethbridge School District No. 51,Public,10717,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q36
+2016,3050,Medicine Hat School District No. 76,Public,7371,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q37
+2016,3065,Canadian Rockies Regional Division No. 12,Public,2273,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q38
+2016,3070,Red Deer Public School District No. 104,Public,10630,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q39
+2016,3170,Lloydminster Public School Division,Public,2791,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q40
+2016,3240,Grande Prairie School District No. 2357,Public,7920,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q41
+2016,3260,Fort McMurray Public School District No. 2833,Public,5193,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q42
+2016,4010,Calgary Roman Catholic Separate School District No. 1,Separate,54829,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q51
+2016,4077,Greater St. Albert Roman Catholic Separate School District No. 734,Separate,5820,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q52
+2016,4105,Lakeland Roman Catholic Separate School District No. 150,Separate,2425,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q53
+2016,4130,Grande Prairie Roman Catholic Separate School District No. 28,Separate,5039,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q54
+2016,4160,Fort McMurray Roman Catholic Separate School District No. 32,Separate,5713,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q55
+2016,4208,Christ the Redeemer Catholic Separate Regional Division No. 3,Separate,10669,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q56
+2016,4330,East Central Alberta Catholic Separate Schools Regional Division No. 16,Separate,2388,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q57
+2016,4481,Holy Spirit Roman Catholic Separate Regional Division No. 4,Separate,5016,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q58
+2016,4501,Medicine Hat Catholic Separate Regional Division No. 20,Separate,2559,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q59
+2016,4870,Lloydminster Roman Catholic Separate School Division,Separate,2444,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q60
+2016,6015,New Horizons Charter School Society,Charter,274,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q73
+2016,6017,Boyle Street Education Centre,Charter,142,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q74
+2016,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,218,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q75
+2016,6020,Aurora School Ltd.,Charter,757,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q76
+2016,6021,Almadina School Society,Charter,1110,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q77
+2016,7020,St. Albert Public School District No. 5565,Public,8126,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q43
+2016,8040,Greater North Central Francophone Education Region No. 2,Francophone,3327,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q62
+2016,8050,Northwest Francophone Education Region No. 1,Francophone,457,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q63
+2016,8060,East Central Francophone Education Region No. 3,Francophone,980,True,,k12_enrolment_2016,'Alberta Authority Enrolment Dat'!Q64
+2017,0009,Foundations for the Future Charter Academy Charter School Society,Charter,3452,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q65
+2017,0012,Suzuki Charter School Society,Charter,323,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q66
+2017,0019,Red Deer Catholic Regional Division No. 39,Separate,10028,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q44
+2017,0020,St. Thomas Aquinas Roman Catholic Separate Regional Division No. 38,Separate,4146,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q45
+2017,0021,Holy Family Catholic Regional Division No. 37,Separate,2071,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q46
+2017,0045,Connect Charter School Society,Charter,617,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q67
+2017,0046,Elk Island Catholic Separate Regional Division No. 41,Separate,6301,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q47
+2017,0047,Living Waters Catholic Regional Division No. 42,Separate,2156,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q48
+2017,0048,Evergreen Catholic Separate Regional Division No. 2,Separate,4174,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q49
+2017,0052,Clearview School Division No. 71,Public,2362,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q2
+2017,0053,Chinook's Edge School Division No. 73,Public,11055,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q3
+2017,0054,Wolf Creek School Division No. 72,Public,7636,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q4
+2017,0056,Westwind School Division No. 74,Public,4523,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q5
+2017,0109,Westmount Charter School Society,Charter,1276,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q68
+2017,0110,Edmonton Catholic Separate School District No. 7,Separate,42375,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q50
+2017,0151,Calgary Arts Academy Society,Charter,509,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q69
+2017,0152,Calgary Girls' School Society,Charter,567,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q70
+2017,0154,Mother Earth's Children's Charter School Society,Charter,70,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q71
+2017,0177,Peace Wapiti School Division No. 76,Public,5957,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q6
+2017,0195,Prairie Rose School Division No. 8,Public,3447,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q7
+2017,0224,Valhalla School Foundation,Charter,99,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q72
+2017,0284,The Southern Francophone Education Region No. 4,Francophone,3452,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q61
+2017,1045,Horizon School Division No. 67,Public,3446,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q8
+2017,1070,Peace River School Division No. 10,Public,3054,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q9
+2017,1085,Grande Yellowhead Public School Division No. 77,Public,4508,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q10
+2017,1110,Sturgeon School Division No. 24,Public,5262,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q11
+2017,1115,Prairie Land Regional Division No. 25,Public,1386,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q12
+2017,1135,Livingstone Range School Division No. 68,Public,3596,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q13
+2017,1155,Buffalo Trail Public Schools Regional Division No. 28,Public,4092,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q14
+2017,1175,Pembina Hills Regional Division No. 7,Public,13286,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q15
+2017,1180,Foothills School Division No. 38,Public,8036,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q16
+2017,1190,Rocky View School Division No. 41,Public,23747,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q17
+2017,1220,High Prairie School Division No. 48,Public,3217,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q18
+2017,1245,Northern Lights School Division No. 69,Public,6191,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q19
+2017,1250,Fort Vermilion School Division No. 52,Public,3442,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q20
+2017,1280,Northland School Division No. 61,Public,2566,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q21
+2017,1325,Wild Rose School Division No. 66,Public,4801,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q22
+2017,2045,Grasslands Regional Division No. 6,Public,3824,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q23
+2017,2115,Wetaskiwin Regional Division No. 11,Public,3936,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q24
+2017,2125,Aspen View Public School Division No. 78,Public,2775,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q25
+2017,2155,Golden Hills School Division No. 75,Public,7023,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q26
+2017,2185,St. Paul Education Regional Division No. 1,Public,3918,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q27
+2017,2195,Elk Island Public Schools Regional Division No. 14,Public,17052,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q28
+2017,2245,Black Gold Regional Division No. 18,Public,11505,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q29
+2017,2255,Palliser Regional Division No. 26,Public,8337,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q30
+2017,2275,Northern Gateway Regional Division No. 10,Public,4888,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q31
+2017,2285,Battle River Regional Division No. 31,Public,6226,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q32
+2017,2305,Parkland School Division No. 70,Public,11165,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q33
+2017,3020,Edmonton School District No. 7,Public,99398,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q34
+2017,3030,Calgary School District No. 19,Public,121369,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q35
+2017,3040,Lethbridge School District No. 51,Public,11244,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q36
+2017,3050,Medicine Hat School District No. 76,Public,7391,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q37
+2017,3065,Canadian Rockies Regional Division No. 12,Public,2265,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q38
+2017,3070,Red Deer Public School District No. 104,Public,10788,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q39
+2017,3170,Lloydminster Public School Division,Public,2908,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q40
+2017,3240,Grande Prairie School District No. 2357,Public,8168,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q41
+2017,3260,Fort McMurray Public School District No. 2833,Public,5504,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q42
+2017,4010,Calgary Roman Catholic Separate School District No. 1,Separate,55227,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q51
+2017,4077,Greater St. Albert Roman Catholic Separate School District No. 734,Separate,5698,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q52
+2017,4105,Lakeland Roman Catholic Separate School District No. 150,Separate,2391,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q53
+2017,4130,Grande Prairie Roman Catholic Separate School District No. 28,Separate,5121,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q54
+2017,4160,Fort McMurray Roman Catholic Separate School District No. 32,Separate,6114,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q55
+2017,4208,Christ the Redeemer Catholic Separate Regional Division No. 3,Separate,10406,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q56
+2017,4330,East Central Alberta Catholic Separate Schools Regional Division No. 16,Separate,2448,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q57
+2017,4481,Holy Spirit Roman Catholic Separate Regional Division No. 4,Separate,5008,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q58
+2017,4501,Medicine Hat Roman Catholic Separate School District No. 21,Separate,2584,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q59
+2017,4870,Lloydminster Roman Catholic Separate School Division,Separate,2439,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q60
+2017,6015,New Horizons Charter School Society,Charter,317,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q73
+2017,6017,Boyle Street Education Centre,Charter,144,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q74
+2017,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,213,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q75
+2017,6020,Aurora School Ltd.,Charter,826,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q76
+2017,6021,Almadina School Society,Charter,1117,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q77
+2017,7020,St. Albert Public School District No. 5565,Public,8367,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q43
+2017,8040,Greater North Central Francophone Education Region No. 2,Francophone,3444,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q62
+2017,8050,Northwest Francophone Education Region No. 1,Francophone,463,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q63
+2017,8060,East Central Francophone Education Region No. 3,Francophone,1039,True,,k12_enrolment_2017,'Alberta Authority Enrolment Dat'!Q64
+2018,0009,Foundations for the Future Charter Academy Charter School Society,Charter,3482,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q65
+2018,0012,Suzuki Charter School Society,Charter,324,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q66
+2018,0019,Red Deer Catholic Regional Division No. 39,Separate,10241,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q44
+2018,0020,St. Thomas Aquinas Roman Catholic Separate Regional Division No. 38,Separate,4316,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q45
+2018,0021,Holy Family Catholic Regional Division No. 37,Separate,2076,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q46
+2018,0045,Connect Charter School Society,Charter,620,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q67
+2018,0046,Elk Island Catholic Separate Regional Division No. 41,Separate,7863,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q47
+2018,0047,Living Waters Catholic Regional Division No. 42,Separate,2077,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q48
+2018,0048,Evergreen Catholic Separate Regional Division No. 2,Separate,4262,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q49
+2018,0052,Clearview School Division No. 71,Public,2439,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q2
+2018,0053,Chinook's Edge School Division No. 73,Public,11039,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q3
+2018,0054,Wolf Creek School Division No. 72,Public,7699,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q4
+2018,0056,Westwind School Division No. 74,Public,4636,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q5
+2018,0109,Westmount Charter School Society,Charter,1300,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q68
+2018,0110,Edmonton Catholic Separate School District No. 7,Separate,42944,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q50
+2018,0151,Calgary Arts Academy Society,Charter,486,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q69
+2018,0152,Calgary Girls' School Society,Charter,503,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q70
+2018,0154,Mother Earth's Children's Charter School Society,Charter,68,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q71
+2018,0177,Peace Wapiti School Division No. 76,Public,6113,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q6
+2018,0195,Prairie Rose School Division No. 8,Public,3428,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q7
+2018,0224,Valhalla School Foundation,Charter,88,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q72
+2018,0284,The Southern Francophone Education Region No. 4,Francophone,3460,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q61
+2018,1045,Horizon School Division No. 67,Public,3541,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q8
+2018,1070,Peace River School Division No. 10,Public,3046,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q9
+2018,1085,Grande Yellowhead Public School Division No. 77,Public,4561,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q10
+2018,1110,Sturgeon School Division No. 24,Public,5331,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q11
+2018,1115,Prairie Land Regional Division No. 25,Public,1350,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q12
+2018,1135,Livingstone Range School Division No. 68,Public,3598,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q13
+2018,1155,Buffalo Trail Public Schools Regional Division No. 28,Public,3992,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q14
+2018,1175,Pembina Hills Regional Division No. 7,Public,10153,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q15
+2018,1180,Foothills School Division No. 38,Public,7995,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q16
+2018,1190,Rocky View School Division No. 41,Public,24680,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q17
+2018,1220,High Prairie School Division No. 48,Public,3193,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q18
+2018,1245,Northern Lights School Division No. 69,Public,6179,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q19
+2018,1250,Fort Vermilion School Division No. 52,Public,3552,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q20
+2018,1280,Northland School Division No. 61,Public,1993,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q21
+2018,1325,Wild Rose School Division No. 66,Public,4790,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q22
+2018,2045,Grasslands Regional Division No. 6,Public,3761,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q23
+2018,2115,Wetaskiwin Regional Division No. 11,Public,3947,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q24
+2018,2125,Aspen View Public School Division No. 78,Public,2833,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q25
+2018,2155,Golden Hills School Division No. 75,Public,7186,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q26
+2018,2185,St. Paul Education Regional Division No. 1,Public,3825,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q27
+2018,2195,Elk Island Public Schools Regional Division No. 14,Public,17250,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q28
+2018,2245,Black Gold Regional Division No. 18,Public,11826,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q29
+2018,2255,Palliser Regional Division No. 26,Public,8546,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q30
+2018,2275,Northern Gateway Regional Division No. 10,Public,4903,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q31
+2018,2285,Battle River Regional Division No. 31,Public,6077,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q32
+2018,2305,Parkland School Division No. 70,Public,11279,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q33
+2018,3020,Edmonton School District No. 7,Public,102133,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q34
+2018,3030,Calgary School District No. 19,Public,122631,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q35
+2018,3040,Lethbridge School District No. 51,Public,11464,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q36
+2018,3050,Medicine Hat Public School District No. 76,Public,7450,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q37
+2018,3065,Canadian Rockies Regional Division No. 12,Public,2259,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q38
+2018,3070,Red Deer Public School District No. 104,Public,11105,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q39
+2018,3170,Lloydminster Public School Division,Public,2963,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q40
+2018,3240,Grande Prairie School District No. 2357,Public,8282,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q41
+2018,3260,Fort McMurray Public School District No. 2833,Public,5979,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q42
+2018,4010,Calgary Roman Catholic Separate School District No. 1,Separate,56724,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q51
+2018,4077,Greater St. Albert Roman Catholic Separate School District No. 734,Separate,5795,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q52
+2018,4105,Lakeland Roman Catholic Separate School District No. 150,Separate,2552,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q53
+2018,4130,Grande Prairie Roman Catholic Separate School District No. 28,Separate,5384,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q54
+2018,4160,Fort McMurray Roman Catholic Separate School District No. 32,Separate,6439,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q55
+2018,4208,Christ the Redeemer Catholic Separate Regional Division No. 3,Separate,10030,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q56
+2018,4330,East Central Alberta Catholic Separate Schools Regional Division No. 16,Separate,2448,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q57
+2018,4481,Holy Spirit Roman Catholic Separate Regional Division No. 4,Separate,5065,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q58
+2018,4501,Medicine Hat Roman Catholic Separate School District No. 21,Separate,2609,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q59
+2018,4870,Lloydminster Roman Catholic Separate School Division,Separate,2447,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q60
+2018,6015,New Horizons Charter School Society,Charter,353,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q73
+2018,6017,Boyle Street Education Centre,Charter,137,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q74
+2018,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,199,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q75
+2018,6020,Aurora School Ltd.,Charter,875,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q76
+2018,6021,Almadina School Society,Charter,1141,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q77
+2018,7020,St. Albert Public School District No. 5565,Public,8703,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q43
+2018,8040,Greater North Central Francophone Education Region No. 2,Francophone,3416,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q62
+2018,8050,Northwest Francophone Education Region No. 1,Francophone,440,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q63
+2018,8060,East Central Francophone Education Region No. 3,Francophone,1301,True,,k12_enrolment_2018,'Alberta Authority Enrolment Dat'!Q64
+2019,0009,Foundations for the Future Charter Academy Charter School Society,Charter,3663,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q65
+2019,0012,Suzuki Charter School Society,Charter,332,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q66
+2019,0019,The Red Deer Catholic Separate School Division,Separate,10382,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q44
+2019,0020,The St. Thomas Aquinas Roman Catholic Separate School Division,Separate,4450,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q45
+2019,0021,The Holy Family Catholic Separate School Division,Separate,2067,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q46
+2019,0045,Connect Charter School Society,Charter,624,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q67
+2019,0046,The Elk Island Catholic Separate School Division,Separate,7976,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q47
+2019,0047,The Living Waters Catholic Separate School Division,Separate,1984,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q48
+2019,0048,The Evergreen Catholic Separate School Division,Separate,4315,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q49
+2019,0052,The Clearview School Division,Public,2386,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q2
+2019,0053,The Chinook's Edge School Division,Public,11093,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q3
+2019,0054,The Wolf Creek School Division,Public,7813,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q4
+2019,0056,The Westwind School Division,Public,4582,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q5
+2019,0109,Westmount Charter School Society,Charter,1304,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q68
+2019,0110,The Edmonton Catholic Separate School Division,Separate,44138,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q50
+2019,0151,Calgary Arts Academy Society,Charter,503,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q69
+2019,0152,Calgary Girls' School Society,Charter,509,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q70
+2019,0154,Mother Earth's Children's Charter School Society,Charter,52,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q71
+2019,0177,The Peace Wapiti School Division,Public,6093,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q6
+2019,0195,The Prairie Rose School Division,Public,3349,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q7
+2019,0224,Valhalla School Foundation,Charter,96,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q72
+2019,0284,The Southern Francophone Education Region,Francophone,3704,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q61
+2019,1045,The Horizon School Division,Public,3506,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q8
+2019,1070,The Peace River School Division,Public,3069,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q9
+2019,1085,The Grande Yellowhead School Division,Public,4607,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q10
+2019,1110,The Sturgeon School Division,Public,5313,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q11
+2019,1115,The Prairie Land School Division,Public,1376,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q12
+2019,1135,The Livingstone Range School Division,Public,3663,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q13
+2019,1155,The Buffalo Trail School Division,Public,3973,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q14
+2019,1175,The Pembina Hills School Division,Public,7013,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q15
+2019,1180,The Foothills School Division,Public,8106,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q16
+2019,1190,The Rocky View School Division,Public,25645,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q17
+2019,1220,The High Prairie School Division,Public,3114,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q18
+2019,1245,The Northern Lights School Division,Public,6137,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q19
+2019,1250,The Fort Vermilion School Division,Public,3744,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q20
+2019,1280,The Northland School Division,Public,1986,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q21
+2019,1325,The Wild Rose School Division,Public,4724,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q22
+2019,2045,The Grasslands School Division,Public,3821,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q23
+2019,2115,The Wetaskiwin School Division,Public,3887,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q24
+2019,2125,The Aspen View School Division,Public,2759,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q25
+2019,2155,The Golden Hills School Division,Public,7323,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q26
+2019,2185,The St. Paul School Division,Public,3872,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q27
+2019,2195,The Elk Island School Division,Public,17476,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q28
+2019,2245,The Black Gold School Division,Public,12242,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q29
+2019,2255,The Palliser School Division,Public,8699,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q30
+2019,2275,The Northern Gateway School Division,Public,5014,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q31
+2019,2285,The Battle River School Division,Public,5971,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q32
+2019,2305,The Parkland School Division,Public,11627,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q33
+2019,3020,The Edmonton School Division,Public,105428,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q34
+2019,3030,The Calgary School Division,Public,125521,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q35
+2019,3040,The Lethbridge School Division,Public,11802,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q36
+2019,3050,The Medicine Hat School Division,Public,7418,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q37
+2019,3065,The Canadian Rockies School Division,Public,2177,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q38
+2019,3070,The Red Deer School Division,Public,11196,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q39
+2019,3170,Lloydminster Public School Division,Public,2959,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q40
+2019,3240,The Grande Prairie School Division,Public,8303,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q41
+2019,3260,The Fort McMurray School Division,Public,6351,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q42
+2019,4010,The Calgary Roman Catholic Separate School Division,Separate,57917,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q51
+2019,4077,The Greater St. Albert Roman Catholic Separate School Division,Separate,5714,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q52
+2019,4105,The Lakeland Roman Catholic Separate School Division,Separate,2601,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q53
+2019,4130,The Grande Prairie Roman Catholic Separate School Division,Separate,5580,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q54
+2019,4160,The Fort McMurray Roman Catholic Separate School Division,Separate,6703,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q55
+2019,4208,The Christ the Redeemer Catholic Separate School Division,Separate,9699,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q56
+2019,4330,The East Central Alberta Catholic Separate School Division,Separate,2364,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q57
+2019,4481,The Holy Spirit Roman Catholic Separate School Division,Separate,5132,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q58
+2019,4501,The Medicine Hat Roman Catholic Separate School Division,Separate,2654,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q59
+2019,4870,Lloydminster Roman Catholic Separate School Division,Separate,2452,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q60
+2019,6015,New Horizons Charter School Society,Charter,390,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q73
+2019,6017,Boyle Street Education Centre,Charter,151,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q74
+2019,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,252,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q75
+2019,6020,Aurora School Ltd.,Charter,872,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q76
+2019,6021,Almadina School Society,Charter,1170,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q77
+2019,7020,The St. Albert School Division,Public,8915,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q43
+2019,8040,The Greater North Central Francophone Education Region,Francophone,3798,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q62
+2019,8050,The Northwest Francophone Education Region,Francophone,489,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q63
+2019,8060,The East Central Francophone Education Region,Francophone,907,True,,k12_enrolment_2019,'Alberta Authority Enrolment Dat'!Q64
+2020,0009,Foundations for the Future Charter Academy Charter School Society,Charter,3702,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q65
+2020,0012,Suzuki Charter School Society,Charter,357,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q66
+2020,0019,The Red Deer Catholic Separate School Division,Separate,10297,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q44
+2020,0020,The St. Thomas Aquinas Roman Catholic Separate School Division,Separate,4251,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q45
+2020,0021,The Holy Family Catholic Separate School Division,Separate,1909,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q46
+2020,0045,Connect Charter School Society,Charter,630,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q67
+2020,0046,The Elk Island Catholic Separate School Division,Separate,9231,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q47
+2020,0047,The Living Waters Catholic Separate School Division,Separate,1801,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q48
+2020,0048,The Evergreen Catholic Separate School Division,Separate,4060,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q49
+2020,0052,The Clearview School Division,Public,2446,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q2
+2020,0053,The Chinook's Edge School Division,Public,10764,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q3
+2020,0054,The Wolf Creek School Division,Public,7170,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q4
+2020,0056,The Westwind School Division,Public,4507,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q5
+2020,0109,Westmount Charter School Society,Charter,1311,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q68
+2020,0110,The Edmonton Catholic Separate School Division,Separate,43289,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q50
+2020,0151,Calgary Arts Academy Society,Charter,490,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q69
+2020,0152,Calgary Girls' School Society,Charter,503,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q70
+2020,0154,Mother Earth's Children's Charter School Society,Charter,48,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q71
+2020,0177,The Peace Wapiti School Division,Public,5948,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q6
+2020,0195,The Prairie Rose School Division,Public,3523,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q7
+2020,0224,Valhalla School Foundation,Charter,87,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q72
+2020,0284,The Southern Francophone Education Region,Francophone,3560,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q61
+2020,1045,The Horizon School Division,Public,3374,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q8
+2020,1070,The Peace River School Division,Public,3087,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q9
+2020,1085,The Grande Yellowhead School Division,Public,4370,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q10
+2020,1110,The Sturgeon School Division,Public,4921,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q11
+2020,1115,The Prairie Land School Division,Public,2498,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q12
+2020,1135,The Livingstone Range School Division,Public,3628,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q13
+2020,1155,The Buffalo Trail School Division,Public,3901,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q14
+2020,1175,The Pembina Hills School Division,Public,7147,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q15
+2020,1180,The Foothills School Division,Public,7748,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q16
+2020,1190,The Rocky View School Division,Public,25257,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q17
+2020,1220,The High Prairie School Division,Public,2976,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q18
+2020,1245,The Northern Lights School Division,Public,5742,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q19
+2020,1250,The Fort Vermilion School Division,Public,3491,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q20
+2020,1280,The Northland School Division,Public,1872,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q21
+2020,1325,The Wild Rose School Division,Public,4522,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q22
+2020,2045,The Grasslands School Division,Public,3627,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q23
+2020,2115,The Wetaskiwin School Division,Public,3527,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q24
+2020,2125,The Aspen View School Division,Public,2628,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q25
+2020,2155,The Golden Hills School Division,Public,8239,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q26
+2020,2185,The St. Paul School Division,Public,3897,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q27
+2020,2195,The Elk Island School Division,Public,16992,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q28
+2020,2245,The Black Gold School Division,Public,12253,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q29
+2020,2255,The Palliser School Division,Public,8660,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q30
+2020,2275,The Northern Gateway School Division,Public,4541,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q31
+2020,2285,The Battle River School Division,Public,5538,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q32
+2020,2305,The Parkland School Division,Public,11535,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q33
+2020,3020,The Edmonton School Division,Public,103801,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q34
+2020,3030,The Calgary School Division,Public,122421,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q35
+2020,3040,The Lethbridge School Division,Public,11273,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q36
+2020,3050,The Medicine Hat School Division,Public,7079,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q37
+2020,3065,The Canadian Rockies School Division,Public,2058,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q38
+2020,3070,The Red Deer School Division,Public,10775,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q39
+2020,3170,Lloydminster Public School Division,Public,2715,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2020,'Authority Enrolment Data'!Q40
+2020,3240,The Grande Prairie School Division,Public,7891,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q41
+2020,3260,The Fort McMurray School Division,Public,6328,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q42
+2020,4010,The Calgary Roman Catholic Separate School Division,Separate,56318,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q51
+2020,4077,The Greater St. Albert Roman Catholic Separate School Division,Separate,5469,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q52
+2020,4105,The Lakeland Roman Catholic Separate School Division,Separate,2462,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q53
+2020,4130,The Grande Prairie Roman Catholic Separate School Division,Separate,5244,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q54
+2020,4160,The Fort McMurray Roman Catholic Separate School Division,Separate,6437,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q55
+2020,4208,The Christ the Redeemer Catholic Separate School Division,Separate,10837,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q56
+2020,4330,The East Central Alberta Catholic Separate School Division,Separate,2906,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q57
+2020,4481,The Holy Spirit Roman Catholic Separate School Division,Separate,5027,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q58
+2020,4501,The Medicine Hat Roman Catholic Separate School Division,Separate,2655,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q59
+2020,4870,Lloydminster Roman Catholic Separate School Division,Separate,2496,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2020,'Authority Enrolment Data'!Q60
+2020,6015,New Horizons Charter School Society,Charter,406,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q73
+2020,6017,Boyle Street Education Centre,Charter,132,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q74
+2020,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,266,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q75
+2020,6020,Aurora School Ltd.,Charter,873,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q76
+2020,6021,Almadina School Society,Charter,1207,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q77
+2020,7020,The St. Albert School Division,Public,8908,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q43
+2020,8040,The Greater North Central Francophone Education Region,Francophone,3741,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q62
+2020,8050,The Northwest Francophone Education Region,Francophone,467,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q63
+2020,8060,The East Central Francophone Education Region,Francophone,805,True,,k12_enrolment_2020,'Authority Enrolment Data'!Q64
+2021,0009,Foundations for the Future Charter Academy Charter School Society,Charter,3728,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q65
+2021,0012,Suzuki Charter School Society,Charter,383,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q66
+2021,0019,The Red Deer Catholic Separate School Division,Separate,10208,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q44
+2021,0020,The St. Thomas Aquinas Roman Catholic Separate School Division,Separate,4361,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q45
+2021,0021,The Holy Family Catholic Separate School Division,Separate,1781,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q46
+2021,0045,Connect Charter School Society,Charter,622,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q67
+2021,0046,The Elk Island Catholic Separate School Division,Separate,8542,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q47
+2021,0047,The Living Waters Catholic Separate School Division,Separate,1697,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q48
+2021,0048,The Evergreen Catholic Separate School Division,Separate,3958,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q49
+2021,0052,The Clearview School Division,Public,2409,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q2
+2021,0053,The Chinook's Edge School Division,Public,10989,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q3
+2021,0054,The Wolf Creek School Division,Public,7466,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q4
+2021,0056,The Westwind School Division,Public,4567,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q5
+2021,0109,Westmount Charter School Society,Charter,1290,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q68
+2021,0110,The Edmonton Catholic Separate School Division,Separate,43074,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q50
+2021,0151,Calgary Arts Academy Society,Charter,494,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q69
+2021,0152,Calgary Girls' School Society,Charter,506,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q70
+2021,0154,Mother Earth's Children's Charter School Society,Charter,48,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q71
+2021,0177,The Peace Wapiti School Division,Public,6071,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q6
+2021,0195,The Prairie Rose School Division,Public,3508,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q7
+2021,0224,Valhalla School Foundation,Charter,94,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q72
+2021,0284,The Southern Francophone Education Region,Francophone,3662,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q61
+2021,0369,New Humble Community School Association,Charter,89,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q73
+2021,0370,STEM Innovation Academy Society,Charter,406,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q74
+2021,1045,The Horizon School Division,Public,3415,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q8
+2021,1070,The Peace River School Division,Public,3117,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q9
+2021,1085,The Grande Yellowhead School Division,Public,4520,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q10
+2021,1110,The Sturgeon School Division,Public,5078,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q11
+2021,1115,The Prairie Land School Division,Public,2852,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q12
+2021,1135,The Livingstone Range School Division,Public,3752,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q13
+2021,1155,The Buffalo Trail School Division,Public,3815,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q14
+2021,1175,The Pembina Hills School Division,Public,6076,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q15
+2021,1180,The Foothills School Division,Public,8012,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q16
+2021,1190,The Rocky View School Division,Public,26571,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q17
+2021,1220,The High Prairie School Division,Public,2920,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q18
+2021,1245,The Northern Lights School Division,Public,5762,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q19
+2021,1250,The Fort Vermilion School Division,Public,3623,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q20
+2021,1280,The Northland School Division,Public,1831,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q21
+2021,1325,The Wild Rose School Division,Public,4539,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q22
+2021,2045,The Grasslands School Division,Public,3590,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q23
+2021,2115,The Wetaskiwin School Division,Public,3520,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q24
+2021,2125,The Aspen View School Division,Public,2583,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q25
+2021,2155,The Golden Hills School Division,Public,8014,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q26
+2021,2185,The St. Paul School Division,Public,3815,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q27
+2021,2195,The Elk Island School Division,Public,17100,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q28
+2021,2245,The Black Gold School Division,Public,12592,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q29
+2021,2255,The Palliser School Division,Public,9015,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q30
+2021,2275,The Northern Gateway School Division,Public,4598,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q31
+2021,2285,The Battle River School Division,Public,5661,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q32
+2021,2305,The Parkland School Division,Public,12018,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q33
+2021,3020,The Edmonton School Division,Public,105549,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q34
+2021,3030,The Calgary School Division,Public,125176,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q35
+2021,3040,The Lethbridge School Division,Public,11651,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q36
+2021,3050,The Medicine Hat School Division,Public,6962,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q37
+2021,3065,The Canadian Rockies School Division,Public,2062,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q38
+2021,3070,The Red Deer School Division,Public,10858,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q39
+2021,3170,Lloydminster Public School Division,Public,2931,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q40
+2021,3240,The Grande Prairie School Division,Public,8039,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q41
+2021,3260,The Fort McMurray School Division,Public,6699,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q42
+2021,4010,The Calgary Roman Catholic Separate School Division,Separate,56693,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q51
+2021,4077,The Greater St. Albert Roman Catholic Separate School Division,Separate,5309,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q52
+2021,4105,The Lakeland Roman Catholic Separate School Division,Separate,2634,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q53
+2021,4130,The Grande Prairie Roman Catholic Separate School Division,Separate,5395,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q54
+2021,4160,The Fort McMurray Roman Catholic Separate School Division,Separate,6672,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q55
+2021,4208,The Christ the Redeemer Catholic Separate School Division,Separate,10217,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q56
+2021,4330,The East Central Alberta Catholic Separate School Division,Separate,2674,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q57
+2021,4481,The Holy Spirit Roman Catholic Separate School Division,Separate,4983,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q58
+2021,4501,The Medicine Hat Roman Catholic Separate School Division,Separate,2767,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q59
+2021,4870,Lloydminster Roman Catholic Separate School Division,Separate,2471,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q60
+2021,6015,New Horizons Charter School Society,Charter,427,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q75
+2021,6017,Boyle Street Education Centre,Charter,115,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q76
+2021,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,296,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q77
+2021,6020,Aurora School Ltd.,Charter,871,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q78
+2021,6021,Almadina School Society,Charter,1206,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q79
+2021,7020,The St. Albert School Division,Public,9036,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q43
+2021,8040,The Greater North Central Francophone Education Region,Francophone,3871,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q62
+2021,8050,The Northwest Francophone Education Region,Francophone,476,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q63
+2021,8060,The East Central Francophone Education Region,Francophone,756,True,,k12_enrolment_2021,'Alberta Authority Enrolment Dat'!Q64
+2022,0009,Foundations for the Future Charter Academy Charter School Society,Charter,3756,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R65
+2022,0012,Suzuki Charter School Society,Charter,391,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R66
+2022,0019,The Red Deer Catholic Separate School Division,Separate,10350,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R44
+2022,0020,The St. Thomas Aquinas Roman Catholic Separate School Division,Separate,4534,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R45
+2022,0021,The Holy Family Catholic Separate School Division,Separate,1707,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R46
+2022,0045,Connect Charter School Society,Charter,621,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R67
+2022,0046,The Elk Island Catholic Separate School Division,Separate,8138,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R47
+2022,0047,The Living Waters Catholic Separate School Division,Separate,1738,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R48
+2022,0048,The Evergreen Catholic Separate School Division,Separate,3894,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R49
+2022,0052,The Clearview School Division,Public,2477,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R2
+2022,0053,The Chinook's Edge School Division,Public,11033,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R3
+2022,0054,The Wolf Creek School Division,Public,7668,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R4
+2022,0056,The Westwind School Division,Public,4650,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R5
+2022,0109,Westmount Charter School Society,Charter,1299,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R68
+2022,0110,The Edmonton Catholic Separate School Division,Separate,45099,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R50
+2022,0151,Calgary Arts Academy Society,Charter,571,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R69
+2022,0152,Calgary Girls' School Society,Charter,471,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R70
+2022,0154,Mother Earth's Children's Charter School Society,Charter,43,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R71
+2022,0177,The Peace Wapiti School Division,Public,6265,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R6
+2022,0195,The Prairie Rose School Division,Public,3615,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R7
+2022,0224,Valhalla School Foundation,Charter,81,False,Valhalla financial statements absent from 2022-23 rollup,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R72
+2022,0284,The Southern Francophone Education Region,Francophone,3890,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R61
+2022,0369,New Humble Community School Association,Charter,117,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R73
+2022,0370,STEM Innovation Academy Society,Charter,557,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R74
+2022,0395,Alberta Classical Academy Ltd.,Charter,293,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R75
+2022,0399,Holden Rural Academy Society,Charter,55,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R76
+2022,1045,The Horizon School Division,Public,3488,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R8
+2022,1070,The Peace River School Division,Public,2978,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R9
+2022,1085,The Grande Yellowhead School Division,Public,4550,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R10
+2022,1110,The Sturgeon School Division,Public,5208,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R11
+2022,1115,The Prairie Land School Division,Public,2992,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R12
+2022,1135,The Livingstone Range School Division,Public,3743,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R13
+2022,1155,The Buffalo Trail School Division,Public,3733,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R14
+2022,1175,The Pembina Hills School Division,Public,5665,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R15
+2022,1180,The Foothills School Division,Public,8124,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R16
+2022,1190,The Rocky View School Division,Public,27572,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R17
+2022,1220,The High Prairie School Division,Public,2901,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R18
+2022,1245,The Northern Lights School Division,Public,5953,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R19
+2022,1250,The Fort Vermilion School Division,Public,3783,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R20
+2022,1280,The Northland School Division,Public,1647,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R21
+2022,1325,The Wild Rose School Division,Public,4605,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R22
+2022,2045,The Grasslands School Division,Public,3637,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R23
+2022,2115,The Wetaskiwin School Division,Public,3450,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R24
+2022,2125,The Aspen View School Division,Public,2710,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R25
+2022,2155,The Golden Hills School Division,Public,8052,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R26
+2022,2185,The St. Paul School Division,Public,3828,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R27
+2022,2195,The Elk Island School Division,Public,17420,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R28
+2022,2245,The Black Gold School Division,Public,12890,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R29
+2022,2255,The Palliser School Division,Public,9299,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R30
+2022,2275,The Northern Gateway School Division,Public,4707,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R31
+2022,2285,The Battle River School Division,Public,5792,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R32
+2022,2305,The Parkland School Division,Public,12389,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R33
+2022,3020,The Edmonton School Division,Public,110151,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R34
+2022,3030,The Calgary School Division,Public,131140,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R35
+2022,3040,The Lethbridge School Division,Public,11934,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R36
+2022,3050,The Medicine Hat School Division,Public,6983,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R37
+2022,3065,The Canadian Rockies School Division,Public,2115,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R38
+2022,3070,The Red Deer School Division,Public,11117,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R39
+2022,3170,Lloydminster Public School Division,Public,3060,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R40
+2022,3240,The Grande Prairie School Division,Public,8407,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R41
+2022,3260,The Fort McMurray School Division,Public,7205,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R42
+2022,4010,The Calgary Roman Catholic Separate School Division,Separate,58784,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R51
+2022,4077,The Greater St. Albert Roman Catholic Separate School Division,Separate,5472,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R52
+2022,4105,The Lakeland Roman Catholic Separate School Division,Separate,2595,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R53
+2022,4130,The Grande Prairie Roman Catholic Separate School Division,Separate,5477,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R54
+2022,4160,The Fort McMurray Roman Catholic Separate School Division,Separate,6679,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R55
+2022,4208,The Christ the Redeemer Catholic Separate School Division,Separate,10071,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R56
+2022,4330,The East Central Alberta Catholic Separate School Division,Separate,2437,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R57
+2022,4481,The Holy Spirit Roman Catholic Separate School Division,Separate,5114,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R58
+2022,4501,The Medicine Hat Roman Catholic Separate School Division,Separate,2931,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R59
+2022,4870,Lloydminster Roman Catholic Separate School Division,Separate,2568,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R60
+2022,6015,New Horizons Charter School Society,Charter,427,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R77
+2022,6017,Boyle Street Education Centre,Charter,133,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R78
+2022,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,287,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R79
+2022,6020,Aurora School Ltd.,Charter,912,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R80
+2022,6021,Almadina School Society,Charter,1243,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R81
+2022,7020,The St. Albert School Division,Public,9284,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R43
+2022,8040,The Greater North Central Francophone Education Region,Francophone,3989,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R62
+2022,8050,The Northwest Francophone Education Region,Francophone,484,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R63
+2022,8060,The East Central Francophone Education Region,Francophone,724,True,,k12_enrolment_2022,'Alberta Authority Enrolment Dat'!R64
+2023,0009,Foundations for the Future Charter Academy Charter School Society,Charter,3771,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R65
+2023,0012,Suzuki Charter School Society,Charter,393,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R66
+2023,0019,The Red Deer Catholic Separate School Division,Separate,10649,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R44
+2023,0020,The St. Thomas Aquinas Roman Catholic Separate School Division,Separate,4750,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R45
+2023,0021,The Holy Family Catholic Separate School Division,Separate,1727,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R46
+2023,0045,Connect Charter School Society,Charter,624,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R67
+2023,0046,The Elk Island Catholic Separate School Division,Separate,8810,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R47
+2023,0047,The Living Waters Catholic Separate School Division,Separate,1760,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R48
+2023,0048,The Evergreen Catholic Separate School Division,Separate,4058,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R49
+2023,0052,The Clearview School Division,Public,2478,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R2
+2023,0053,The Chinook's Edge School Division,Public,11088,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R3
+2023,0054,The Wolf Creek School Division,Public,7722,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R4
+2023,0056,The Westwind School Division,Public,4612,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R5
+2023,0109,Westmount Charter School Society,Charter,1306,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R68
+2023,0110,The Edmonton Catholic Separate School Division,Separate,47715,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R50
+2023,0151,Calgary Arts Academy Society,Charter,599,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R69
+2023,0152,Calgary Girls' School Society,Charter,469,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R70
+2023,0154,Mother Earth's Children's Charter School Society,Charter,21,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R71
+2023,0177,The Peace Wapiti School Division,Public,6272,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R6
+2023,0195,The Prairie Rose School Division,Public,3690,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R7
+2023,0224,Valhalla School Foundation,Charter,64,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R72
+2023,0284,The Southern Francophone Education Region,Francophone,3998,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R61
+2023,0369,New Humble Community School Association,Charter,128,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R73
+2023,0370,STEM Innovation Academy Society,Charter,837,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R74
+2023,0395,Alberta Classical Academy Ltd.,Charter,851,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R75
+2023,0399,Holden Rural Academy Society,Charter,91,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R76
+2023,0400,STEM Collegiate Canada Society,Charter,257,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R77
+2023,1045,The Horizon School Division,Public,3521,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R8
+2023,1070,The Peace River School Division,Public,3050,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R9
+2023,1085,The Grande Yellowhead School Division,Public,4507,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R10
+2023,1110,The Sturgeon School Division,Public,5205,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R11
+2023,1115,The Prairie Land School Division,Public,3245,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R12
+2023,1135,The Livingstone Range School Division,Public,3785,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R13
+2023,1155,The Buffalo Trail School Division,Public,3665,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R14
+2023,1175,The Pembina Hills School Division,Public,5696,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R15
+2023,1180,The Foothills School Division,Public,8047,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R16
+2023,1190,The Rocky View School Division,Public,28555,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R17
+2023,1220,The High Prairie School Division,Public,2880,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R18
+2023,1245,The Northern Lights School Division,Public,6002,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R19
+2023,1250,The Fort Vermilion School Division,Public,3995,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R20
+2023,1280,The Northland School Division,Public,1649,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R21
+2023,1325,The Wild Rose School Division,Public,4600,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R22
+2023,2045,The Grasslands School Division,Public,3553,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R23
+2023,2115,The Wetaskiwin School Division,Public,3439,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R24
+2023,2125,The Aspen View School Division,Public,2696,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R25
+2023,2155,The Golden Hills School Division,Public,8256,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R26
+2023,2185,The St. Paul School Division,Public,3673,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R27
+2023,2195,The Elk Island School Division,Public,17749,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R28
+2023,2245,The Black Gold School Division,Public,13115,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R29
+2023,2255,The Palliser School Division,Public,9482,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R30
+2023,2275,The Northern Gateway School Division,Public,4728,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R31
+2023,2285,The Battle River School Division,Public,5902,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R32
+2023,2305,The Parkland School Division,Public,12571,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R33
+2023,2473,Thrive Charter School Society,Charter,101,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R78
+2023,3020,The Edmonton School Division,Public,115420,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R34
+2023,3030,The Calgary School Division,Public,138079,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R35
+2023,3040,The Lethbridge School Division,Public,12209,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R36
+2023,3050,The Medicine Hat School Division,Public,6874,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R37
+2023,3065,The Canadian Rockies School Division,Public,2133,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R38
+2023,3070,The Red Deer School Division,Public,11380,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R39
+2023,3170,Lloydminster Public School Division,Public,3128,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R40
+2023,3240,The Grande Prairie School Division,Public,8800,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R41
+2023,3260,The Fort McMurray School Division,Public,7743,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R42
+2023,4010,The Calgary Roman Catholic Separate School Division,Separate,61478,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R51
+2023,4077,The Greater St. Albert Roman Catholic Separate School Division,Separate,5548,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R52
+2023,4105,The Lakeland Roman Catholic Separate School Division,Separate,2690,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R53
+2023,4130,The Grande Prairie Roman Catholic Separate School Division,Separate,5538,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R54
+2023,4160,The Fort McMurray Roman Catholic Separate School Division,Separate,6942,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R55
+2023,4208,The Christ the Redeemer Catholic Separate School Division,Separate,10129,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R56
+2023,4330,The East Central Alberta Catholic Separate School Division,Separate,2566,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R57
+2023,4481,The Holy Spirit Roman Catholic Separate School Division,Separate,5386,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R58
+2023,4501,The Medicine Hat Roman Catholic Separate School Division,Separate,2947,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R59
+2023,4870,Lloydminster Roman Catholic Separate School Division,Separate,2625,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R60
+2023,6015,New Horizons Charter School Society,Charter,444,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R79
+2023,6017,Boyle Street Education Centre,Charter,165,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R80
+2023,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,249,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R81
+2023,6020,Aurora School Ltd.,Charter,1095,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R82
+2023,6021,Almadina School Society,Charter,1315,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R83
+2023,7020,The St. Albert School Division,Public,9560,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R43
+2023,8040,The Greater North Central Francophone Education Region,Francophone,4264,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R62
+2023,8050,The Northwest Francophone Education Region,Francophone,484,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R63
+2023,8060,The East Central Francophone Education Region,Francophone,780,True,,k12_enrolment_2023,'Alberta Authority Enrolment Dat'!R64
+2024,0009,Foundations for the Future Charter Academy Charter School Society,Charter,4161,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q65
+2024,0012,Suzuki Charter School Society,Charter,420,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q66
+2024,0019,The Red Deer Catholic Separate School Division,Separate,10637,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q44
+2024,0020,The St. Thomas Aquinas Roman Catholic Separate School Division,Separate,4908,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q45
+2024,0021,The Holy Family Catholic Separate School Division,Separate,1867,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q46
+2024,0045,Connect Charter School Society,Charter,624,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q67
+2024,0046,The Elk Island Catholic Separate School Division,Separate,9229,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q47
+2024,0047,The Living Waters Catholic Separate School Division,Separate,1783,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q48
+2024,0048,The Evergreen Catholic Separate School Division,Separate,4255,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q49
+2024,0052,The Clearview School Division,Public,2441,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q2
+2024,0053,The Chinook's Edge School Division,Public,11236,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q3
+2024,0054,The Wolf Creek School Division,Public,7816,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q4
+2024,0056,The Westwind School Division,Public,4621,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q5
+2024,0109,Westmount Charter School Society,Charter,1316,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q68
+2024,0110,The Edmonton Catholic Separate School Division,Separate,50013,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q50
+2024,0151,Calgary Arts Academy Society,Charter,643,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q69
+2024,0152,Calgary Girls' School Society,Charter,516,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q70
+2024,0177,The Peace Wapiti School Division,Public,6333,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q6
+2024,0195,The Prairie Rose School Division,Public,3863,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q7
+2024,0224,Valhalla School Foundation,Charter,71,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q71
+2024,0257,Footprints for Learning Society,Charter,499,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q72
+2024,0284,The Southern Francophone Education Region,Francophone,3990,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q61
+2024,0369,New Humble Community School Association,Charter,179,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q73
+2024,0370,STEM Innovation Academy Society,Charter,1154,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q74
+2024,0395,Alberta Classical Academy Ltd.,Charter,1284,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q75
+2024,0399,Holden Rural Academy Society,Charter,123,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q76
+2024,0400,STEM Collegiate Canada Society,Charter,360,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q77
+2024,1045,The Horizon School Division,Public,3495,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q8
+2024,1070,The Peace River School Division,Public,3081,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q9
+2024,1085,The Grande Yellowhead School Division,Public,4539,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q10
+2024,1110,The Sturgeon School Division,Public,5223,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q11
+2024,1115,The Prairie Land School Division,Public,3782,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q12
+2024,1135,The Livingstone Range School Division,Public,3747,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q13
+2024,1155,The Buffalo Trail School Division,Public,3749,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q14
+2024,1175,The Pembina Hills School Division,Public,5335,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q15
+2024,1180,The Foothills School Division,Public,7931,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q16
+2024,1190,The Rocky View School Division,Public,29225,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q17
+2024,1220,The High Prairie School Division,Public,2917,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q18
+2024,1245,The Northern Lights School Division,Public,5954,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q19
+2024,1250,The Fort Vermilion School Division,Public,4124,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q20
+2024,1280,The Northland School Division,Public,1545,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q21
+2024,1325,The Wild Rose School Division,Public,4577,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q22
+2024,2045,The Grasslands School Division,Public,3548,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q23
+2024,2115,The Wetaskiwin School Division,Public,3268,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q24
+2024,2125,The Aspen View School Division,Public,2639,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q25
+2024,2155,The Golden Hills School Division,Public,8742,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q26
+2024,2185,The St. Paul School Division,Public,3633,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q27
+2024,2195,The Elk Island School Division,Public,17939,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q28
+2024,2245,The Black Gold School Division,Public,13487,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q29
+2024,2255,The Palliser School Division,Public,9660,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q30
+2024,2275,The Northern Gateway School Division,Public,4773,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q31
+2024,2285,The Battle River School Division,Public,5841,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q32
+2024,2305,The Parkland School Division,Public,12776,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q33
+2024,2473,Thrive Charter School Society,Charter,168,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q78
+2024,2485,Fusion Education Association,Charter,92,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q79
+2024,2487,Gwynne Valley Rural Education Association,Charter,104,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q80
+2024,2638,The WISE Charter Society,Charter,186,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q81
+2024,3020,The Edmonton School Division,Public,120918,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q34
+2024,3030,The Calgary School Division,Public,142511,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q35
+2024,3040,The Lethbridge School Division,Public,12279,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q36
+2024,3050,The Medicine Hat School Division,Public,6837,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q37
+2024,3065,The Canadian Rockies School Division,Public,2094,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q38
+2024,3070,The Red Deer School Division,Public,11388,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q39
+2024,3170,Lloydminster Public School Division,Public,2942,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q40
+2024,3240,The Grande Prairie School Division,Public,8897,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q41
+2024,3260,The Fort McMurray School Division,Public,8144,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q42
+2024,4010,The Calgary Roman Catholic Separate School Division,Separate,63410,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q51
+2024,4077,The Greater St. Albert Roman Catholic Separate School Division,Separate,5735,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q52
+2024,4105,The Lakeland Roman Catholic Separate School Division,Separate,2708,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q53
+2024,4130,The Grande Prairie Roman Catholic Separate School Division,Separate,5412,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q54
+2024,4160,The Fort McMurray Roman Catholic Separate School Division,Separate,7015,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q55
+2024,4208,The Christ the Redeemer Catholic Separate School Division,Separate,10389,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q56
+2024,4330,The East Central Alberta Catholic Separate School Division,Separate,2644,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q57
+2024,4481,The Holy Spirit Roman Catholic Separate School Division,Separate,5577,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q58
+2024,4501,The Medicine Hat Roman Catholic Separate School Division,Separate,2963,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q59
+2024,4870,Lloydminster Roman Catholic Separate School Division,Separate,2763,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q60
+2024,6015,New Horizons Charter School Society,Charter,441,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q82
+2024,6017,Boyle Street Education Centre,Charter,173,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q83
+2024,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,292,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q84
+2024,6020,Aurora School Ltd.,Charter,1211,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q85
+2024,6021,Almadina School Society,Charter,1391,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q86
+2024,7020,The St. Albert School Division,Public,9823,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q43
+2024,8040,The Greater North Central Francophone Education Region,Francophone,4571,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q62
+2024,8050,The Northwest Francophone Education Region,Francophone,475,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q63
+2024,8060,The East Central Francophone Education Region,Francophone,801,True,,k12_enrolment_2024,'Alberta Authority Enrolment Dat'!Q64
+2025,0009,Foundations for the Future Charter Academy Charter School Society,Charter,4258,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q65
+2025,0012,Suzuki Charter School Society,Charter,438,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q66
+2025,0019,The Red Deer Catholic Separate School Division,Separate,10608,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q44
+2025,0020,The St. Thomas Aquinas Roman Catholic Separate School Division,Separate,4949,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q45
+2025,0021,The Holy Family Catholic Separate School Division,Separate,1854,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q46
+2025,0045,Connect Charter School Society,Charter,624,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q67
+2025,0046,The Elk Island Catholic Separate School Division,Separate,9356,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q47
+2025,0047,The Living Waters Catholic Separate School Division,Separate,1803,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q48
+2025,0048,The Evergreen Catholic Separate School Division,Separate,4255,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q49
+2025,0052,The Clearview School Division,Public,2388,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q2
+2025,0053,The Chinook's Edge School Division,Public,11162,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q3
+2025,0054,The Wolf Creek School Division,Public,7691,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q4
+2025,0056,The Westwind School Division,Public,4504,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q5
+2025,0109,Westmount Charter School Society,Charter,1334,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q68
+2025,0110,The Edmonton Catholic Separate School Division,Separate,51029,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q50
+2025,0151,Calgary Arts Academy Society,Charter,663,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q69
+2025,0152,Calgary Girls' School Society,Charter,572,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q70
+2025,0177,The Peace Wapiti School Division,Public,6356,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q6
+2025,0195,The Prairie Rose School Division,Public,5708,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q7
+2025,0224,Valhalla School Foundation,Charter,79,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q71
+2025,0257,Footprints for Learning Society,Charter,531,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q72
+2025,0284,The Southern Francophone Education Region,Francophone,4261,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q61
+2025,0369,New Humble Community School Association,Charter,202,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q73
+2025,0370,STEM Innovation Academy Society,Charter,1676,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q74
+2025,0395,Alberta Classical Academy Ltd.,Charter,1482,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q75
+2025,0399,Holden Rural Academy Society,Charter,132,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q76
+2025,0400,STEM Collegiate Canada Society,Charter,483,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q77
+2025,1045,The Horizon School Division,Public,3520,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q8
+2025,1070,The Peace River School Division,Public,2950,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q9
+2025,1085,The Grande Yellowhead School Division,Public,4450,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q10
+2025,1110,The Sturgeon School Division,Public,5049,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q11
+2025,1115,The Prairie Land School Division,Public,4380,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q12
+2025,1135,The Livingstone Range School Division,Public,3697,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q13
+2025,1155,The Buffalo Trail School Division,Public,3670,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q14
+2025,1175,The Pembina Hills School Division,Public,5507,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q15
+2025,1180,The Foothills School Division,Public,7623,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q16
+2025,1190,The Rocky View School Division,Public,29459,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q17
+2025,1220,The High Prairie School Division,Public,2783,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q18
+2025,1245,The Northern Lights School Division,Public,5758,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q19
+2025,1250,The Fort Vermilion School Division,Public,4317,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q20
+2025,1280,The Northland School Division,Public,1525,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q21
+2025,1325,The Wild Rose School Division,Public,4471,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q22
+2025,2045,The Grasslands School Division,Public,3366,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q23
+2025,2115,The Wetaskiwin School Division,Public,3135,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q24
+2025,2125,The Aspen View School Division,Public,2496,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q25
+2025,2155,The Golden Hills School Division,Public,8648,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q26
+2025,2185,The St. Paul School Division,Public,3618,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q27
+2025,2195,The Elk Island School Division,Public,17731,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q28
+2025,2245,The Black Gold School Division,Public,13610,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q29
+2025,2255,The Palliser School Division,Public,8240,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q30
+2025,2275,The Northern Gateway School Division,Public,4736,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q31
+2025,2285,The Battle River School Division,Public,5650,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q32
+2025,2305,The Parkland School Division,Public,12793,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q33
+2025,2473,Thrive Charter School Society,Charter,170,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q78
+2025,2485,Fusion Education Association,Charter,300,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q79
+2025,2487,Gwynne Valley Rural Education Association,Charter,128,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q80
+2025,2638,The WISE Charter Society,Charter,204,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q81
+2025,2669,Agriculture Charter School Society,Charter,127,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q82
+2025,2671,Andrew Rural Academy Foundation,Charter,119,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q83
+2025,2743,Roots of Resilience Charter School Society,Charter,71,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q84
+2025,2750,Alberta Advance Academy,Charter,448,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q85
+2025,3020,The Edmonton School Division,Public,122648,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q34
+2025,3030,The Calgary School Division,Public,142992,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q35
+2025,3040,The Lethbridge School Division,Public,12260,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q36
+2025,3050,The Medicine Hat School Division,Public,6719,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q37
+2025,3065,The Canadian Rockies School Division,Public,2007,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q38
+2025,3070,The Red Deer School Division,Public,11250,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q39
+2025,3170,Lloydminster Public School Division,Public,3073,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q40
+2025,3240,The Grande Prairie School Division,Public,8860,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q41
+2025,3260,The Fort McMurray School Division,Public,8234,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q42
+2025,4010,The Calgary Roman Catholic Separate School Division,Separate,64143,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q51
+2025,4077,The Greater St. Albert Roman Catholic Separate School Division,Separate,5938,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q52
+2025,4105,The Lakeland Roman Catholic Separate School Division,Separate,2809,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q53
+2025,4130,The Grande Prairie Roman Catholic Separate School Division,Separate,5376,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q54
+2025,4160,The Fort McMurray Roman Catholic Separate School Division,Separate,6998,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q55
+2025,4208,The Christ the Redeemer Catholic Separate School Division,Separate,10508,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q56
+2025,4330,The East Central Alberta Catholic Separate School Division,Separate,2695,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q57
+2025,4481,The Holy Spirit Roman Catholic Separate School Division,Separate,5570,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q58
+2025,4501,The Medicine Hat Roman Catholic Separate School Division,Separate,2954,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q59
+2025,4870,Lloydminster Roman Catholic Separate School Division,Separate,2734,False,Lloydminster school board excluded from financial rollup,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q60
+2025,6015,New Horizons Charter School Society,Charter,454,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q86
+2025,6017,Boyle Street Education Centre,Charter,178,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q87
+2025,6019,CAPE - Centre for Academic and Personal Excellence Institute,Charter,301,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q88
+2025,6020,Aurora School Ltd.,Charter,1534,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q89
+2025,6021,Almadina School Society,Charter,1401,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q90
+2025,7020,The St. Albert School Division,Public,9838,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q43
+2025,8040,The Greater North Central Francophone Education Region,Francophone,4726,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q62
+2025,8050,The Northwest Francophone Education Region,Francophone,505,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q63
+2025,8060,The East Central Francophone Education Region,Francophone,835,True,,k12_enrolment_2025,'Alberta Authority Enrolment Dat'!Q64

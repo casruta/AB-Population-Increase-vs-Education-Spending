@@ -1,0 +1,86 @@
+{
+  "k12_operating_grants": {
+    "target_start": 2012,
+    "target_end": 2025,
+    "sector": "k12",
+    "measure": "grants",
+    "label": "Recognized provincial revenue excluding capital recognition",
+    "coverage_ids": [
+      "k12_alberta_reporting_authorities",
+      "k12_without_valhalla"
+    ],
+    "denominator_id": "k12_matched_headcount",
+    "learner_unit": "headcount",
+    "period_basis": "School year: September–August",
+    "match_note": "Public, separate, francophone and charter authorities in the combined financial return; both Lloydminster boards excluded. Valhalla is excluded in 2022–23 only, matching the return. September headcount for the same school year includes ECS.",
+    "limitation": "Accrual provincial revenue excluding capital recognition and school-to-school revenue; excludes directly collected opted-out-board property taxes. Includes reported provincial pension contributions. Not cash grants or total provincial support. Classification changes in 2018–19; 2022–23 excludes Valhalla; 2023–24 includes draft Northland reporting.",
+    "gap_reason": "No verified recognized provincial operating-support observation on this boundary.",
+    "year_notes": {
+      "2012": "Government share of capital recognition not identified.",
+      "2013": "Catalogue capital schedule links to the prior-year document.",
+      "2022": "Valhalla excluded; asset-retirement accounting changed.",
+      "2023": "Valhalla restored; compilation includes draft Northland reporting."
+    },
+    "delivery_gap": "Published Budget columns do not establish original-versus-revised status, and no matched budget capital-recognition bridge is approved."
+  },
+  "k12_operating_expenses": {
+    "target_start": 2012,
+    "target_end": 2025,
+    "sector": "k12",
+    "measure": "expenses",
+    "label": "School-authority expenses excluding amortization",
+    "coverage_ids": [
+      "k12_alberta_reporting_authorities",
+      "k12_without_valhalla"
+    ],
+    "denominator_id": "k12_matched_headcount",
+    "learner_unit": "headcount",
+    "period_basis": "School year: September–August",
+    "match_note": "Same reporting-authority roster as the financial statements and school-year September headcount, including ECS. Excludes Lloydminster boards; also excludes Valhalla in 2022–23.",
+    "limitation": "Combined school-authority expenses less reported amortization; includes non-instructional activities. 2022–23 excludes Valhalla; 2023–24 includes draft Northland reporting.",
+    "gap_reason": "No verified combined school-authority expense observation on this boundary.",
+    "year_notes": {
+      "2022": "Valhalla excluded; asset-retirement accounting changed.",
+      "2023": "Valhalla restored; compilation includes draft Northland reporting."
+    },
+    "delivery_gap": "Published Budget columns do not establish original-versus-revised status; comparable budget amortization is not verified."
+  },
+  "postsec_operating_grants": {
+    "target_start": 2012,
+    "target_end": 2025,
+    "sector": "postsec",
+    "measure": "grants",
+    "label": "Department operating grants to 20 public institutions",
+    "coverage_ids": [
+      "alberta_public20_excluding_banff"
+    ],
+    "denominator_id": "postsec_public20_approved_fle",
+    "learner_unit": "FLE",
+    "period_basis": "Provincial fiscal year: April–March; FLE academic reporting period",
+    "match_note": "Annual departmental operating grants to the same 20 public institutions in the reported approved-program FLE count. Excludes Banff Centre and independent institutions. Fiscal grants are paired with the academic year starting in the same calendar year; periods overlap but are not identical.",
+    "limitation": "All departmental operating-grant programs, not base grants alone; excludes separately reported infrastructure. Annual reported levels only; department-program boundaries are not fully harmonized. Earlier FLE may also be affected by thesis-reporting issues of unspecified duration. Reported FLE definitions change repeatedly. 2023–24 and 2024–25 system ratios are withheld because of documented reporting problems.",
+    "gap_reason": "No verified department operating-grant observation on this boundary.",
+    "year_notes": {
+      "2023": "Ratio withheld: source reports University of Alberta thesis FLE over-reporting.",
+      "2024": "Ratio withheld: Athabasca extended reporting period and NorQuest duplicate session."
+    },
+    "delivery_gap": "The institution-level operating-grant schedules provide actuals and comparators; no matched original-budget series is verified."
+  },
+  "postsec_operating_expenses": {
+    "target_start": 2012,
+    "target_end": 2025,
+    "sector": "postsec",
+    "measure": "expenses",
+    "label": "Expenses excluding amortization and identified capital disposal losses: three undergraduate universities",
+    "coverage_ids": [
+      "postsec_undergrad3"
+    ],
+    "denominator_id": "postsec_undergrad3_fle",
+    "learner_unit": "FLE",
+    "period_basis": "Institution financial year paired with the corresponding academic year",
+    "match_note": "Alberta University of the Arts, MacEwan University and Mount Royal University only. Their institutional expenses and approved-program FLE are summed separately from the 20-institution grants series.",
+    "limitation": "MacEwan, Mount Royal and Alberta University of the Arts only, not the full post-secondary sector. Expenses exclude tangible and intangible amortization and separately identified capital disposal losses; all other activities remain. Institutional fiscal and approved-program FLE reporting periods overlap approximately, not exactly. Not instructional cost or the province's operating-expense definition.",
+    "gap_reason": "No approved expense observation excluding amortization and identified capital disposal losses for this three-university subset.",
+    "delivery_gap": "No independently verified, comparable original operating-expense budget is admitted for this subset."
+  }
+}

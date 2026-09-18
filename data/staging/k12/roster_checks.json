@@ -1,0 +1,58 @@
+[
+  {
+    "year": 2016,
+    "financial_authorities": 74,
+    "enrolment_authorities": 74,
+    "exact_code_match": true,
+    "source_id": "k12_authority_roster_2016"
+  },
+  {
+    "year": 2017,
+    "financial_authorities": 74,
+    "enrolment_authorities": 74,
+    "exact_code_match": true,
+    "source_id": "k12_authority_roster_2017"
+  },
+  {
+    "year": 2018,
+    "financial_authorities": 74,
+    "enrolment_authorities": 74,
+    "exact_code_match": true,
+    "source_id": "k12_authority_roster_2018"
+  },
+  {
+    "year": 2019,
+    "financial_authorities": 74,
+    "enrolment_authorities": 74,
+    "exact_code_match": true,
+    "source_id": "k12_authority_roster_2019"
+  },
+  {
+    "year": 2020,
+    "financial_authorities": 74,
+    "enrolment_authorities": 74,
+    "exact_code_match": true,
+    "source_id": "k12_authority_roster_2020"
+  },
+  {
+    "year": 2021,
+    "financial_authorities": 76,
+    "enrolment_authorities": 76,
+    "exact_code_match": true,
+    "source_id": "k12_authority_roster_2021"
+  },
+  {
+    "year": 2022,
+    "financial_authorities": 77,
+    "enrolment_authorities": 77,
+    "exact_code_match": true,
+    "source_id": "k12_authority_roster_2022"
+  },
+  {
+    "year": 2023,
+    "financial_authorities": 80,
+    "enrolment_authorities": 80,
+    "exact_code_match": true,
+    "source_id": "k12_authority_roster_2023"
+  }
+]

@@ -1,0 +1,673 @@
+{
+  "Information": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Title",
+      "System-Wide Full Load Equivalent (FLE) Enrolment within the Alberta Post-Secondary Education System",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Alternative Title",
+      "Publicly Funded Post-secondary Enrolments - System-wide FLEs",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Description",
+      "This statistic describes the Full Load Equivalent (FLE) by each institution and academic year within Alberta's Publicly Funded Post-Secondary Education System. FLE is a measure used so that we can make comparable calculations across different institutions, across different programs. The FLE is measured by taking the load of the learner enrolled (instructional hours + practicum hours) and dividing by the full load of that program. This results in a comparable metric to be able to use across the system. The FLE calculation is consistent for every institution and program. The data tables presented capture System Level enrolments, relating to all students attending an approved program at publicly funded post-secondary institutions. Separate data files exist focusing on the subsets that are either International or have self-identified as Indigenous.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Usage Considerations",
+      "\u2022 All data in this document has been sourced from Alberta Advanced Education's Learner and Enrolment Reporting System (LERS).\n\u2022 The enrolment data presented relates to ministerially approved programming only.\n\u2022 The Banff Centre does not offer standardized approved programming and therefore enrolments at The Banff Centre are NOT included in these datasets.\n\u2022 Enrolments are reported by Institutional Academic Year, which is either May 1 - April 30 or July 1 - June 30.\n\u2022 Reporting changes at institutions may impact longitudinal analysis. Caution should be used when comparing year-to-year values.  To ensure longitudinal analysis, system level reporting changes have been incorporated into this file and therefore, values may not align to previous versions of this file.  Context related to institutional reporting changes that may impact values within this file can be found in the Reporting Changes tab.\n\u2022 Rows with no data have been removed from all tables.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reporting Changes",
+      "The following reporting changes occurred in the 2024-25 reporting year:\n\u2022 Following the adoption of the CIP 2021 codeset in 2023/24, the 2024/25 year continued to review program records to ensure accurate CIP codes. Due to CIP cleanups done over the course of the year, the values reported in any tables using CIP codes (specifically the By 2-Digit CIP Code, and By Field of Study tables) may not align with values in previous versions of these reports. \n     \u2022 As CIP code adjustments may continue to occur, it is important to note that the Subject Areas and 2 Digit CIP codes reported in this file reflect the CIP codes in our system as of December 16, 2025.\n     \u2022 Due to significant CIP code changes, Program Bands have been replaced with Statistics Canada's CIP code groupings for Fields of Study based on Science, technology, engineering and mathematics (STEM) and Business, humanities, health, arts, social science and education (BHASE) groupings. Further details can be found here: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451 \n\u2022 Additionally, some programs had their Alberta Credential Framework attributes (e.g. Program Type and/or Level of Study) updated to ensure consistency across the system. These changes may result in values not aligning with prior versions of this report.\n\u2022 Reporting changes at institutions may impact longitudinal analysis. Caution should be used when comparing year-to-year values. To ensure longitudinal analysis, system level reporting changes have been incorporated into this file and therefore, values may not align to previous versions of this file. Context related to institutional reporting changes that may impact values within this file can be found in the Reporting Changes tab.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Frequency",
+      "Annually",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Keywords",
+      "fle, enrolment, education and training, post-secondary education, post-secondary system, post-secondary, publicly-funded, sector, institution, credential type, program type, 2 digit CIP Code, STEM, BHASE, age group, gender",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Dictionary": [
+    [
+      "System-Wide Full Load Equivalent (FLE) Enrolment within the Alberta Post-Secondary Education System",
+      null,
+      null,
+      null
+    ],
+    [
+      "Data Dictionary",
+      null,
+      null,
+      null
+    ],
+    [
+      "Data elements",
+      null,
+      null,
+      null
+    ],
+    [
+      "Field Name",
+      "Description",
+      null,
+      null
+    ],
+    [
+      "Learner Category",
+      "The values in this file include ALL learners enrolled in provincially-approved programming at publicly-funded post-secondary institutions in Alberta. Separate data files exist focusing on the subsets that are either International or have self-identified as Indigenous.",
+      null,
+      null
+    ],
+    [
+      "Sector",
+      "Institutional differentiation is largely based on credentials offered, type and intensity of research activity, as well as geographic focus. Additional information can be found within the Roles and Mandate Policy Framework found here: https://open.alberta.ca/dataset/cf437f7d-e822-470f-9d9d-35a218f345e6/resource/07b9ff83-5a59-4b2f-837c-bb69da0ea6f1/download/roles-and-mandates-policy-framework-for-albertas-adult-learning-system.pdf\nTo allow for longitudinal analysis, institutions have been included in the sector they were in during the last reporting year. As such, because institutions may move from one sector to another, sector totals in this file may not align with values in prior versions of this file.",
+      null,
+      null
+    ],
+    [
+      null,
+      "Comprehensive Academic and Research Universities (CARU) sector includes the following institutions: Athabasca University, University of Alberta University of Calgary and University of Lethbridge",
+      null,
+      null
+    ],
+    [
+      null,
+      "Comprehensive Community Colleges (CCC) sector includes the following institutions: Bow Valley College, Keyano College, Lakeland College, Medicine Hat College, NorQuest College, Northern Lakes College, Olds College and Portage College",
+      null,
+      null
+    ],
+    [
+      null,
+      "Independent Academic Institutions (IAI) sector includes the following institutions: Ambrose University, Burman University, Concordia University of Edmonton, The King's University, Makami College and St. Mary's University",
+      null,
+      null
+    ],
+    [
+      null,
+      "Polytechnic Institutions (Poly) sector includes the following institutions: Lethbridge Polytechnic, Northern Alberta Institute of Technology, Northwestern Polytechnic, Red Deer Polytechnic and Southern Alberta Institute of Technology",
+      null,
+      null
+    ],
+    [
+      null,
+      "Specialized Arts and Cultural Institutions (SACI) sector includes The Banff Centre only",
+      null,
+      null
+    ],
+    [
+      null,
+      "Undergraduate Universities (UU) sector includes the following institutions: Alberta University of the Arts, Grant MacEwan University and Mount Royal University",
+      null,
+      null
+    ],
+    [
+      "Credential Type",
+      "Credential type is related to the type of credential awarded to an individual on completion of all the requirements of a ministerially approved program of study. Credential type maybe one of the four types: certificate, diploma, degree or non-credential.",
+      null,
+      null
+    ],
+    [
+      "Program Type",
+      "Program Type refers to the kind of education or training, such as Standard,  Journeyman Apprenticeship, Open Studies, University Transfer, Bachelor\u2019s, or Professional Development.  Program Type is related to Credential. (See note below on Alberta Credential Framework for additional information)",
+      null,
+      null
+    ],
+    [
+      "2 Digit CIP Code",
+      "2 digit Numerical identification of the \"Classification of Instructional Programs\" (CIP).  Using the CIP2021 code set, these are used by Statistics Canada to classify programs and specializations based on their content to allow for grouping of similar programs. The CIP Code for a program/specialization is entered by the institution prior to submitting a new program proposal, and validated by both the ministry and Statistics Canada.  \nMore information on CIP codes can be found here:  https://www.statcan.gc.ca/en/subjects/standard/cip/2021/index",
+      null,
+      null
+    ],
+    [
+      "STEM and BHASE",
+      "The CIP Codes used by Statistics Canada are categorized into identifying STEM fields of study (science, technology, engineering and mathematics) and BHASE fields of study (business, humanities, health, arts, social science, education, as well as legal studies, trades, services, natural resources and conservation)\nMore information on CIP codes can be found here:  https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451",
+      null,
+      null
+    ],
+    [
+      "Gender",
+      "Gender is the self-reported value by individuals. \"Unspecified' value is used where learners did not list a gender. Beginning in 2017-18 a value of \"Other Gender\" was added to allow learners to identify as a gender other than male or female. Reported gender values are recorded by the institution, and in instances where a student attends multiple institutions, they may have multiple gender values at a system level. ",
+      null,
+      null
+    ],
+    [
+      "Age Group",
+      "Grouping of individuals' ages during the academic year. This is based on date of birth and calculated as of October 15th of each academic year.",
+      null,
+      null
+    ],
+    [
+      "Full Load Equivalent (FLE)",
+      "FLE measure looks at the course load learners take, with one FLE representing the equivalent of what a standard learner taking a standard full load would generate during an academic year (fall and winter terms).  An FLE value of 1.0 means the learner is taking the equivalent of a full course load for a standard program.  A learner taking a portion of the program would generate less than 1.0 FLE.  Reporting enrolment data as FLEs helps comparisons across various programs and institutions.",
+      null,
+      null
+    ],
+    [
+      "System Notes",
+      null,
+      null,
+      null
+    ],
+    [
+      1,
+      "All data in this document has been sourced from Alberta Advanced Education's Learner and Enrolment Reporting System (LERS).",
+      null,
+      null
+    ],
+    [
+      2,
+      "The Banff Centre does not report in LERS. These data describe only provincially-approved programming at publicly-funded post-secondary institutions in Alberta. Historically, the ministry appended Banff Centre enrolments to this total, which were related to non-approved programming; however, going forward, the ministry will report only provincially approved programming.",
+      null,
+      null
+    ],
+    [
+      3,
+      "To obtain a Journeyperson Certificate, a registered apprentice must complete both on-the-job training and technical training. The enrolment data presented here includes only apprentices who were attending the technical training portion of their program at (accredited) public post-secondary institutions in Alberta. The enrolment data does not include apprentices who were participating in on-the-job training through industry, private or non-profit training providers. Individuals applying for certification in a designation occupation or for a Qualification Certificate in a designated trade are also not included in this enrolment data. For official statistics on apprenticeship in Alberta, please visit https://tradesecrets.alberta.ca/",
+      null,
+      null
+    ],
+    [
+      4,
+      "Following the adoption of the CIP 2021 codeset in 2023/24, the 2024/25 year continued to review program records to ensure accurate CIP codes. Due to CIP cleanups done over the course of the year, the values reported in any tables using CIP codes (specifically the By 2-Digit CIP Code, and By Field of Study tables) may not align with values in previous versions of these reports. \n     \u2022 As CIP code adjustments may continue to occur, it is important to note that the Subject Areas and 2 Digit CIP codes reported in this file reflect the CIP codes in our system as of December 16, 2025.\n     \u2022 Due to significant CIP code changes, Program Bands have been replaced with Statistics Canada's CIP code groupings for Fields of Study based on Science, technology, engineering and mathematics (STEM) and Business, humanities, health, arts, social science and education (BHASE) groupings. Further details can be found here: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451 ",
+      null,
+      null
+    ],
+    [
+      5,
+      "Academic years are related to each individual institution, and generally run from May through April or July through June.  The data is submitted at the end of each academic year, and then requires a rigorous review and sign off, meaning there is a time lag of approximately one year before data is updated.  For example, the 2017-18 academic year enrolments are first submitted in July/August of 2018, and the system data would not be released until all submissions are finalized.  This translates to the 2017-18 academic year typically being ready for use by December 2018 at the earliest.",
+      null,
+      null
+    ],
+    [
+      6,
+      "In the summer of 2019, Alberta adopted a new Alberta Credential Framework (ACF) as related to program attributes. All values in this file reflect the ACF values for the Credential Type, Program Type, and Level of Study attributes. As such, some values/attributes in this file may not align with previous versions of this file. For more information on the ACF, see this link:  https://open.alberta.ca/publications/alberta-credential-framework",
+      null,
+      null
+    ],
+    [
+      7,
+      "There was a significant increase in Visa students in Journeyman programming this year. Because ATOMS and LERS differ in their reporting of Legal Status and Country of Citizenship values, any student with a \u201cRefugee\u201d or \u201cWork Permit\u201d in apprenticeship programming are currently reported as International learners in LERS. Work is being done to address this in future reporting",
+      null,
+      null
+    ],
+    [
+      8,
+      "Updates for several Program Types for ALL academic years were performed and affect previous pulls for \u201cOccupational\u201d, \u201cOpen Studies\u201d and \u201cPre-Employment\u201d Program Types, as such reports using these attributes may not align with prior versions of the reports.",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Reporting Changes": [
+    [
+      "Institutional Reporting Changes by Year for LERS Data",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null
+    ],
+    [
+      "LERS Reporting Year",
+      "Institution",
+      "Reporting Change"
+    ],
+    [
+      "2024-2025",
+      "Athabasca University",
+      "Athabasca University updated their LERS reporting period from a calendar year to a May through April reporting period (to align with other post-secondary reporting). To ensure no enrolments went unreported, this reporting change resulted in the university having to report one additional session in the transition year (January 2024 \u2013 April 2025). Therefore, this transition year has created an artificial increase to the institutional, sector and system enrolments. The inclusion of the \"extra\" Spring 2024 session adds an additional 3,200 FLE and 7,500 learners to what the university would have reported during the 12-month period. This is a one-year anomaly to ensure no enrolments went unreported and future LERS reporting cycles will follow the May \u2013 April reporting period."
+    ],
+    [
+      "2024-2025",
+      "Lethbridge Polytechnic",
+      "Lethbridge College became Lethbridge Polytechnic in the 2024/25 academic year, moving from the CCC sector to the POLY sector. To ensure longitudinal analysis, all reporting will use the new name and sector allocation."
+    ],
+    [
+      "2024-2025",
+      "Makami College",
+      "MaKami College first reported LERS enrolments in 2024/25 and the inclusion of their enrolment data will impact longitudinal analysis at the IAI sector and system level, as both these totals will show increases of around 1,700 FLE and learners due to MaKami College first reporting in 2024/25."
+    ],
+    [
+      "2024-2025",
+      "NorQuest College",
+      "NorQuest College updated their LERS Academic Year to align with Fiscal Reporting for 2024-25 forward.  To ensure consistent reporting, the 2024 spring session has been reported in both the 2023-24 and 2024-25 academic years."
+    ],
+    [
+      "2024-2025",
+      "University of Alberta",
+      "University of Alberta worked to update their thesis program records in 2024/25 (correcting the issue of over-reporting FLE), which resulted in a slight drop in FLEs among Graduate programs. Along with this change, the University of Alberta began to report course and thesis based graduate programming separately."
+    ],
+    [
+      "2023-2024",
+      "Keyano College",
+      "The significant increase in enrolments at Keyano College can be attributed the college's continuous efforts in international student recruitment."
+    ],
+    [
+      "2023-2024",
+      "Lakeland College",
+      "Lakeland College changed its LERS reporting period to align with its updated fiscal year in 2022-23. As a result, the institution shifted from a 4-session to a 3-session reporting structure for 2023-24 LERS reporting."
+    ],
+    [
+      "2023-2024",
+      "Lethbridge College",
+      "Lethbridge College will become Lethbridge Polytechnic in the 2024-25 academic year. As all data in these tables precedes this change, the changes will not appear in this file."
+    ],
+    [
+      "2023-2024",
+      "NorQuest College",
+      "In 2022-23, NorQuest College incorrectly reported learners from Ukraine that have expedited visas with a \u201cPermanent Resident\u201d Legal Status; this over\u2010reported the number of domestic learners by around 500 learners among English as a Second Language programming. For 2023\u201024 reporting and future reporting, these learners were coded as \u201cOther Visa\u201d."
+    ],
+    [
+      "2023-2024",
+      "Northwestern Polytechnic",
+      "Northwestern Polytechnic changed its LERS reporting period to align with its updated fiscal year in 2022-23. As a result, the institution shifted from a 4-session to a 3-session reporting structure for 2023-24 LERS reporting forward."
+    ],
+    [
+      "2023-2024",
+      "Portage College",
+      "Portage College is in the process of teaching out programming that is being offered through partnerships with two private institutions. The significant drop in international learners at the college is a result of these offerings being taught out over the year."
+    ],
+    [
+      "2023-2024",
+      "University of Calgary",
+      "In 2023-24, the University of Calgary moved course-based graduate students to term based registration (previously an annual registration). In order to ensure accurate reporting to correctly reflect this change in our enrolment policy, a review of program records in PAPRS was completed. Changes included full load updates, administrative updates and PAPRS corrections. The adjustments resulted in an increase in FLEs in a number of programs where the FLE counts were previously underreported."
+    ],
+    [
+      "2023-2024",
+      "University of Alberta",
+      "Graduate level thesis FLE at the University of Alberta continues to be over reported in the 2023-24 submission. The U of A has committed to ensuring this is resolved in time for the 2024-25 LERS submission."
+    ],
+    [
+      "2022-2023",
+      "Northwestern Polytechnic",
+      "In 2022-23, Grande Prairie Regional College updated its name to Northwestern Polytechnic and moved from the CCC sector to the Poly Sector. For longitudinal reporting purposes, all historical data is presented using  the new name and sector allocation. "
+    ],
+    [
+      "2022-2023",
+      "Northwestern Polytechnic",
+      "Northwestern Polytechnic has updated its LERS reporting period to align with its updated fiscal year for 2022-23 forward. This resulted in their LERS reporting year moving from July 1st to June 30th to a May 1st to April 30th reporting period. As a result, Spring 2022 enrolments have been reported in both 2021\u201022 and 2022\u201023 LERS reporting periods. Due to this change, caution should be used for longitudinal analysis."
+    ],
+    [
+      "2022-2023",
+      "Lakeland College",
+      "Lakeland College has updated its LERS reporting period to align with its updated fiscal year for 2022-23 forward. This resulted in their LERS reporting year moving from July 1st to June 30th to a May 1st to April 30th reporting period. As a result, Spring 2022 enrolments have been reported in both 2021\u201022 and 2022\u201023 LERS reporting periods. Due to this change, caution should be used for longitudinal analysis."
+    ],
+    [
+      "2021-2022",
+      "Athabasca University",
+      "Athabasca University shifted from reporting by effective program students to program students. Previously, learners were reported in Open Studies until after they had taken at least six credits toward their program (i.e., effective program students).Beginning with 2021-2022 learners are reported in the programs they enroll in, irrespective of the credits taken. This change will reduce enrolments reported in open studies and increase those in each program."
+    ],
+    [
+      "2021-2022",
+      "Mount Royal University",
+      "Mount Royal University moved from a July-June reporting year to May-April.  To ensure consistent 12 month reporting, the spring session from the 2020-21 submission was re-reported in the 2021-22 LERS submission."
+    ],
+    [
+      "2021-2022",
+      "Northern Alberta Institute of Technology",
+      "Northern Alberta Institute of Technology moved from a July-June reporting year to May-April.  To ensure consistent 12 month reporting, the spring session from the 2020-21 submission was re-reported in the 2021-22 LERS submission."
+    ],
+    [
+      "2021-2022",
+      "Southern Alberta Institute of Technology",
+      "Southern Alberta Institute of Technology moved from a July-June reporting year to May-April.  To ensure consistent 12 month reporting, the spring session from the 2020-21 submission was re-reported in the 2021-22 LERS submission."
+    ],
+    [
+      "2021-2022",
+      "Red Deer Polytechnic",
+      "In July 2021, Red Deer College was renamed Red Deer Polytechnic and moved from the CCC sector to the Poly Sector.  For longitudinal reporting purposes, all historical data is presented using  the new name and sector allocation. "
+    ],
+    [
+      "2021-2022",
+      "Mount Royal University",
+      "Mount Royal University updated its LERS Academic Year to align with Fiscal Reporting for 2021-22 forward.  To ensure consistent reporting, the 2021 spring session has been reported in both the 2020-21 and 2021-22 academic years."
+    ],
+    [
+      "2021-2022",
+      "Northern Alberta Institute of Technology",
+      "Northern Alberta Institute of Technology updated its LERS Academic Year to align with Fiscal Reporting for 2021-22 forward.  To ensure consistent reporting, the 2021 spring session has been reported in both the 2020-21 and 2021-22 academic years."
+    ],
+    [
+      "2021-2022",
+      "Portage College",
+      "In 2021-22 and 2022-23, Portage College includes enrolments related to public-private partnership agreements. The inclusion of these enrolments result in significant increases in both FLE and learners reported in these years.\u00a0 With the college teaching out these programs, it is expected that these enrolments will decline over the next year."
+    ],
+    [
+      "2021-2022",
+      "Southern Alberta Institute of Technology",
+      "Southern Alberta Institute of Technology updated its LERS Academic Year to align with Fiscal Reporting for 2021-22 forward.  To ensure consistent reporting, the 2021 spring session has been reported in both the 2020-21 and 2021-22 academic years."
+    ],
+    [
+      "2019-2020",
+      "System",
+      "The Active learner definition was standardized leading to learners (and enrolments) previously excluded now being included in LERS submissions. The Active Learner definition was updated to ensure consistent reporting of enrolments as of the time of the add deadline date."
+    ],
+    [
+      "2019-2020",
+      "Southern Alberta Institute of Technology",
+      "Reporting cleanup at SAIT resulted in learners taking courses from a program without enrolling in the program properly being reported in Open Studies (prior years allocated learners to the program the courses belonged to)."
+    ],
+    [
+      "2018-2019",
+      "Lethbridge College ",
+      "Lethbridge College updated several program records to bring them into alignment with credit policies at their institution. This change resulted in significant FLE increases compared to prior years."
+    ],
+    [
+      "2017-2018 ",
+      "University of Alberta",
+      "The University of Alberta had a significant reporting change related to their thesis level graduate FLE enrolments. This change resulted in artificial FLE decreases to thesis enrolments compared to prior years.  "
+    ],
+    [
+      "2016-2017 ",
+      "Keyano College",
+      "LERS had a significant decrease in enrolments at Keyano College due to wildfires."
+    ],
+    [
+      "2015-2016 ",
+      "Olds College",
+      "Reporting cleanup at Olds College led to the removal of pre-packaged enrolments (which are not to be reported) in 2015-16.  This reporting change caused an artificial enrolment drop (~500 learners no longer reported)."
+    ]
+  ]
+}
