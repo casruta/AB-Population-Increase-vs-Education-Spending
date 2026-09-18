@@ -1,0 +1,3 @@
+# Preserve evidence snapshots and their recorded SHA-256 checksums on all systems.
+data/raw/** -text
+archive/original/** -text
