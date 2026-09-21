@@ -1,5 +1,15 @@
 # Validation report
 
+## Current report integration
+
+All **14 tests pass**, including the six new report checks. Two complete builds with network access disabled produced **19 byte-identical artifacts**. All seven local README links resolve, and the longest prose paragraph is 34 words. Independent review confirmed both current charts have readable labels and no clipping or overlapping text.
+
+The updated README's school-year CPI, current funding and per-resident calculations are checked by `test_report_analysis.py` in addition to the original tests. GitHub Actions runs the full test discovery command. See [current methodology](CURRENT_METHODS.md) for the financial and price boundaries.
+
+## Historical four-series release
+
+The artifact counts and checks below describe the earlier release only.
+
 **Release checks passed · September 2026.** No unresolved correctness blocker remains within the admitted evidence boundaries. Source gaps are retained as gaps, not treated as failed arithmetic or zero spending.
 
 | Check | Result |

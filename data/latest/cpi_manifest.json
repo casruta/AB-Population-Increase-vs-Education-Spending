@@ -1,0 +1,14 @@
+{
+  "url": "https://www150.statcan.gc.ca/n1/tbl/csv/18100004-eng.zip",
+  "table_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401",
+  "release_date": "2026-09-14",
+  "retrieved_date": "2026-09-20",
+  "sha256": "3840c1810061b79035a9153dbc9189fed4ced6aaacdeddb86b13579b51f1c6d2",
+  "vector": "v41692327",
+  "filters": {
+    "GEO": "Alberta",
+    "Products and product groups": "All-items",
+    "REF_DATE": "2016-09 through 2026-08"
+  },
+  "method": "Arithmetic mean of 12 monthly not-seasonally-adjusted CPI indices, September through August; express purchasing power in 2025 calendar-year dollars using annual CPI 172.2."
+}

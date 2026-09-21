@@ -15,6 +15,6 @@ jobs:
       - name: Install tested dependencies
         run: python -m pip install -r requirements.txt -c constraints.txt
       - name: Validate evidence and calculations
-        run: python -m unittest -v test_generate_all_charts
+        run: python -m unittest discover -v
       - name: Build publication offline
         run: python generate_all_charts.py --output-dir validation-output

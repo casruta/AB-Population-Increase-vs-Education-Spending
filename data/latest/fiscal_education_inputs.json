@@ -1,0 +1,20 @@
+[
+  {
+    "period": "2024-25",
+    "amount_cad": 17197000000,
+    "residents": 4857695,
+    "status": "Actual",
+    "source_id": "https://open.alberta.ca/dataset/7714457c-7527-443a-a7db-dd8c1c8ead86/resource/e6c7f85c-73bc-44d3-af00-edebf01d82a1/download/goa-annual-report-2024-2025.pdf",
+    "population_source_id": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901",
+    "population_date": "2024-04-01"
+  },
+  {
+    "period": "2026-27",
+    "amount_cad": 19388000000,
+    "residents": 5057077,
+    "status": "Budget 2026",
+    "source_id": "https://open.alberta.ca/dataset/3393a7b5-07bf-4b9f-8aaf-a6d89273297b/resource/58a8d024-398f-482e-b1c2-81a754a97253/download/budget-2026-fiscal-plan-2026-29.pdf",
+    "population_source_id": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901",
+    "population_date": "2026-04-01"
+  }
+]

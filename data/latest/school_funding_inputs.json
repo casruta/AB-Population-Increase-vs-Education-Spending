@@ -1,0 +1,41 @@
+[
+  {
+    "year": 2024,
+    "school_year": "2024-25",
+    "public_allocation_cad": 7758866914,
+    "lloydminster_allocation_cad": 42253040,
+    "public_headcount": 754226,
+    "lloydminster_headcount": 5705,
+    "status": "Revised allocation including in-year adjustments",
+    "funding_url": "https://www.alberta.ca/system/files/educ-budget-2025-projected-operational-funding-school-jurisdictions.pdf",
+    "funding_pdf_page": 3,
+    "enrolment_url": "https://www.alberta.ca/student-population-statistics",
+    "enrolment_locator": "Table 2: public, separate, francophone and charter; subtract authorities 3170 and 4870; 2025-26 preliminary"
+  },
+  {
+    "year": 2025,
+    "school_year": "2025-26",
+    "public_allocation_cad": 8406884442,
+    "lloydminster_allocation_cad": 45239470,
+    "public_headcount": 760687,
+    "lloydminster_headcount": 5807,
+    "status": "Revised allocation including in-year adjustments",
+    "funding_url": "https://www.alberta.ca/system/files/ecc-projected-operational-funding-school-authorities.pdf",
+    "funding_pdf_page": 3,
+    "enrolment_url": "https://www.alberta.ca/student-population-statistics",
+    "enrolment_locator": "Table 2: public, separate, francophone and charter; subtract authorities 3170 and 4870; 2025-26 preliminary"
+  },
+  {
+    "year": 2026,
+    "school_year": "2026-27",
+    "public_allocation_cad": 8942970333,
+    "lloydminster_allocation_cad": 46897209,
+    "public_headcount": null,
+    "lloydminster_headcount": null,
+    "status": "Projected allocation",
+    "funding_url": "https://www.alberta.ca/system/files/ecc-projected-operational-funding-school-authorities.pdf",
+    "funding_pdf_page": 3,
+    "enrolment_url": "https://www.alberta.ca/student-population-statistics",
+    "enrolment_locator": "Table 2: public, separate, francophone and charter; subtract authorities 3170 and 4870; 2025-26 preliminary"
+  }
+]

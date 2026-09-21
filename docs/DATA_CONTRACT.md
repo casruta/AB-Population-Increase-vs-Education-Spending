@@ -1,5 +1,7 @@
 # Evidence tables
 
+The current README additionally uses the separate `data/latest/` inputs and `report_analysis.py`, documented in [Current report methodology](CURRENT_METHODS.md). Those measures distinguish revised allocations from actuals, use September-August CPI in 2025 dollars, and calculate broad education expense per resident. The historical four-series contract below remains unchanged for its retained audit tables.
+
 The maintained build reads local, source-backed CSVs and JSON. Downloads and PDF extraction are preparation steps; the publication build never calls the network.
 
 ## Tables

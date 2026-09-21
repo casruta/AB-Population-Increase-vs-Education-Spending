@@ -1,5 +1,7 @@
 # Evidence inventory
 
+The current report additionally reads `latest/` for monthly CPI, revised school allocations and broad fiscal spending. Its definitions and refresh steps are in [Current report methodology](../docs/CURRENT_METHODS.md). The inventory below describes the retained historical four-series inputs.
+
 The publication reads four CSV tables and two JSON metadata files in this folder. The [data contract](../docs/DATA_CONTRACT.md) defines their fields and eligibility rules. Missing financial observations are absent from the inputs and become explicit gaps in generated coverage tables; they are never zero spending.
 
 | Location | Purpose |

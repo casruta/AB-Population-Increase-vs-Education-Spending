@@ -1,0 +1,50 @@
+{
+  "retrieved_date": "2026-09-20",
+  "definitions": [
+    "Operational allocation is provincial school-year funding, not audited actual spending and not all-source school expense.",
+    "Public system covers public, separate, Francophone and charter authorities. ECS pupils count as persons, not half-FTE.",
+    "2025-26 enrolment is preliminary December 2025 count.",
+    "Use Lloydminster-excluded rows for safest matched comparison: Alberta funding is a provincial contribution to cross-border divisions; geographical headcount is not necessarily resident funding eligibility.",
+    "Do not divide 2026-27 allocations by a previous-year headcount.",
+    "Use complete September-August monthly CPI averages for per-student purchasing power; 172.2 is the 2025 calendar-year reference index only."
+  ],
+  "quotes": [
+    {
+      "quote": "2025/26 Operational funding for school jurisdictions includes in-year adjustments.",
+      "url": "https://www.alberta.ca/system/files/ecc-projected-operational-funding-school-authorities.pdf",
+      "page": 3
+    },
+    {
+      "quote": "2024/25 Operational funding for school jurisdictions includes in-year adjustments.",
+      "url": "https://www.alberta.ca/system/files/educ-budget-2025-projected-operational-funding-school-jurisdictions.pdf",
+      "page": 3
+    },
+    {
+      "quote": "Enrolment as of December 2025 student count.",
+      "url": "https://www.alberta.ca/student-population-statistics",
+      "locator": "Table 2 note"
+    }
+  ],
+  "fiscal_education_function": [
+    {
+      "fiscal_year": "2023-24",
+      "cad_millions": 16359,
+      "status": "Actual"
+    },
+    {
+      "fiscal_year": "2024-25",
+      "cad_millions": 17197,
+      "status": "Actual"
+    },
+    {
+      "fiscal_year": "2026-27",
+      "cad_millions": 19388,
+      "status": "Budget"
+    }
+  ],
+  "fiscal_sources": {
+    "actual": "https://open.alberta.ca/dataset/7714457c-7527-443a-a7db-dd8c1c8ead86/resource/e6c7f85c-73bc-44d3-af00-edebf01d82a1/download/goa-annual-report-2024-2025.pdf",
+    "budget": "Repository data/raw/shared/fiscal-plan-2026.pdf printed page162 (PDF164) Schedule24"
+  },
+  "education_function_definition": "Expense by function education; excludes childcare classified Social Services. Includes postsecondary, K12 and education spending in other ministries. Capital amortization included, capital investment cash spending not added."
+}

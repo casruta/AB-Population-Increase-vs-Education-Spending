@@ -1,142 +1,104 @@
-"""Build the offline education evidence brief and its downloadable tables."""
-
+"""Rebuild the current education brief and retained historical evidence offline."""
 from __future__ import annotations
 
 import argparse
 import json
 from pathlib import Path
 
-import pandas as pd
-
 from analysis import ROOT, build_analysis
 from chart_rendering import plans_delivery, resources
+from report_analysis import build_current_report
 
 
-def _count(frame: pd.DataFrame, series_id: str) -> int:
-    return int(frame.loc[frame["series_id"].eq(series_id), "available"].sum())
+def _brief(current: dict) -> str:
+    return f"""# Alberta education funding per student
 
+**Evidence updated 20 September 2026. All amounts are Canadian dollars.**
 
-def _latest(result: dict, series_id: str) -> str:
-    item = result["summary"]["latest"].get(series_id)
-    if item is None:
-        return "no matched observation"
-    unit = result["series"][series_id]["learner_unit"]
-    return f"${item['real_per_learner']:,.0f} per {unit} ({item['period']})"
+Funding per student has increased in the latest allocations. Earlier school spending lost purchasing power after inflation.
 
+[Read the concise report](reports/alberta_education_brief.pdf) · [Download the data](budget_data/education_evidence.csv) · [Methods and sources](docs/CURRENT_METHODS.md)
 
-def _coverage_table(result: dict) -> str:
-    names = {
-        "k12_operating_grants": "K–12 · provincial revenue",
-        "postsec_operating_grants": "Post-secondary · departmental grants (20 public)",
-        "k12_operating_expenses": "K–12 · school-authority expenses",
-        "postsec_operating_expenses": "Post-secondary · three-university expenses",
-    }
-    order = list(names)
-    rows = ["| Evidence line | Latest matched learners | Matched years | Latest real amount per learner |",
-            "|---|---|---:|---|"]
-    for series_id in order:
-        matched = result["per_learner"].loc[result["per_learner"]["series_id"].eq(series_id)].dropna(subset=["real_per_learner"])
-        latest = matched.sort_values("year").iloc[-1] if not matched.empty else None
-        if latest is None:
-            learners = "none verified"
-        else:
-            learners = f"{latest['learners']:,.0f} {latest['learner_unit']} ({latest['period']})"
-        rows.append(f"| {names[series_id]} | {learners} | {_count(result['coverage'], series_id)} | {_latest(result, series_id)} |")
-    return "\n".join(rows)
+## Recent funding increased
 
+Revised operating funding rose from **$10,309 per student in 2024–25** to **${current['current_nominal_per_student']:,.0f} in 2025–26**. That is **{current['current_nominal_change']:.1%} growth in dollars**, or **{current['current_real_change']:.1%} after inflation**.
 
-def _brief(result: dict) -> str:
-    kgrant = _latest(result, "k12_operating_grants")
-    pgrant = _latest(result, "postsec_operating_grants")
-    kexp = _latest(result, "k12_operating_expenses")
-    pexp = _latest(result, "postsec_operating_expenses")
-    n = len(result["delivery"])
-    delivery_statement = (f"{n} matched original-budget/actual pairs are available."
-                          if n else "No verified original-budget/actual pair is available on these boundaries.")
-    delivery_context = ("The bars show actual less original plan on a matching measure and boundary."
-                        if n else "Reported budget columns and later forecasts cannot establish original plans for the selected measures.")
-    delivery_limits = ("A variance needs the source's explanation; its sign alone says nothing about service quality."
-                       if n else "No zero variance is implied by missing bars. The missing original-plan evidence prevents a defensible delivery assessment.")
-    delivery_question = ("Which matched variances need a published explanation of timing, accounting and service delivery?"
-                         if n else "Can each ministry or institution publish the adopted original budget, subsequent revisions and a reconciliation to the actual on the *same* recipient and accounting boundary? That would permit signed variance bars in the next edition.")
-    pair = result["per_learner"].loc[result["per_learner"]["series_id"].eq("postsec_operating_expenses")].dropna(subset=["real_per_learner"]).sort_values("year")
-    if (len(pair) == 2 and int(pair.iloc[1]["year"]) == int(pair.iloc[0]["year"]) + 1
-            and pair.iloc[0]["segment"] == pair.iloc[1]["segment"]):
-        real_change = 100 * (pair.iloc[1]["real_per_learner"] / pair.iloc[0]["real_per_learner"] - 1)
-        nominal_change = 100 * (pair.iloc[1]["amount_m"] / pair.iloc[0]["amount_m"] - 1)
-        subset_change = (f"For the verified three-university subset, real expenses per FLE were "
-                         f"{abs(real_change):.1f}% {'lower' if real_change < 0 else 'higher'} "
-                         f"in {pair.iloc[1]['period']} than {pair.iloc[0]['period']}, while "
-                         f"nominal expenses on this definition {'rose' if nominal_change >= 0 else 'fell'} "
-                         f"{abs(nominal_change):.1f}%.")
-    else:
-        subset_change = "The three-university expense evidence currently supports dated levels only."
-    return f"""# Alberta education: resources, learners and delivery
+Total funding on the matched school-authority boundary increased from **$7.717 billion to $8.362 billion**. Student headcount grew by **0.85%**, from 748,521 to 754,880.
 
-**Evidence brief · September 2026 source refresh · constant 2012 Canadian dollars**
+![Revised operating funding per student in 2024–25 and 2025–26, shown in nominal and inflation-adjusted dollars.](plots/recent_funding.png)
 
-> **What changed.** {subset_change} The latest matched K–12 school-authority expense level is **{kexp}**. **Why it matters.** School-authority revenue, institutional expense and provincial budgets answer different questions; enrolment reporting and accounting breaks constrain trend readings. **Decision supported.** Review the dated periods shown below and commission a common original-budget bridge before assessing plan delivery. These data identify questions for investigation; they do not establish funding adequacy or causation.
+These are revised funding allocations, not audited spending. The funding schedule includes “in-year adjustments”; the 2025–26 student count is preliminary.
 
-## 1 · Provincial support
+The comparison covers public, separate, francophone and charter authorities, including Early Childhood Services. Both Lloydminster boards are excluded from funding and student counts.
 
-![Two aligned sector panels of real provincial support per learner, with gaps at changes in accounting or enrolment reporting.](plots/provincial_support.png)
+## Earlier spending lost purchasing power
 
-**Finding.** The latest supported K–12 recognized provincial revenue excluding capital recognition is **{kgrant}**. The latest supported post-secondary departmental operating grants to 20 public institutions are **{pgrant}**. These are dated levels, not a cross-sector funding rank. The latest 20-institution post-secondary ratios are withheld where the FLE source flags reporting problems.
+Actual school-authority expenses per student were almost unchanged between 2016–17 and 2021–22: **$11,358 versus $11,356**.
 
-**Policy question.** Which changes in each *comparable* reporting segment warrant a source-level review of grant decisions and learner demand?
+After inflation, spending fell from **$14,334 to $12,559 in 2025 dollars**—a **{abs(current['historical_real_change']):.1%} decline**. Total expenses rose from $7.402 billion to $7.719 billion while enrolment increased.
 
-**Limits.** K–12 revenue includes reported provincial pension support and excludes directly collected opted-out-board property tax; it is not cash grants or total support. Its classification changes in 2018–19, 2022–23 omits Valhalla, and the 2023–24 compilation includes draft Northland reporting. The post-secondary numerator includes all department operating-grant programs, not just base grants; historical program boundaries are not fully harmonized. Fiscal and academic periods only approximately align. Earlier FLE years may also reflect the thesis-reporting issue flagged later; its size is unknown. [Download observations](budget_data/per_learner.csv) · [Coverage and reasons](budget_data/coverage.csv) · [Methods](docs/METHODOLOGY.md)
+![Actual school spending per student from 2016–17 to 2021–22, showing nominal dollars and purchasing power in 2025 dollars.](plots/historical_spending.png)
 
-## 2 · Institutional resources
+This measure includes instruction, transport, facilities and administration, excluding amortization. It measures spending across schools, not a single grant rate.
 
-![Two aligned sector panels of real institutional expense per learner, explicitly identifying the post-secondary three-university subset.](plots/institutional_resources.png)
+The later 2023–24 return records **$8.463 billion**, or **$11,647 per student**. That is a separately reported level because later returns changed accounting and coverage.
 
-**Finding.** The latest matched school-authority expense excluding amortization is **{kexp}**. For the defined three undergraduate universities—Alberta University of the Arts, MacEwan and Mount Royal—the latest expense excluding amortization and identified capital disposal losses is **{pexp}**. {subset_change} This subset does not describe the whole post-secondary system.
+Calgary Board of Education provides a recent local example. Its 2024–25 adjusted funding was **$9,622 per student**, versus an inflation-preserving benchmark of **$11,048**—a **12.9% gap**. This is a Calgary measure, not a provincial estimate.
 
-**Policy question.** Do changes in expenses per learner reflect staffing, facilities, pensions, research, ancillary activity or other functions, and how do institutions explain them?
+## What the 2026–27 plan provides
 
-**Limits.** Both expense measures include activity beyond classroom instruction. The three-university financial and FLE periods do not have identical month boundaries. Neither expense series is interchangeable with its provincial grant series. [Download observations](budget_data/per_learner.csv) · [Definitions](data/series.json) · [Methods](docs/METHODOLOGY.md)
+Projected public-school operating allocations total **$8.943 billion**. On the matched boundary excluding Lloydminster, the amount is **$8.896 billion**, up **{current['future_allocation_growth']:.1%}** from 2025–26.
 
-## 3 · Plans and delivery
+Preserving purchasing power per student requires the combined effect of enrolment growth and cost inflation not to exceed that increase. The 2026–27 figure remains a funding plan.
 
-![Four evidence cards show whether an original budget can be compared with an actual for the same sector, measure, year and accounting boundary.](plots/plans_and_delivery.png)
+## Overall education spending
 
-**Finding.** {delivery_statement} {delivery_context}
+Alberta's consolidated education expenses were **${current['broad2024_total']/1e9:.3f} billion in 2024–25**, approximately **${current['broad2024_per_resident']:,.0f} per resident**.
 
-**Policy question.** {delivery_question}
+**Budget 2026 provides ${current['broad2026_total']/1e9:.3f} billion**, equivalent to **${current['broad2026_per_resident']:,.0f} per resident** using April 1, 2026 population. These are respectively actual and budget amounts.
 
-**Limits.** {delivery_limits} [Matched-pair table](budget_data/delivery.csv) · [Source manifest](data/sources.json) · [Budget rules](docs/METHODOLOGY.md)
+This broader measure includes post-secondary education and institutional own-source spending. It excludes childcare and must not be added to school grants or divided by school pupils.
 
-## Demand and evidence coverage
+Within the 2026–27 operating budget, the school system receives **$10.755 billion** and Advanced Education **$7.110 billion**. Childcare's **$2.110 billion** is kept outside school comparisons.
 
-{_coverage_table(result)}
+## What to do next
 
-K–12 uses matched September school-authority **headcount**; post-secondary uses approved-program **full-load equivalents (FLE)**. Their units, institutions and periods differ. The 2025–26 K–12 enrolment is preliminary; matched financial actuals end earlier. The 20-institution post-secondary FLE counts for 2023–24 and 2024–25 are retained as reported demand context but excluded from ratios. [Download enrolment](budget_data/demand.csv) · [Coverage grid](budget_data/coverage.csv) · [Population context](budget_data/population.csv)
+Protect real funding per student by adjusting the operating baseline for enrolment growth and costs. Add separately costed learning-support priorities, then track teachers, education assistants and support capacity alongside dollars.
 
-### Evidence and reproduction
+At the matched 2025–26 headcount, an extra **$100 per student costs about $75.5 million annually**. Distinguish ongoing funding from temporary additions when costing improvements.
 
-The [K–12 financial-statement index](https://www.alberta.ca/k-12-education-financial-statements) calls its combined statements a “roll-up provincial total”; the [2023–24 source record](data/raw/k12/metadata-2023-2024.json) states “Includes draft reporting for The Northlands School Division”. The [Advanced Education 2024–25 annual report](https://open.alberta.ca/dataset/9c785a4b-e79a-465b-8fa9-322a322f1f15/resource/f0581939-0ba9-4bd8-8290-3148f224ec76/download/ae-annual-report-2024-2025.pdf) says its operating-grant schedule includes funding “from all department programs.” CPI comes from [Statistics Canada Table 18-10-0005-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501). Original files, hashes and retrieval details are in the [source manifest](data/sources.json); the [data contract](docs/DATA_CONTRACT.md), [methodology](docs/METHODOLOGY.md) and [validation report](docs/VALIDATION.md) explain selection, exclusions and checks.
+## Sources and reproduction
 
-Install the pinned dependencies with `python -m pip install -r requirements.txt -c constraints.txt`, then rebuild the figures, derived tables and this brief offline with `python generate_all_charts.py`. Run the tests with `python -m unittest discover -v`. Use `--output-dir PATH` for an isolated build. The repository keeps the prior exploratory work in [the archive](archive/README.md).
+The current report uses [Alberta operating allocations](https://www.alberta.ca/system/files/ecc-projected-operational-funding-school-authorities.pdf), [student statistics](https://www.alberta.ca/student-population-statistics), official financial statements and Statistics Canada. Full links, definitions and accounting boundaries are in the [methodology](docs/CURRENT_METHODS.md) and [source manifest](data/latest/source_manifest.json).
+
+Inflation is matched to each September–August school year and expressed in **2025 dollars**. Monthly CPI extends through August 2026. Historical audit tables retain their separately documented 2012-dollar convention.
+
+```bash
+python -m pip install -r requirements.txt -c constraints.txt
+python generate_all_charts.py
+python -m unittest discover -v
+```
+
+The build runs offline. Use `--output-dir PATH` for an isolated build. The PDF is the reviewed September 2026 snapshot; the README, charts and evidence tables rebuild from checked-in inputs.
 """
 
 
 def build(destination: Path) -> dict:
+    destination = Path(destination)
     result = build_analysis(ROOT)
     destination.mkdir(parents=True, exist_ok=True)
     tables = destination / "budget_data"
     plots = destination / "plots"
     tables.mkdir(exist_ok=True)
-    for key, name in (("per_learner", "per_learner"), ("coverage", "coverage"),
-                      ("demand", "demand"), ("delivery", "delivery"),
-                      ("population", "population")):
-        result[key].to_csv(tables / f"{name}.csv", index=False, float_format="%.6f")
-    (tables / "summary.json").write_text(json.dumps(result["summary"], indent=2) + "\n",
-                                         encoding="utf-8")
+    for key in ("per_learner", "coverage", "demand", "delivery", "population"):
+        result[key].to_csv(tables / f"{key}.csv", index=False, float_format="%.6f")
+    (tables / "summary.json").write_text(json.dumps(result["summary"], indent=2) + "\n", encoding="utf-8")
     resources(result, "grants", plots)
     resources(result, "expenses", plots)
     plans_delivery(result, plots)
-    (destination / "README.md").write_text(_brief(result), encoding="utf-8")
+    current = build_current_report(destination)
+    (destination / "README.md").write_text(_brief(current), encoding="utf-8")
+    result["current_report"] = current
     return result
 
 

@@ -1,3 +1,5 @@
 # Preserve evidence snapshots and their recorded SHA-256 checksums on all systems.
 data/raw/** -text
+data/latest/** -text
+reports/*.pdf binary
 archive/original/** -text

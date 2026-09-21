@@ -1,5 +1,11 @@
 # Evidence-brief migration
 
+## September 2026 report integration
+
+The README now leads with the reviewed report's findings in short paragraphs. Added revised 2024-25 and 2025-26 school allocations, projected 2026-27 funding, monthly CPI through August 2026, and consolidated education expense per resident. Current charts use 2025 dollars and school-year inflation. The downloadable PDF preserves the reviewed report snapshot.
+
+The previous four-series analysis remains available as supporting audit evidence, with its original definitions intact. The publication build regenerates the current README, charts and evidence tables offline; tests distinguish the new measures from historical audit outputs.
+
 The earlier analysis compared five selected ministry-budget observations with provincial population. Its unmodified code, inputs, notebooks and charts are preserved in `archive/original/` from commit `b261e252c19eb8709d023297e752e2f1d3e8ea55`.
 
 The maintained publication separates provincial grants from institutional expenses and matches each approved series to its own learner coverage. It does not promote earlier ministry totals into either of those measures.

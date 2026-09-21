@@ -1,5 +1,7 @@
 # Reading the evidence
 
+The current README and report use the [current report methodology](CURRENT_METHODS.md): school-year CPI in 2025 dollars, revised school allocations through 2025-26 and projected funding for 2026-27. The sections below document the retained historical four-series analysis and its older 2012-dollar convention. Those legacy figures are not the current report's headline measures.
+
 ## Two sectors, two financial questions
 
 The provincial-support panels show selected recognized provincial revenue for school authorities and departmental operating grants for post-secondary institutions. The institutional-resource panels show expenses with explicit exclusions, across the included revenue sources. These measures must not be interchanged. The difference between them is not automatically own-source revenue: timing, accounting recognition, transfers and consolidation can prevent that identity.
