@@ -2,7 +2,7 @@
 
 ## Current report integration
 
-All **14 tests pass**, including the six new report checks. Two complete builds with network access disabled produced **19 byte-identical artifacts**. All seven local README links resolve, and the longest prose paragraph is 34 words. Independent review confirmed both current charts have readable labels and no clipping or overlapping text.
+All **14 tests pass**, including the six new report checks. Two complete builds with network access disabled produced **19 byte-identical artifacts**. All seven local README links resolve. After the editorial revision, every explanatory paragraph leads with its main point, no em dashes remain in the README, and the longest prose paragraph is 37 words. Independent review confirmed both current charts have readable labels and no clipping or overlapping text.
 
 The updated README's school-year CPI, current funding and per-resident calculations are checked by `test_report_analysis.py` in addition to the original tests. GitHub Actions runs the full test discovery command. See [current methodology](CURRENT_METHODS.md) for the financial and price boundaries.
 
