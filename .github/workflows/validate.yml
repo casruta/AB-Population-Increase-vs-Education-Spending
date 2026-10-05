@@ -16,5 +16,7 @@ jobs:
         run: python -m pip install -r requirements.txt -c constraints.txt
       - name: Validate evidence and calculations
         run: python -m unittest discover -v
+      - name: Validate reviewed evidence and rejection gates
+        run: python docs/research/validate_extended_evidence.py
       - name: Build publication offline
         run: python generate_all_charts.py --output-dir validation-output

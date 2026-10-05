@@ -1,0 +1,48 @@
+{
+  "historical_2016_17_to_2021_22": {
+    "total_nominal_growth": 0.042815380061742125,
+    "pupil_growth": 0.04302459578607842,
+    "school_year_cpi_growth": 0.14107731769879073,
+    "real_per_student_growth": -0.12381098205796426,
+    "identity": "(1+total growth)/(1+pupil growth)/(1+CPI growth)-1"
+  },
+  "allocations_2024_25_to_2025_26": {
+    "total_nominal_growth": 0.08358991502391189,
+    "pupil_growth": 0.00849541963418532,
+    "school_year_cpi_growth": 0.026787453730761523,
+    "real_per_student_growth": 0.04643069635463304,
+    "identity": "(1+total growth)/(1+pupil growth)/(1+CPI growth)-1"
+  },
+  "illustrative_100_dollars_per_student_cad": 75488000.0,
+  "2026_27_scenarios": [
+    {
+      "status": "illustrative break-even scenario; not forecast",
+      "total_allocation_growth": 0.06391423622858872,
+      "assumed_cost_growth": 0.02,
+      "maximum_pupil_growth_preserving_resources_per_pupil": 0.04305317277312626,
+      "limitation": "Assumes uniform cost growth and unchanged student needs; local staffing and space may constrain delivery."
+    },
+    {
+      "status": "illustrative break-even scenario; not forecast",
+      "total_allocation_growth": 0.06391423622858872,
+      "assumed_cost_growth": 0.03,
+      "maximum_pupil_growth_preserving_resources_per_pupil": 0.032926442940377276,
+      "limitation": "Assumes uniform cost growth and unchanged student needs; local staffing and space may constrain delivery."
+    },
+    {
+      "status": "illustrative break-even scenario; not forecast",
+      "total_allocation_growth": 0.06391423622858872,
+      "assumed_cost_growth": 0.04,
+      "maximum_pupil_growth_preserving_resources_per_pupil": 0.022994457912104416,
+      "limitation": "Assumes uniform cost growth and unchanged student needs; local staffing and space may constrain delivery."
+    }
+  ],
+  "reported_expenses_79_authorities_2023_24_to_2024_25": {
+    "total_nominal_growth": 0.03711710119589151,
+    "pupil_growth": 0.02895112055535054,
+    "school_year_cpi_growth": 0.021441719317446983,
+    "real_per_student_growth": -0.01322199870263352,
+    "identity": "(1+total growth)/(1+pupil growth)/(1+CPI growth)-1",
+    "limitation": "Reported expenses only; accounting changes, audit qualification and cohort selection limit resource interpretation."
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "year": 2021,
+    "reference_date": "2021-07-01",
+    "age_band": "5\u201317",
+    "persons": 718618
+  },
+  {
+    "year": 2022,
+    "reference_date": "2022-07-01",
+    "age_band": "5\u201317",
+    "persons": 733248
+  },
+  {
+    "year": 2023,
+    "reference_date": "2023-07-01",
+    "age_band": "5\u201317",
+    "persons": 758148
+  },
+  {
+    "year": 2024,
+    "reference_date": "2024-07-01",
+    "age_band": "5\u201317",
+    "persons": 787156
+  },
+  {
+    "year": 2025,
+    "reference_date": "2025-07-01",
+    "age_band": "5\u201317",
+    "persons": 799473
+  },
+  {
+    "year": 2026,
+    "reference_date": "2026-07-01",
+    "age_band": "5\u201317",
+    "persons": 806506
+  }
+]

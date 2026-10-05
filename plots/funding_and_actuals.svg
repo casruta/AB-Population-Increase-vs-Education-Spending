@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="705.6pt" height="460.8pt" viewBox="0 0 705.6 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.8 
+L 705.6 460.8 
+L 705.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 56.448 299.52 
+L 324.817231 299.52 
+L 324.817231 101.376 
+L 56.448 101.376 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="111.931961" y="311.377422" transform="rotate(-0 111.931961 311.377422)">2023–24</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="269.33327" y="311.377422" transform="rotate(-0 269.33327 311.377422)">2024–25</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <path d="M 56.448 299.52 
+L 324.817231 299.52 
+" clip-path="url(#pb6fe7e6e8a)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="52.948" y="303.699141" transform="rotate(-0 52.948 303.699141)">$0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <path d="M 56.448 239.476364 
+L 324.817231 239.476364 
+" clip-path="url(#pb6fe7e6e8a)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="52.948" y="243.655504" transform="rotate(-0 52.948 243.655504)">$5,000</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <path d="M 56.448 179.432727 
+L 324.817231 179.432727 
+" clip-path="url(#pb6fe7e6e8a)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="52.948" y="183.611868" transform="rotate(-0 52.948 183.611868)">$10,000</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <path d="M 56.448 119.389091 
+L 324.817231 119.389091 
+" clip-path="url(#pb6fe7e6e8a)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="52.948" y="123.568232" transform="rotate(-0 52.948 123.568232)">$15,000</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 68.646601 299.52 
+L 155.217321 299.52 
+L 155.217321 155.745553 
+L 68.646601 155.745553 
+z
+" clip-path="url(#pb6fe7e6e8a)" style="fill: #51616f"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 226.04791 299.52 
+L 312.618629 299.52 
+L 312.618629 157.646539 
+L 226.04791 157.646539 
+z
+" clip-path="url(#pb6fe7e6e8a)" style="fill: #007f86"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 56.448 299.52 
+L 324.817231 299.52 
+" style="fill: none; stroke: #c7d0d7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="111.931961" y="151.542498" transform="rotate(-0 111.931961 151.542498)">$11,972</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="269.33327" y="153.443484" transform="rotate(-0 269.33327 153.443484)">$11,814</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="56.448" y="85.376" transform="rotate(-0 56.448 85.376)">79 continuing authorities: -1.3%</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_6">
+    <path d="M 416.062769 299.52 
+L 684.432 299.52 
+L 684.432 101.376 
+L 416.062769 101.376 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_3">
+     <g id="line2d_11"/>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="471.54673" y="311.377422" transform="rotate(-0 471.54673 311.377422)">2024–25</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_12"/>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="628.948039" y="311.377422" transform="rotate(-0 628.948039 311.377422)">2025–26</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <path d="M 416.062769 299.52 
+L 684.432 299.52 
+" clip-path="url(#pb9fe50b22d)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_12">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="412.562769" y="303.699141" transform="rotate(-0 412.562769 303.699141)">$0</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <path d="M 416.062769 239.476364 
+L 684.432 239.476364 
+" clip-path="url(#pb9fe50b22d)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_13">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="412.562769" y="243.655504" transform="rotate(-0 412.562769 243.655504)">$5,000</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17">
+      <path d="M 416.062769 179.432727 
+L 684.432 179.432727 
+" clip-path="url(#pb9fe50b22d)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18"/>
+     <g id="text_14">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="412.562769" y="183.611868" transform="rotate(-0 412.562769 183.611868)">$10,000</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_19">
+      <path d="M 416.062769 119.389091 
+L 684.432 119.389091 
+" clip-path="url(#pb9fe50b22d)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20"/>
+     <g id="text_15">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="412.562769" y="123.568232" transform="rotate(-0 412.562769 123.568232)">$15,000</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 428.261371 299.52 
+L 514.83209 299.52 
+L 514.83209 174.924344 
+L 428.261371 174.924344 
+z
+" clip-path="url(#pb9fe50b22d)" style="fill: #51616f"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 585.662679 299.52 
+L 672.233399 299.52 
+L 672.233399 169.139281 
+L 585.662679 169.139281 
+z
+" clip-path="url(#pb9fe50b22d)" style="fill: #007f86"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 416.062769 299.52 
+L 684.432 299.52 
+" style="fill: none; stroke: #c7d0d7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="471.54673" y="170.72129" transform="rotate(-0 471.54673 170.72129)">$10,375</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="628.948039" y="164.936227" transform="rotate(-0 628.948039 164.936227)">$10,857</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="416.062769" y="85.376" transform="rotate(-0 416.062769 85.376)">Revised allocations: +4.6%</text>
+   </g>
+  </g>
+  <g id="text_19">
+   <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="21.168" y="18.432" transform="rotate(-0 21.168 18.432)">Reported expenses fell; later allocations rose</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="21.168" y="43.776" transform="rotate(-0 21.168 43.776)">Alberta schools • dollars per student, adjusted to 2025 purchasing power</text>
+  </g>
+  <g id="text_21">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="21.168" y="354.816" transform="rotate(-0 21.168 354.816)">Latest reconstructed actual level (2024–25, 83 authorities): $11,814 per student</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="21.168" y="377.856" transform="rotate(-0 21.168 377.856)">Actuals include accounting restatements and Valhalla’s qualified audit; this is not a harmonized resource trend.</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #51616f" x="21.168" y="403.2" transform="rotate(-0 21.168 403.2)">Expenses exclude amortization and include all authority funding sources. Allocations are provincial funding.</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #51616f" transform="translate(21.168 418.845266)">Public, separate, francophone and charter authorities; ECS included; Lloydminster excluded.</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #51616f" transform="translate(21.168 430.848)">2025–26 source count is preliminary and labelled “as of December 2025”.</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #51616f" x="21.168" y="449.28" transform="rotate(-0 21.168 449.28)">Sources: Alberta authority statements and allocations; Statistics Canada school-year CPI. Verified 5 October 2026.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb6fe7e6e8a">
+   <rect x="56.448" y="101.376" width="268.369231" height="198.144"/>
+  </clipPath>
+  <clipPath id="pb9fe50b22d">
+   <rect x="416.062769" y="101.376" width="268.369231" height="198.144"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,39 @@
+[
+  {
+    "archived_pdf": "data/raw/k12/educ-annual-report-2024-2025.pdf",
+    "sha256": "ac9d5ff12fd80811686f64c4350417b352a135d945fb0703f0da5c035423c546",
+    "excerpts": [
+      {
+        "term": "95,737",
+        "pdf_page": 64,
+        "excerpt": "\u2022 $596.2 million allocated to the Specialized Learning Supports Grant for school jurisdictions to provide\n  a continuum of specialized supports and services to students in an inclusive learning environment;\n\u2022 $116 million allocated to the English as an Additional Language Grant and Francisation Grant to support\n  school authorities or francophone regional authorities with 95,737 children or students who require\n  additional support in the English or French language; and\n\u2022 $57.5 million allocated to the Refugee Student Grant to help school authorities provide additional\n  language, social and educational supports to 11,137 refugee students."
+      },
+      {
+        "term": "11,137",
+        "pdf_page": 64,
+        "excerpt": "  school authorities or francophone regional authorities with 95,737 children or students who require\n  additional support in the English or French language; and\n\u2022 $57.5 million allocated to the Refugee Student Grant to help school authorities provide additional\n  language, social and educational supports to 11,137 refugee students.\n\nProgram Unit Funding\nA total of $219.9 million in learning support funding will be allocated to Program Unit Funding (PUF)"
+      }
+    ]
+  },
+  {
+    "archived_pdf": "data/raw/shared/fiscal-plan-2026.pdf",
+    "sha256": "0ce62efa4f0a977c9e0fe583ecfc8b6e17c898d48de49fdb3a29a55efc5883a2",
+    "excerpts": [
+      {
+        "term": "30,000 temporary residents",
+        "pdf_page": 37,
+        "excerpt": "population growth is forecast to fall to 1.1 per cent in 2026. This reflects large net\noutflows of non-permanent residents and lower immigration targets under the\n2026\u20132028 Federal Immigration Levels Plan (Chart 12). In the 2026 census year,\nAlberta is expected to shed 30,000 temporary residents, a sharp reversal from the\nnet gain of 21,500 recorded in 2025. Permanent immigration is also expected\nto dip as lower national targets take effect. The downshift in will lead to more\n Population"
+      },
+      {
+        "term": "migration of 24,000",
+        "pdf_page": 38,
+        "excerpt": "     permanent immigration are projected to more than offset losses of temporary\n     residents. Alberta\u2019s relatively strong economic fundamentals and continued\n     affordability advantage are expected to sustain above-average interprovincial\n     migration of 24,000. Supported by net migration and natural increase,\n     Alberta\u2019s population is expected to expand by about 55,000 people in the\n     2026 census year.\n     Population growth is expected to remain subdued at 1.1 per cent in the 2027"
+      },
+      {
+        "term": "English as an Additional Language, Refugee Students",
+        "pdf_page": 81,
+        "excerpt": "Students with specialized learning needs require additional support. $1.8 billion\nhas been budgeted in 2026-27, an increase of $86.5 million from 2025-26,\nfor students through Specialized Learning Supports, Program Unit Funding,\nEnglish as an Additional Language, Refugee Students, and First Nations, M\u00e9tis\nand Inuit students.\nThe Class Size and Complexity Cabinet Committee was created in October\n2025. It is engaging with school boards, community leaders and education"
+      }
+    ]
+  }
+]

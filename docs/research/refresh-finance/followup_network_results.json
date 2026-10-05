@@ -1,0 +1,88 @@
+[
+  {
+    "id": "exact_search_0",
+    "url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%222024-2025+school+authorities+audited+financial+statements%22&rows=100",
+    "checked_at_utc": "2026-10-05T02:35:52.397461+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%222024-2025+school+authorities+audited+financial+statements%22&rows=100",
+    "content_type": "application/json;charset=utf-8",
+    "last_modified": null,
+    "bytes": 67163,
+    "sha256": "39522cd7152cd09b1112237575cd882ee372198af181cd4c049f19792602e0cb",
+    "body_file": "docs/research/refresh-finance/responses/exact_search_0"
+  },
+  {
+    "id": "exact_search_1",
+    "url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%222023-2024+school+authorities+audited+financial+statements%22&rows=100",
+    "checked_at_utc": "2026-10-05T02:35:52.398213+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%222023-2024+school+authorities+audited+financial+statements%22&rows=100",
+    "content_type": "application/json;charset=utf-8",
+    "last_modified": null,
+    "bytes": 83626,
+    "sha256": "13d45c3c2fc861801589268568984d23c8d13c7256d39ac6b44fa755cbba1922",
+    "body_file": "docs/research/refresh-finance/responses/exact_search_1"
+  },
+  {
+    "id": "exact_search_2",
+    "url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%22school+authority+audited+financial+statements%22&rows=100",
+    "checked_at_utc": "2026-10-05T02:35:52.398620+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%22school+authority+audited+financial+statements%22&rows=100",
+    "content_type": "application/json;charset=utf-8",
+    "last_modified": null,
+    "bytes": 1994729,
+    "sha256": "55b84a3725ce677a63d8946489cea05a508b0132565b37bab40bebd14182d968",
+    "body_file": "docs/research/refresh-finance/responses/exact_search_2"
+  },
+  {
+    "id": "live_enrolment_metadata",
+    "url": "https://open.alberta.ca/api/3/action/package_show?id=ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7",
+    "checked_at_utc": "2026-10-05T02:35:52.399136+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/api/3/action/package_show?id=ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7",
+    "content_type": "application/json;charset=utf-8",
+    "last_modified": null,
+    "bytes": 18710,
+    "sha256": "3c1c79485e6f931a4ae4025a2f0467b78278e8e961a4a2ac79d4acc19f0cb992",
+    "body_file": "docs/research/refresh-finance/responses/live_enrolment_metadata"
+  },
+  {
+    "id": "live_combined_metadata",
+    "url": "https://open.alberta.ca/api/3/action/package_show?id=2a9487b1-9d7a-47db-9f05-e633c315e447",
+    "checked_at_utc": "2026-10-05T02:35:52.399487+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/api/3/action/package_show?id=2a9487b1-9d7a-47db-9f05-e633c315e447",
+    "content_type": "application/json;charset=utf-8",
+    "last_modified": null,
+    "bytes": 11717,
+    "sha256": "8b42ec7b90c2fbe345b276554307bfcc237134f96df7e51fdf1aa15b18829fd7",
+    "body_file": "docs/research/refresh-finance/responses/live_combined_metadata"
+  },
+  {
+    "id": "individual_actual2024",
+    "url": "https://open.alberta.ca/publications/2828632-2024-2025",
+    "checked_at_utc": "2026-10-05T02:35:52.541044+00:00",
+    "tls_verification": true,
+    "status": null,
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "cpi_daily",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260914/dq260914a-eng.htm",
+    "checked_at_utc": "2026-10-05T02:35:52.593462+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260914/dq260914a-eng.htm",
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "bytes": 34612,
+    "sha256": "a0bda8b8017c21932b3cc2bc7aeb737c66c65a9e7f2c5f264b73c759ca87f2d5",
+    "body_file": "docs/research/refresh-finance/responses/cpi_daily"
+  }
+]

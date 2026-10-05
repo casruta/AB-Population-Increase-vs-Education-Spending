@@ -1,0 +1,24 @@
+[
+  {
+    "id": "funding_framework",
+    "url": "https://www.alberta.ca/k-12-education-funding-framework",
+    "checked_at_utc": "2026-10-05T02:44:34.429477+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://www.alberta.ca/k-12-education-funding-framework",
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": "Mon, 05 Oct 2026 02:27:13 GMT",
+    "bytes": 42071,
+    "sha256": "7bcadb4a01dd95a707cbf42c7f97ac323eceb1b5e8896e15255520a2cc3113cb",
+    "body_file": "docs/research/refresh-finance/responses/funding_framework"
+  },
+  {
+    "id": "funding_framework2026",
+    "url": "https://www.alberta.ca/funding-manual-for-school-authorities",
+    "checked_at_utc": "2026-10-05T02:44:34.659127+00:00",
+    "tls_verification": true,
+    "status": 404,
+    "error": "\n  \n<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"goa-components-2 theme--default\" id=\"template-service\" lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"goa-components-2 theme--default\" id=\"template-service\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\" content=\"We could not find the page you requested on Alberta.ca.\" />\n<link rel=\"canonical\" href=\"https://www.alberta.ca/page-not-found\" />\n<meta name=\"template\" content=\"Service\" />\n<meta name=\"ministry-id\" content=\"4\" />\n<meta name=\"page-type\" content=\"Program\" />\n<meta name=\"published\" content=\"2024-02-20T10:46:38-0700\" />\n<meta name=\"robots\" content=\"noindex\" />\n<meta name=\"robots\" content=\"nofollow\" />\n<meta name=\"robots\" content=\"noarchive\" />\n<meta name=\"landing\" content=\"false\" />\n<meta name=\"id\" content=\"7115\" />\n<meta property=\"og:site_name\" content=\"Alberta.ca\" />\n<meta property=\"og:type\" content=\"Article\" />\n<meta property=\"og:url\" content=\"https://www.alberta.ca/funding-manual-for-school-authorities\" />\n<meta property=\"og:title\" content=\"Page not found\" />\n<meta property=\"og:description\" content=\"We could not find the page you requested on Alberta.ca.\" />\n<meta property=\"og:image\" content=\"https://www.alberta.ca/system/files/alberta-share-legislature.jpg\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:title\" content=\"Page not found\" />\n<meta name=\"twitter:image\" content=\"https://www.alberta.ca/system/files/alberta-share-legislature.jpg\" />\n<meta name=\"Generator\" content=\"Drupal 10 (https://www.drupal.org)\" />\n<meta name=\"MobileOptimized\" content=\"width\" />\n<meta name=\"HandheldFriendly\" content=\"true\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n<link rel=\"preconnect\" href=\"https://challenges.cloudflare.com\" />\n<link rel=\"icon\" href=\"/themes/custom/goa_core/favicon.ico\" type=\"image/vnd.microsoft.icon\" />\n<link rel=\"alternate\" hreflang=\"en\" href=\"https://www.alberta.ca/page-not-found\" />\n\n    <title>Page not found | Alberta.ca</title>\n   ",
+    "proxy_error": null
+  }
+]

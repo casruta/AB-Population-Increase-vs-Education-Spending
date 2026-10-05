@@ -1,0 +1,26 @@
+{
+  "retrieved_at": "2026-10-05T02:41:05.993339+00:00",
+  "requests": [
+    {
+      "url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%22annual+report%22+AND+%28title%3Aeducation+OR+title%3Achildcare%29&rows=100",
+      "http_code": "200",
+      "curl_exit_code": 0,
+      "sha256": "6574c571c8f10eddc6d134c37232bcc43c92f077eefac588154acc19d27d7cb8",
+      "local_path": "all-education-annual-search.json"
+    },
+    {
+      "url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%22class+size%22&rows=100",
+      "http_code": "200",
+      "curl_exit_code": 0,
+      "sha256": "cd7aeb8b3c395d4027833ee2c52f9ddf331b911b2625d880e5993593f6b44042",
+      "local_path": "class-size-search.json"
+    },
+    {
+      "url": "https://open.alberta.ca/api/3/action/package_search?q=title%3A%22Assurance%22+AND+title%3A%22Measure%22&rows=100",
+      "http_code": "200",
+      "curl_exit_code": 0,
+      "sha256": "f9c15f676dcda19f808fa2c264624a21c9fc222a97f75257b8f6c2e5705ac728",
+      "local_path": "assurance-search.json"
+    }
+  ]
+}

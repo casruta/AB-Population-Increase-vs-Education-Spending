@@ -1,0 +1,770 @@
+[
+  {
+    "product": "17100008",
+    "dimension": "Components of population growth",
+    "member": "Immigrants",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "not applicable",
+      "Age group": "all ages"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100008/17100008.csv",
+    "observations": [
+      {
+        "age": "All ages",
+        "vector": "v391113",
+        "coordinate": "10.3",
+        "value": 50158,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100008",
+    "dimension": "Components of population growth",
+    "member": "Net emigration",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "not applicable",
+      "Age group": "all ages"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100008/17100008.csv",
+    "observations": [
+      {
+        "age": "All ages",
+        "vector": "v1566834752",
+        "coordinate": "10.13",
+        "value": 6744,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100008",
+    "dimension": "Components of population growth",
+    "member": "Net non-permanent residents",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "not applicable",
+      "Age group": "all ages"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100008/17100008.csv",
+    "observations": [
+      {
+        "age": "All ages",
+        "vector": "v29768565",
+        "coordinate": "10.12",
+        "value": -7957,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100008",
+    "dimension": "Components of population growth",
+    "member": "Net interprovincial migration",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "not applicable",
+      "Age group": "all ages"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100008/17100008.csv",
+    "observations": [
+      {
+        "age": "All ages",
+        "vector": "v391142",
+        "coordinate": "10.5",
+        "value": 21662,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100008",
+    "dimension": "Components of population growth",
+    "member": "Births",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "not applicable",
+      "Age group": "all ages"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100008/17100008.csv",
+    "observations": [
+      {
+        "age": "All ages",
+        "vector": "v391083",
+        "coordinate": "10.1",
+        "value": 53343,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100008",
+    "dimension": "Components of population growth",
+    "member": "Deaths",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "not applicable",
+      "Age group": "all ages"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100008/17100008.csv",
+    "observations": [
+      {
+        "age": "All ages",
+        "vector": "v391098",
+        "coordinate": "10.2",
+        "value": 34043,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100014",
+    "dimension": "Type of migrant",
+    "member": "Immigrants",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "Total - gender",
+      "Age group": "single ages5\u201317"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100014-alberta.csv",
+    "observations": [
+      {
+        "age": "5 years",
+        "vector": "v440456",
+        "coordinate": "10.1.1.9",
+        "value": 726,
+        "row_status": ""
+      },
+      {
+        "age": "6 years",
+        "vector": "v440177",
+        "coordinate": "10.1.1.10",
+        "value": 723,
+        "row_status": ""
+      },
+      {
+        "age": "7 years",
+        "vector": "v440198",
+        "coordinate": "10.1.1.11",
+        "value": 708,
+        "row_status": ""
+      },
+      {
+        "age": "8 years",
+        "vector": "v440201",
+        "coordinate": "10.1.1.12",
+        "value": 739,
+        "row_status": ""
+      },
+      {
+        "age": "9 years",
+        "vector": "v440204",
+        "coordinate": "10.1.1.13",
+        "value": 670,
+        "row_status": ""
+      },
+      {
+        "age": "10 years",
+        "vector": "v440210",
+        "coordinate": "10.1.1.15",
+        "value": 670,
+        "row_status": ""
+      },
+      {
+        "age": "11 years",
+        "vector": "v440213",
+        "coordinate": "10.1.1.16",
+        "value": 721,
+        "row_status": ""
+      },
+      {
+        "age": "12 years",
+        "vector": "v440216",
+        "coordinate": "10.1.1.17",
+        "value": 638,
+        "row_status": ""
+      },
+      {
+        "age": "13 years",
+        "vector": "v440219",
+        "coordinate": "10.1.1.18",
+        "value": 552,
+        "row_status": ""
+      },
+      {
+        "age": "14 years",
+        "vector": "v440222",
+        "coordinate": "10.1.1.19",
+        "value": 621,
+        "row_status": ""
+      },
+      {
+        "age": "15 years",
+        "vector": "v440231",
+        "coordinate": "10.1.1.21",
+        "value": 522,
+        "row_status": ""
+      },
+      {
+        "age": "16 years",
+        "vector": "v440234",
+        "coordinate": "10.1.1.22",
+        "value": 572,
+        "row_status": ""
+      },
+      {
+        "age": "17 years",
+        "vector": "v440237",
+        "coordinate": "10.1.1.23",
+        "value": 512,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100014",
+    "dimension": "Type of migrant",
+    "member": "Net emigration",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "Total - gender",
+      "Age group": "single ages5\u201317"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100014-alberta.csv",
+    "observations": [
+      {
+        "age": "5 years",
+        "vector": "v1566868034",
+        "coordinate": "10.1.8.9",
+        "value": 147,
+        "row_status": ""
+      },
+      {
+        "age": "6 years",
+        "vector": "v1566868035",
+        "coordinate": "10.1.8.10",
+        "value": 149,
+        "row_status": ""
+      },
+      {
+        "age": "7 years",
+        "vector": "v1566868036",
+        "coordinate": "10.1.8.11",
+        "value": 151,
+        "row_status": ""
+      },
+      {
+        "age": "8 years",
+        "vector": "v1566868037",
+        "coordinate": "10.1.8.12",
+        "value": 146,
+        "row_status": ""
+      },
+      {
+        "age": "9 years",
+        "vector": "v1566868038",
+        "coordinate": "10.1.8.13",
+        "value": 138,
+        "row_status": ""
+      },
+      {
+        "age": "10 years",
+        "vector": "v1566868040",
+        "coordinate": "10.1.8.15",
+        "value": 128,
+        "row_status": ""
+      },
+      {
+        "age": "11 years",
+        "vector": "v1566868041",
+        "coordinate": "10.1.8.16",
+        "value": 119,
+        "row_status": ""
+      },
+      {
+        "age": "12 years",
+        "vector": "v1566868042",
+        "coordinate": "10.1.8.17",
+        "value": 104,
+        "row_status": ""
+      },
+      {
+        "age": "13 years",
+        "vector": "v1566868043",
+        "coordinate": "10.1.8.18",
+        "value": 86,
+        "row_status": ""
+      },
+      {
+        "age": "14 years",
+        "vector": "v1566868044",
+        "coordinate": "10.1.8.19",
+        "value": 64,
+        "row_status": ""
+      },
+      {
+        "age": "15 years",
+        "vector": "v1566868046",
+        "coordinate": "10.1.8.21",
+        "value": 42,
+        "row_status": ""
+      },
+      {
+        "age": "16 years",
+        "vector": "v1566868047",
+        "coordinate": "10.1.8.22",
+        "value": 21,
+        "row_status": ""
+      },
+      {
+        "age": "17 years",
+        "vector": "v1566868048",
+        "coordinate": "10.1.8.23",
+        "value": 8,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100014",
+    "dimension": "Type of migrant",
+    "member": "Net non-permanent residents",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "Total - gender",
+      "Age group": "single ages5\u201317"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100014-alberta.csv",
+    "observations": [
+      {
+        "age": "5 years",
+        "vector": "v41444792",
+        "coordinate": "10.1.7.9",
+        "value": 461,
+        "row_status": ""
+      },
+      {
+        "age": "6 years",
+        "vector": "v41444679",
+        "coordinate": "10.1.7.10",
+        "value": 505,
+        "row_status": ""
+      },
+      {
+        "age": "7 years",
+        "vector": "v41444690",
+        "coordinate": "10.1.7.11",
+        "value": 304,
+        "row_status": ""
+      },
+      {
+        "age": "8 years",
+        "vector": "v41444701",
+        "coordinate": "10.1.7.12",
+        "value": 511,
+        "row_status": ""
+      },
+      {
+        "age": "9 years",
+        "vector": "v41444708",
+        "coordinate": "10.1.7.13",
+        "value": -141,
+        "row_status": ""
+      },
+      {
+        "age": "10 years",
+        "vector": "v41444710",
+        "coordinate": "10.1.7.15",
+        "value": -96,
+        "row_status": ""
+      },
+      {
+        "age": "11 years",
+        "vector": "v41444711",
+        "coordinate": "10.1.7.16",
+        "value": 348,
+        "row_status": ""
+      },
+      {
+        "age": "12 years",
+        "vector": "v41444712",
+        "coordinate": "10.1.7.17",
+        "value": 224,
+        "row_status": ""
+      },
+      {
+        "age": "13 years",
+        "vector": "v41444713",
+        "coordinate": "10.1.7.18",
+        "value": 387,
+        "row_status": ""
+      },
+      {
+        "age": "14 years",
+        "vector": "v41444714",
+        "coordinate": "10.1.7.19",
+        "value": 6,
+        "row_status": ""
+      },
+      {
+        "age": "15 years",
+        "vector": "v41444717",
+        "coordinate": "10.1.7.21",
+        "value": 364,
+        "row_status": ""
+      },
+      {
+        "age": "16 years",
+        "vector": "v41444718",
+        "coordinate": "10.1.7.22",
+        "value": 384,
+        "row_status": ""
+      },
+      {
+        "age": "17 years",
+        "vector": "v41444719",
+        "coordinate": "10.1.7.23",
+        "value": 151,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100015",
+    "dimension": "Migrants",
+    "member": "Net-migration",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "Total - gender",
+      "Age group": "single ages5\u201317"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100015-alberta.csv",
+    "observations": [
+      {
+        "age": "5 years",
+        "vector": "v454882",
+        "coordinate": "10.1.3.9",
+        "value": 285,
+        "row_status": ""
+      },
+      {
+        "age": "6 years",
+        "vector": "v454045",
+        "coordinate": "10.1.3.10",
+        "value": 309,
+        "row_status": ""
+      },
+      {
+        "age": "7 years",
+        "vector": "v454108",
+        "coordinate": "10.1.3.11",
+        "value": 309,
+        "row_status": ""
+      },
+      {
+        "age": "8 years",
+        "vector": "v454117",
+        "coordinate": "10.1.3.12",
+        "value": 267,
+        "row_status": ""
+      },
+      {
+        "age": "9 years",
+        "vector": "v454126",
+        "coordinate": "10.1.3.13",
+        "value": 282,
+        "row_status": ""
+      },
+      {
+        "age": "10 years",
+        "vector": "v454144",
+        "coordinate": "10.1.3.15",
+        "value": 287,
+        "row_status": ""
+      },
+      {
+        "age": "11 years",
+        "vector": "v454153",
+        "coordinate": "10.1.3.16",
+        "value": 262,
+        "row_status": ""
+      },
+      {
+        "age": "12 years",
+        "vector": "v454162",
+        "coordinate": "10.1.3.17",
+        "value": 247,
+        "row_status": ""
+      },
+      {
+        "age": "13 years",
+        "vector": "v454171",
+        "coordinate": "10.1.3.18",
+        "value": 240,
+        "row_status": ""
+      },
+      {
+        "age": "14 years",
+        "vector": "v454180",
+        "coordinate": "10.1.3.19",
+        "value": 210,
+        "row_status": ""
+      },
+      {
+        "age": "15 years",
+        "vector": "v454207",
+        "coordinate": "10.1.3.21",
+        "value": 162,
+        "row_status": ""
+      },
+      {
+        "age": "16 years",
+        "vector": "v454216",
+        "coordinate": "10.1.3.22",
+        "value": 140,
+        "row_status": ""
+      },
+      {
+        "age": "17 years",
+        "vector": "v454225",
+        "coordinate": "10.1.3.23",
+        "value": 145,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100015",
+    "dimension": "Migrants",
+    "member": "In-migrants",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "Total - gender",
+      "Age group": "single ages5\u201317"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100015-alberta.csv",
+    "observations": [
+      {
+        "age": "5 years",
+        "vector": "v454880",
+        "coordinate": "10.1.1.9",
+        "value": 947,
+        "row_status": ""
+      },
+      {
+        "age": "6 years",
+        "vector": "v454043",
+        "coordinate": "10.1.1.10",
+        "value": 960,
+        "row_status": ""
+      },
+      {
+        "age": "7 years",
+        "vector": "v454106",
+        "coordinate": "10.1.1.11",
+        "value": 920,
+        "row_status": ""
+      },
+      {
+        "age": "8 years",
+        "vector": "v454115",
+        "coordinate": "10.1.1.12",
+        "value": 868,
+        "row_status": ""
+      },
+      {
+        "age": "9 years",
+        "vector": "v454124",
+        "coordinate": "10.1.1.13",
+        "value": 846,
+        "row_status": ""
+      },
+      {
+        "age": "10 years",
+        "vector": "v454142",
+        "coordinate": "10.1.1.15",
+        "value": 828,
+        "row_status": ""
+      },
+      {
+        "age": "11 years",
+        "vector": "v454151",
+        "coordinate": "10.1.1.16",
+        "value": 778,
+        "row_status": ""
+      },
+      {
+        "age": "12 years",
+        "vector": "v454160",
+        "coordinate": "10.1.1.17",
+        "value": 749,
+        "row_status": ""
+      },
+      {
+        "age": "13 years",
+        "vector": "v454169",
+        "coordinate": "10.1.1.18",
+        "value": 699,
+        "row_status": ""
+      },
+      {
+        "age": "14 years",
+        "vector": "v454178",
+        "coordinate": "10.1.1.19",
+        "value": 656,
+        "row_status": ""
+      },
+      {
+        "age": "15 years",
+        "vector": "v454205",
+        "coordinate": "10.1.1.21",
+        "value": 571,
+        "row_status": ""
+      },
+      {
+        "age": "16 years",
+        "vector": "v454214",
+        "coordinate": "10.1.1.22",
+        "value": 496,
+        "row_status": ""
+      },
+      {
+        "age": "17 years",
+        "vector": "v454223",
+        "coordinate": "10.1.1.23",
+        "value": 527,
+        "row_status": ""
+      }
+    ]
+  },
+  {
+    "product": "17100015",
+    "dimension": "Migrants",
+    "member": "Out-migrants",
+    "period": "2025/2026",
+    "filters": {
+      "GEO": "Alberta",
+      "Gender": "Total - gender",
+      "Age group": "single ages5\u201317"
+    },
+    "estimate_status": "preliminary by metadata; STATUS cells are blank",
+    "source_path": "docs/research/migration/17100015-alberta.csv",
+    "observations": [
+      {
+        "age": "5 years",
+        "vector": "v454881",
+        "coordinate": "10.1.2.9",
+        "value": 662,
+        "row_status": ""
+      },
+      {
+        "age": "6 years",
+        "vector": "v454044",
+        "coordinate": "10.1.2.10",
+        "value": 651,
+        "row_status": ""
+      },
+      {
+        "age": "7 years",
+        "vector": "v454107",
+        "coordinate": "10.1.2.11",
+        "value": 611,
+        "row_status": ""
+      },
+      {
+        "age": "8 years",
+        "vector": "v454116",
+        "coordinate": "10.1.2.12",
+        "value": 601,
+        "row_status": ""
+      },
+      {
+        "age": "9 years",
+        "vector": "v454125",
+        "coordinate": "10.1.2.13",
+        "value": 564,
+        "row_status": ""
+      },
+      {
+        "age": "10 years",
+        "vector": "v454143",
+        "coordinate": "10.1.2.15",
+        "value": 541,
+        "row_status": ""
+      },
+      {
+        "age": "11 years",
+        "vector": "v454152",
+        "coordinate": "10.1.2.16",
+        "value": 516,
+        "row_status": ""
+      },
+      {
+        "age": "12 years",
+        "vector": "v454161",
+        "coordinate": "10.1.2.17",
+        "value": 502,
+        "row_status": ""
+      },
+      {
+        "age": "13 years",
+        "vector": "v454170",
+        "coordinate": "10.1.2.18",
+        "value": 459,
+        "row_status": ""
+      },
+      {
+        "age": "14 years",
+        "vector": "v454179",
+        "coordinate": "10.1.2.19",
+        "value": 446,
+        "row_status": ""
+      },
+      {
+        "age": "15 years",
+        "vector": "v454206",
+        "coordinate": "10.1.2.21",
+        "value": 409,
+        "row_status": ""
+      },
+      {
+        "age": "16 years",
+        "vector": "v454215",
+        "coordinate": "10.1.2.22",
+        "value": 356,
+        "row_status": ""
+      },
+      {
+        "age": "17 years",
+        "vector": "v454224",
+        "coordinate": "10.1.2.23",
+        "value": 382,
+        "row_status": ""
+      }
+    ]
+  }
+]

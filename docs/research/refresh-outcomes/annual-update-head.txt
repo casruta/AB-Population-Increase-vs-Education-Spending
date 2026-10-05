@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+date: Mon, 05 Oct 2026 02:51:31 GMT
+HTTP/2 200 
+date: Mon, 05 Oct 2026 02:51:32 GMT
+content-type: application/pdf
+content-length: 365982
+last-modified: Wed, 17 Dec 2025 17:19:20 GMT
+etag: "1765991960.8389113-365982-2089423597"

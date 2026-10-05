@@ -1,0 +1,13 @@
+{
+  "id": "operational_listing",
+  "url": "https://www.alberta.ca/education-projected-operational-funding",
+  "checked_at_utc": "2026-10-05T02:45:50.922208+00:00",
+  "tls_verification": true,
+  "status": 200,
+  "final_url": "https://www.alberta.ca/education-projected-operational-funding",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Mon, 05 Oct 2026 02:45:51 GMT",
+  "bytes": 40863,
+  "sha256": "fa01bb876dc3cf0195edb760b1a33ca8a2ea0559e02c7b7bb3017d2d83f29307",
+  "body_file": "docs/research/refresh-finance/responses/operational_listing"
+}

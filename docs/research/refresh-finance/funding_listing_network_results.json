@@ -1,0 +1,13 @@
+{
+  "id": "k12_funding",
+  "url": "https://www.alberta.ca/k-12-funding",
+  "checked_at_utc": "2026-10-05T02:45:39.639278+00:00",
+  "tls_verification": true,
+  "status": 200,
+  "final_url": "https://www.alberta.ca/k-12-funding",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Mon, 05 Oct 2026 02:45:39 GMT",
+  "bytes": 36614,
+  "sha256": "f4ead278f9cc3b91bb0dd4f38861b0f26abe0ca1279254e92834841ad6bb34db",
+  "body_file": "docs/research/refresh-finance/responses/k12_funding"
+}

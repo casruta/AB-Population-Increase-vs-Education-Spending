@@ -1,0 +1,427 @@
+[
+  {
+    "name": "The Aspen View School Division",
+    "prior": 37031001,
+    "projected": 36342854
+  },
+  {
+    "name": "The Battle River School Division",
+    "prior": 70479190,
+    "projected": 70888035
+  },
+  {
+    "name": "The Black Gold School Division",
+    "prior": 137207416,
+    "projected": 142487803
+  },
+  {
+    "name": "The Buffalo Trail School Division",
+    "prior": 50177865,
+    "projected": 51508871
+  },
+  {
+    "name": "The Calgary Roman Catholic Separate School Division",
+    "prior": 610544438,
+    "projected": 632871736
+  },
+  {
+    "name": "The Calgary School Division",
+    "prior": 1389851845,
+    "projected": 1450472878
+  },
+  {
+    "name": "The Canadian Rockies School Division",
+    "prior": 22387898,
+    "projected": 23072381
+  },
+  {
+    "name": "The Chinook's Edge School Division",
+    "prior": 119257182,
+    "projected": 121633955
+  },
+  {
+    "name": "The Christ the Redeemer Catholic Separate School Division",
+    "prior": 97201497,
+    "projected": 99243274
+  },
+  {
+    "name": "The Clearview School Division",
+    "prior": 32052476,
+    "projected": 32255103
+  },
+  {
+    "name": "The East Central Alberta Catholic Separate School Division",
+    "prior": 22533486,
+    "projected": 23432066
+  },
+  {
+    "name": "The East Central Francophone Education Region",
+    "prior": 14254745,
+    "projected": 16310937
+  },
+  {
+    "name": "The Edmonton Catholic Separate School Division",
+    "prior": 496921347,
+    "projected": 520443822
+  },
+  {
+    "name": "The Edmonton School Division",
+    "prior": 1185208631,
+    "projected": 1246938793
+  },
+  {
+    "name": "The Elk Island Catholic Separate School Division",
+    "prior": 73066301,
+    "projected": 76099321
+  },
+  {
+    "name": "The Elk Island School Division",
+    "prior": 183572253,
+    "projected": 187590711
+  },
+  {
+    "name": "The Evergreen Catholic Separate School Division",
+    "prior": 41362976,
+    "projected": 44338636
+  },
+  {
+    "name": "The Foothills School Division",
+    "prior": 83810128,
+    "projected": 82865185
+  },
+  {
+    "name": "The Fort McMurray Roman Catholic Separate School Division",
+    "prior": 84097109,
+    "projected": 86884796
+  },
+  {
+    "name": "The Fort McMurray School Division",
+    "prior": 95447815,
+    "projected": 102087753
+  },
+  {
+    "name": "The Fort Vermilion School Division",
+    "prior": 46718875,
+    "projected": 48873571
+  },
+  {
+    "name": "The Golden Hills School Division",
+    "prior": 81632772,
+    "projected": 86033222
+  },
+  {
+    "name": "The Grande Prairie Roman Catholic Separate School Division",
+    "prior": 59859092,
+    "projected": 61104394
+  },
+  {
+    "name": "The Grande Prairie School Division",
+    "prior": 94619237,
+    "projected": 98815587
+  },
+  {
+    "name": "The Grande Yellowhead School Division",
+    "prior": 55598385,
+    "projected": 57268213
+  },
+  {
+    "name": "The Grasslands School Division",
+    "prior": 44272459,
+    "projected": 44115045
+  },
+  {
+    "name": "The Greater North Central Francophone Education Region",
+    "prior": 65487756,
+    "projected": 70546609
+  },
+  {
+    "name": "The Greater St. Albert Roman Catholic Separate School Division",
+    "prior": 60138890,
+    "projected": 60743564
+  },
+  {
+    "name": "The High Prairie School Division",
+    "prior": 38501925,
+    "projected": 40774578
+  },
+  {
+    "name": "The Holy Family Catholic Separate School Division",
+    "prior": 25888926,
+    "projected": 27634823
+  },
+  {
+    "name": "The Holy Spirit Roman Catholic Separate School Division",
+    "prior": 57139401,
+    "projected": 60496716
+  },
+  {
+    "name": "The Horizon School Division",
+    "prior": 45226695,
+    "projected": 46109602
+  },
+  {
+    "name": "The Lakeland Roman Catholic Separate School Division",
+    "prior": 34405683,
+    "projected": 35652262
+  },
+  {
+    "name": "The Lethbridge School Division",
+    "prior": 124515723,
+    "projected": 129327602
+  },
+  {
+    "name": "The Living Waters Catholic Separate School Division",
+    "prior": 22259186,
+    "projected": 23078452
+  },
+  {
+    "name": "The Livingstone Range School Division",
+    "prior": 45186054,
+    "projected": 45947655
+  },
+  {
+    "name": "The Medicine Hat Roman Catholic Separate School Division",
+    "prior": 31458580,
+    "projected": 32090889
+  },
+  {
+    "name": "The Medicine Hat School Division",
+    "prior": 74860543,
+    "projected": 75646277
+  },
+  {
+    "name": "The Northern Gateway School Division",
+    "prior": 60149197,
+    "projected": 61705696
+  },
+  {
+    "name": "The Northern Lights School Division",
+    "prior": 71773898,
+    "projected": 74063723
+  },
+  {
+    "name": "The Northland School Division",
+    "prior": 32546085,
+    "projected": 33005992
+  },
+  {
+    "name": "The Northwest Francophone Education Region",
+    "prior": 9182636,
+    "projected": 9811029
+  },
+  {
+    "name": "The Palliser School Division",
+    "prior": 96508834,
+    "projected": 87161604
+  },
+  {
+    "name": "The Parkland School Division",
+    "prior": 128663982,
+    "projected": 132929793
+  },
+  {
+    "name": "The Peace River School Division",
+    "prior": 48407286,
+    "projected": 50900682
+  },
+  {
+    "name": "The Peace Wapiti School Division",
+    "prior": 76900956,
+    "projected": 79517754
+  },
+  {
+    "name": "The Pembina Hills School Division",
+    "prior": 56366748,
+    "projected": 57524205
+  },
+  {
+    "name": "The Prairie Land School Division",
+    "prior": 36238858,
+    "projected": 38500927
+  },
+  {
+    "name": "The Prairie Rose School Division",
+    "prior": 53209146,
+    "projected": 72397681
+  },
+  {
+    "name": "The Red Deer Catholic Separate School Division",
+    "prior": 100628984,
+    "projected": 102226347
+  },
+  {
+    "name": "The Red Deer School Division",
+    "prior": 115950222,
+    "projected": 118408986
+  },
+  {
+    "name": "The Rocky View School Division",
+    "prior": 281258677,
+    "projected": 291299100
+  },
+  {
+    "name": "The Southern Francophone Education Region",
+    "prior": 53664014,
+    "projected": 61081558
+  },
+  {
+    "name": "The St. Albert School Division",
+    "prior": 94137675,
+    "projected": 97719598
+  },
+  {
+    "name": "The St. Paul School Division",
+    "prior": 40124536,
+    "projected": 41147369
+  },
+  {
+    "name": "The St. Thomas Aquinas Roman Catholic Separate School Division",
+    "prior": 47674607,
+    "projected": 51117478
+  },
+  {
+    "name": "The Sturgeon School Division",
+    "prior": 64983851,
+    "projected": 64471799
+  },
+  {
+    "name": "The Westwind School Division",
+    "prior": 50442108,
+    "projected": 51203867
+  },
+  {
+    "name": "The Wetaskiwin School Division",
+    "prior": 41352446,
+    "projected": 41495735
+  },
+  {
+    "name": "The Wild Rose School Division",
+    "prior": 54978282,
+    "projected": 56552388
+  },
+  {
+    "name": "The Wolf Creek School Division",
+    "prior": 84432357,
+    "projected": 86059931
+  },
+  {
+    "name": "Lloydminster Public School Division",
+    "prior": 24656179,
+    "projected": 24658689
+  },
+  {
+    "name": "Lloydminster Roman Catholic Separate School Division",
+    "prior": 17596861,
+    "projected": 18260192
+  },
+  {
+    "name": "Alberta Classical Academy Inc.",
+    "prior": 12653165,
+    "projected": 15492608
+  },
+  {
+    "name": "Almadina School Society",
+    "prior": 15638617,
+    "projected": 17992710
+  },
+  {
+    "name": "Aurora School Ltd.",
+    "prior": 12243923,
+    "projected": 14949410
+  },
+  {
+    "name": "Boyle Street Education Centre",
+    "prior": 3538923,
+    "projected": 3665525
+  },
+  {
+    "name": "Calgary Arts Academy Society",
+    "prior": 6195812,
+    "projected": 6970341
+  },
+  {
+    "name": "Calgary Girls' School Society",
+    "prior": 5635426,
+    "projected": 6040643
+  },
+  {
+    "name": "CAPE - Centre for Academic and Personal Excellence Institute",
+    "prior": 3279778,
+    "projected": 3278460
+  },
+  {
+    "name": "Connect Charter School Society",
+    "prior": 6555828,
+    "projected": 6754309
+  },
+  {
+    "name": "Footprints for Learning Society",
+    "prior": 4672231,
+    "projected": 5062689
+  },
+  {
+    "name": "Foundations for the Future Charter Academy Charter School Society",
+    "prior": 41053934,
+    "projected": 43493567
+  },
+  {
+    "name": "Fusion Education Association",
+    "prior": 1003183,
+    "projected": 2260268
+  },
+  {
+    "name": "Gwynne Valley Rural Education Association",
+    "prior": 1437513,
+    "projected": 1816739
+  },
+  {
+    "name": "Holden Rural Academy Society",
+    "prior": 2189879,
+    "projected": 2258133
+  },
+  {
+    "name": "New Horizons Charter School Society",
+    "prior": 4282716,
+    "projected": 4405643
+  },
+  {
+    "name": "New Humble Community School Association",
+    "prior": 2023081,
+    "projected": 2305536
+  },
+  {
+    "name": "STEM Collegiate Canada Society",
+    "prior": 3973654,
+    "projected": 4990669
+  },
+  {
+    "name": "STEM Innovation Academy Society",
+    "prior": 12442523,
+    "projected": 17702160
+  },
+  {
+    "name": "Suzuki Charter School Society",
+    "prior": 4126292,
+    "projected": 4301373
+  },
+  {
+    "name": "Thrive Charter School Society",
+    "prior": 2321991,
+    "projected": 2469226
+  },
+  {
+    "name": "Valhalla School Foundation",
+    "prior": 1260461,
+    "projected": 1408195
+  },
+  {
+    "name": "Westmount Charter School Society",
+    "prior": 14229273,
+    "projected": 14756346
+  },
+  {
+    "name": "Wise Charter Society",
+    "prior": 2044503,
+    "projected": 2245451
+  }
+]

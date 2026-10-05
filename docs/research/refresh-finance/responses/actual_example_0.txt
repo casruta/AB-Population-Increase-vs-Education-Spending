@@ -1,0 +1,2033 @@
+                                                                                                          School Jurisdiction Code:   395
+
+                                                                      AUDITED
+                                                               FINANCIAL STATEMENTS
+                                                       FOR THE YEAR ENDED AUGUST 31, 2025
+                                                                [Education Act, Sections 139, 140, 244]
+
+
+                                                          0395 Alberta Classical Academy Ltd.
+                                                         Legal Name of School Jurisdiction
+
+
+                                                     #408, 609 14 Street NW, Calgary, AB, T2N 2A1
+                                                                   Mailing Address
+
+
+                                               403-397-3472 Sadiq.Valliani@classicalacademy.ca
+                                                        Contact Numbers and Email Address
+
+
+
+    SCHOOL JURISDICTION MANAGEMENT'S RESPONSIBILITY FOR FINANCIAL REPORTING
+    The financial statements of            0395 Alberta Classical Academy Ltd.
+    presented to Alberta Education and Childcare have been prepared by school jurisdiction management which has responsibility for
+    their preparation, integrity and objectivity. The financial statements, including notes, have been prepared in accordance
+    with Canadian Public Sector Accounting Standards and follow format prescribed by Alberta Education and Childcare.
+    In fulfilling its reporting responsibilities, management has maintained internal control systems and procedures designed
+    to provide reasonable assurance that the school jurisdiction's assets are safeguarded, that transactions are executed
+    in accordance with appropriate authorization and that accounting records may be relied upon to properly reflect the
+    school jurisdiction's transactions. The effectiveness of the control systems is supported by the selection and training
+    of qualified personnel, an organizational structure that provides an appropriate division of responsibility and a strong
+    system of budgetary control.
+    Board of Trustees Responsibility
+    The ultimate responsibility for the financial statements lies with the Board of Trustees. The Board reviewed the audited
+    financial statements with management in detail and approved the financial statements for release.
+    External Auditors
+    The Board appoints external auditors to audit the financial statements and meets with the auditors to review their findings.
+    The external auditors were given full access to school jurisdiction records.
+    Declaration of Management and Board Chair
+    To the best of our knowledge and belief, these financial statements reflect, in all material respects, the financial position,
+    results of operations, remeasurement gains and losses, changes in net financial assets (debt), and cash flows for the year
+    in accordance with Canadian Public Sector Accounting Standards.
+
+                                                                   BOARD CHAIR
+
+                                  Jim Silovs                                                              "Original Signed"
+                                     Name                                                                       Signature
+
+                                                                 SUPERINTENDENT
+
+                                Colleen Parks                                                             "Original Signed"
+                                     Name                                                                       Signature
+
+                                                  SECRETARY-TREASURER OR TREASURER
+
+                                Sadiq Valliani                                                            "Original Signed"
+                                     Name                                                                       Signature
+
+                             November 24, 2025
+                         Board-approved Release Date
+
+
+    c.c.           Alberta Education and Childcare, Financial Reporting & Accountability Branch
+                   10th Floor, 44 Capital Boulevard, 10044 108th Street NW, Edmonton AB T5J 5E6
+                   EMAIL: EDC.FRA@gov.ab.ca
+                   PHONE: Kevin Luu: (780) 422-0314; Jing Li: (780) 644-4929
+
+
+
+
+#   Classification: Public                                                            1
+                                                                           School Jurisdiction Code:   395
+
+                                              TABLE OF CONTENTS
+
+                                                                                                       Page
+
+     INDEPENDENT AUDITOR'S REPORT                                                                       3
+
+
+     STATEMENT OF FINANCIAL POSITION                                                                    5
+
+
+     STATEMENT OF OPERATIONS                                                                            6
+
+
+     STATEMENT OF CASH FLOWS                                                                            7
+
+
+     CONSOLIDATED STATEMENT OF CHANGE IN NET FINANCIAL ASSETS                                           8
+
+
+     STATEMENT OF REMEASUREMENT GAINS AND LOSSES                                                        9
+
+
+     SCHEDULE 1: SCHEDULE OF NET ASSETS                                                                 10
+
+
+     SCHEDULE 2: SCHEDULE OF DEFERRED CONTRIBUTIONS                                                     12
+
+
+     SCHEDULE 3: SCHEDULE OF PROGRAM OPERATIONS                                                         14
+
+
+     SCHEDULE 4: SCHEDULE OF OPERATIONS AND MAINTENANCE                                                 15
+
+
+     SCHEDULE 5: SCHEDULE OF CASH, CASH EQUIVALENTS, AND PORTFOLIO INVESTMENTS                          16
+
+
+     SCHEDULE 6: SCHEDULE OF TANGIBLE CAPITAL ASSETS                                                    18
+
+
+     SCHEDULE 7: SCHEDULE OF REMUNERATION AND MONETARY INCENTIVES                                       19
+
+
+     SCHEDULE 8: SCHEDULE OF ASSET RETIREMENT OBLIGATIONS                                               20
+
+
+     NOTES TO THE FINANCIAL STATEMENTS                                                                  21
+
+
+     SCHEDULE 9: UNAUDITED SCHEDULE OF FEES                                                             33
+
+
+     SCHEDULE 10: UNAUDITED SCHEDULE OF SYSTEM ADMINISTRATION                                           34
+
+
+
+
+#   Classification: Public                                2
+Independent Auditor's Report
+
+
+
+
+           To the Members of Alberta Classical Academy Ltd.:
+
+
+
+           Opinion
+
+           We have audited the financial statements of Alberta Classical Academy Ltd. (the "School Authority"), which comprise
+           the statement of financial position as at August 31, 2025, and the statements of operations, cash flows, changes in
+           net financial assets, remeasurement gains and losses, and the accompanying schedules 1 through 8 for the year then
+           ended, and notes to the financial statements, including a summary of significant accounting policies.
+
+           In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of
+           the School Authority as at August 31, 2025, and the results of its operations, its remeasurement gains and losses and
+           its cash flows for the year then ended in accordance with Canadian public sector accounting standards.
+
+           Basis for Opinion
+
+           We conducted our audit in accordance with Canadian generally accepted auditing standards. Our responsibilities
+           under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements
+           section of our report. We are independent of the School Authority in accordance with the ethical requirements that
+           are relevant to our audit of the financial statements in Canada, and we have fulfilled our other ethical responsibilities
+           in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and
+           appropriate to provide a basis for our opinion.
+
+           Other Information - Unaudited Schedules
+
+           Management is responsible for the other information included in Schedule 9: unaudited schedule of fees and
+           Schedule 10: unaudited schedule of system administration.
+
+           Our opinion on the financial statements does not cover the other information and we do not express any form of
+           assurance conclusion thereon.
+
+           In connection with our audit of the financial statements, our responsibility is to read the other information and, in
+           doing so, consider whether the other information is materially inconsistent with the financial statements or our
+           knowledge obtained in the audit or otherwise appears to be materially misstated. If, based on the work we have
+           performed on this other information, we conclude that there is a material misstatement of this other information, we
+           are required to report that fact. We have nothing to report in this regard.
+
+           Responsibilities of Management and Those Charged with Governance for the Financial Statements
+
+           Management is responsible for the preparation and fair presentation of the financial statements in accordance with
+           Canadian public sector accounting standards, and for such internal control as management determines is necessary
+           to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or
+           error.
+
+
+
+
+MNP LLP
+2000, 112 - 4th Avenue SW, Calgary AB, T2P 0H3                                                   1.877.500.0792 T: 403.263.3385 F: 403.269.8450
+
+
+                                                                                                                                       MNP.ca
+In preparing the financial statements, management is responsible for assessing the School Authority’s ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern
+basis of accounting unless management either intends to liquidate the School Authority or to cease operations, or
+has no realistic alternative but to do so.
+
+Those charged with governance are responsible for overseeing the School Authority’s financial reporting process.
+
+Auditor's Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with
+Canadian generally accepted auditing standards will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they
+could reasonably be expected to influence the economic decisions of users taken on the basis of these financial
+statements.
+
+As part of an audit in accordance with Canadian generally accepted auditing standards, we exercise professional
+judgment and maintain professional skepticism throughout the audit. We also:
+
+       Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or
+        error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is
+        sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material
+        misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion,
+        forgery, intentional omissions, misrepresentations, or the override of internal control.
+       Obtain an understanding of internal control relevant to the audit in order to design audit procedures that
+        are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness
+        of the School Authority’s internal control.
+       Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates
+        and related disclosures made by management.
+       Conclude on the appropriateness of management's use of the going concern basis of accounting and, based
+        on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that
+        may cast significant doubt on the School Authority’s ability to continue as a going concern. If we conclude
+        that a material uncertainty exists, we are required to draw attention in our auditor's report to the related
+        disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our
+        conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future
+        events or conditions may cause the School Authority to cease to continue as a going concern.
+       Evaluate the overall presentation, structure and content of the financial statements, including the disclosures,
+        and whether the financial statements represent the underlying transactions and events in a manner that
+        achieves fair presentation.
+
+We communicate with those charged with governance regarding, among other matters, the planned scope and
+timing of the audit and significant audit findings, including any significant deficiencies in internal control that we
+identify during our audit.
+
+
+
+
+Calgary, Alberta
+
+November 24, 2025                                                                    Chartered Professional Accountants
+                                                                                                     School Jurisdiction Code:        395
+
+                                                               STATEMENT OF FINANCIAL POSITION
+                                                                 As at August 31, 2025 (in dollars)
+
+                                                                                                                 2025                 2024
+
+
+           FINANCIAL ASSETS
+           Cash and cash equivalents                                                  (Schedule 5)      $             (176,576) $       1,147,395
+           Accounts receivable (net after allowances)                                   (Note 4)        $            1,609,601    $     1,539,405
+           Portfolio investments
+                Operating                                                                               $                   -     $              -
+                Endowments                                                                              $                   -     $              -
+           Inventories for resale                                                                       $                   -     $              -
+           Other financial assets                                                                       $                   -     $              -
+           Total financial assets                                                                       $            1,433,025    $     2,686,800
+
+           LIABILITIES
+           Bank indebtedness                                                                            $                   -     $              -
+           Accounts payable and accrued liabilities                                     (Note 5)        $            1,464,965    $     2,447,871
+           Unspent deferred contributions                                             (Schedule 2)      $                35,201   $           42,057
+           Employee future benefits liabilities                                                         $                   -     $              -
+           Asset retirement obligations and environmental liabilities                                   $                   -     $              -
+           Other liabilities                                                                            $                   -     $              -
+           Debt
+                Unsupported:    Debentures                                                              $                   -     $              -
+                                Mortgages and capital loans                                             $                   -     $              -
+                                Capital leases                                          (Note 7)        $                61,822   $           78,757
+           Total liabilities                                                                            $            1,561,988    $     2,568,685
+
+
+           Net financial assets                                                                         $             (128,963) $            118,115
+
+           NON-FINANCIAL ASSETS
+           Tangible capital assets                                                    (Schedule 6)      $            8,542,154    $     8,342,827
+           Inventory of supplies                                                                        $                   -     $              -
+           Prepaid expenses                                                             (Note 8)        $               297,083   $          291,123
+           Purchased Intangibles and Other                                                              $                   -     $              -
+                Total non-financial assets                                                              $            8,839,237    $     8,633,950
+
+
+           Net assets (Net liabilities) before spent deferred capital contributions                     $            8,710,274    $     8,752,065
+           Spent deferred capital contributions                                       (Schedule 2)      $            8,210,889    $     8,342,827
+           Net assets (Net liabilities)                                                                 $               499,385   $          409,238
+
+
+
+
+           Net assets (Net liabilities)                                                ( Note 9)
+                Accumulated surplus (deficit)                                         (Schedule 1)      $               499,385   $          409,238
+                Accumulated remeasurement gains (losses)                                                $                   -     $              -
+                                                                                                        $               499,385   $          409,238
+
+
+           Contractual obligations                                                     (Note 10)
+
+
+
+
+                                             The accompanying notes and schedules are part of these financial statements.
+
+
+
+
+#   Classification: Public                                                        5
+                                                                                                            School Jurisdiction Code:        395
+
+                                                                 STATEMENT OF OPERATIONS
+                                                         For the Year Ended August 31, 2025 (in dollars)
+
+                                                                                            Budget                    Actual                Actual
+                                                                                             2025                      2025                  2024
+
+       REVENUES
+
+       Government of Alberta                                                         $          15,323,502     $           17,040,506   $      12,419,572
+
+       Federal Government and other government grants                                $                  -      $                  -     $               -
+
+       Property taxes                                                                $                  -      $                  -     $               -
+
+       Fees                                                       (Schedule 9)       $           1,139,730     $            1,462,024   $       1,093,572
+
+       Sales of services and products                                                $                  -      $                  -     $               -
+
+       Investment income                                                             $               20,000    $               20,754   $            15,571
+
+       Donations and other contributions                                             $                  -      $               20,849   $            13,703
+
+       Other revenue                                                                 $               59,006    $            1,844,404   $             3,204
+
+                     Total revenues                                                  $          16,542,238     $           20,388,537   $      13,545,622
+
+       EXPENSES
+
+       Instruction - ECS                                                             $             676,958     $             411,907    $          307,569
+
+       Instruction - Grades 1 to 12                                                  $          10,292,611     $           13,335,155   $       7,279,886
+
+       Operations and maintenance                                 (Schedule 4)       $           2,762,017     $            4,313,549   $       4,026,058
+
+       Transportation                                                                $           1,436,607     $            1,605,073   $       1,080,026
+
+       System administration                                                         $             784,523     $             256,168    $          359,432
+
+       External services                                                             $               59,006    $             376,538    $          325,687
+
+                     Total expenses                                                  $          16,011,722     $           20,298,390   $      13,378,658
+
+
+
+       Annual operating surplus (deficit)                                            $             530,516     $               90,147   $          166,964
+
+       Endowment contributions and reinvested income                                 $                  -      $                  -     $               -
+
+       Annual surplus (deficit)                                                      $             530,516     $               90,147   $          166,964
+
+
+
+       Accumulated surplus (deficit) at beginning of year                            $             409,238     $             409,238    $          242,274
+
+       Accumulated surplus (deficit) at end of year                                  $             939,754     $             499,385    $          409,238
+
+
+
+                                            The accompanying notes and schedules are part of these financial statements.
+
+
+
+
+#   Classification: Public                                                       6
+                                                                                                                              School Jurisdiction Code:         395
+
+
+                                                                                           STATEMENT OF CASH FLOWS
+                                                                                   For the Year Ended August 31, 2025 (in dollars)
+
+
+                                                                                                                                         2025                   2024
+
+
+                             CASH FLOWS FROM:
+
+                             A. OPERATING TRANSACTIONS
+                                 Annual surplus (deficit)                                                                        $                 90,147 $            166,964
+                                 Add (Deduct) items not affecting cash:
+                                    Amortization of tangible capital assets                                                      $            1,338,346 $             1,145,165
+                                    Net (gain)/loss on disposal of tangible capital assets                                       $                    -    $                -
+                                    Transfer of tangible capital assets (from)/to other entities                                 $                    -    $                -
+                                    (Gain)/Loss on sale of portfolio investments                                                 $                    -    $                -
+                                    Spent deferred capital recognized as revenue                                                 $           (1,303,781) $        (1,145,165)
+                                    Deferred capital revenue write-down / adjustment                                             $                    -    $                -
+                                    Increase/(Decrease) in employee future benefit liabilities                                   $                    -    $                -
+                                    Donations in kind                                                                            $                    -    $                -
+                                    Other (Describe)                                                                             $                    -    $                -
+                                                                                                                                 $                124,712 $            166,964
+                                 (Increase)/Decrease in accounts receivable                                                      $                 (70,196) $     (1,445,566)
+                                 (Increase)/Decrease in inventories for resale                                                   $                    -    $                -
+                                 (Increase)/Decrease in other financial assets                                                   $                    -    $                -
+                                 (Increase)/Decrease in inventory of supplies                                                    $                    -    $                -
+                                 (Increase)/Decrease in prepaid expenses                                                         $                  (5,960) $           94,865
+                                 (Increase)/Decrease in other non-financial assets                                               $                    -    $                -
+                                 Increase/(Decrease) in accounts payable, accrued and other liabilities                          $                (982,906) $          177,375
+                                 Increase/(Decrease) in unspent deferred contributions                                           $                  (6,856) $     (2,415,430)
+                                 Increase/(Decrease) in asset retirement obligations and environmental liabilities               $                    -    $                -
+                                 Asset retirement obligation provision                                                           $                    -    $                -
+                                 Other (describe)                                                                                $                    -    $                -
+                                         Total cash flows from operating transactions                                            $                (941,206) $     (3,421,792)
+
+
+                             B. CAPITAL TRANSACTIONS
+                                 Acqusition of tangible capital assets                                                           $           (1,537,673) $        (6,871,141)
+                                 Net proceeds from disposal of unsupported capital assets                                        $                    -    $                -
+                                 Other (describe)                                                                                $                    -    $                -
+                                         Total cash flows from capital transactions                                              $           (1,537,673) $        (6,871,141)
+
+
+                             C. INVESTING TRANSACTIONS
+                                 Purchases of portfolio investments                                                              $                    -    $                -
+                                 Proceeds on sale of portfolio investments                                                       $                    -    $                -
+                                 Other (describe)                                                                                $                    -    $                -
+                                 Other (describe)                                                                                $                    -    $                -
+                                         Total cash flows from investing transactions                                            $                    -    $                -
+
+
+                             D. FINANCING TRANSACTIONS
+                                 Debt issuances                                                                                  $                    -    $                -
+                                 Debt repayments                                                                                 $                    -    $                -
+                                 Increase (decrease) in spent deferred capital contributions                                     $            1,171,843 $             6,871,141
+                                 Capital lease issuances                                                                         $                    -    $            78,266
+                                 Capital lease payments                                                                          $                 (16,935) $           (11,742)
+                                 Other (describe)                                                                                $                    -    $                -
+                                 Other (describe)                                                                                $                    -    $                -
+                                         Total cash flows from financing transactions                                            $            1,154,908 $             6,937,665
+
+
+                             Increase (decrease) in cash and cash equivalents                                                    $           (1,323,971) $        (3,355,268)
+                             Cash and cash equivalents, at beginning of year                                                     $            1,147,395 $             4,502,663
+                             Cash and cash equivalents, at end of year                                                           $                (176,576) $         1,147,395
+
+
+
+
+                                                                   The accompanying notes and schedules are part of these financial statements.
+
+
+
+
+#   Classification: Public                                                                                7
+                                                                                                           School Jurisdiction Code:         395
+
+
+
+                                               CONSOLIDATED STATEMENT OF CHANGE IN NET FINANCIAL ASSETS
+                                                             For the Year Ended August 31, 2025 (in dollars)
+
+
+                                                                                                                        2025                 2024
+
+
+
+
+            Annual surplus (deficit)                                                                           $                90,147   $          166,964
+
+
+            Effect of changes in tangible capital assets
+
+               Acquisition of tangible capital assets                                                          $             (1,537,673) $     (6,871,141)
+
+               Amortization of tangible capital assets                                                         $             1,338,346   $     1,145,165
+
+               Net (gain)/loss on disposal of tangible capital assets                                          $                   -     $              -
+
+               Net proceeds from disposal of unsupported capital assets                                        $                   -     $              -
+
+               Write-down carrying value of tangible capital assets                                            $                   -     $              -
+
+               Transfer of tangible capital assets (from)/to other entities                                    $                   -     $              -
+
+               Other changes                                                                                   $                   -     $              -
+                  Total effect of changes in tangible capital assets                                           $              (199,327) $      (5,725,976)
+
+
+            Acquisition of inventory of supplies                                                               $                   -     $              -
+
+            Consumption of inventory of supplies                                                               $                   -     $              -
+
+            (Increase)/Decrease in prepaid expenses                                                            $                (5,960) $            94,865
+
+            (Increase)/Decrease in other non-financial assets                                                  $                   -     $              -
+
+
+            Net remeasurement gains and (losses)                                                               $                   -     $              -
+
+            Change in spent deferred capital contributions           (Schedule 2)                              $              (131,938) $      5,725,976
+
+            Other changes                                                                                      $                   -     $              -
+
+
+     Increase (decrease) in net financial assets                                                               $              (247,078) $           261,829
+
+     Net financial assets at beginning of year                                                                 $               118,115   $         (143,714)
+     Net financial assets at end of year                                                                       $              (128,963) $           118,115
+
+
+
+
+                                              The accompanying notes and schedules are part of these financial statements.
+
+
+
+
+#   Classification: Public                                                          8
+                                                                                                                  School Jurisdiction Code:       395
+
+
+
+                                                             STATEMENT OF REMEASUREMENT GAINS AND LOSSES
+                                                                  For the Year Ended August 31, 2025 (in dollars)
+
+
+
+                                                                                                                             2025                 2024
+
+
+
+
+             Unrealized gains (losses) attributable to:
+
+                             Portfolio investments                                                                 $                   -      $          -
+
+                                                                                                                   $                   -      $          -
+
+                                                                                                                   $                   -      $          -
+
+
+             Amounts reclassified to the statement of operations:
+
+                             Portfolio investments                                                                 $                   -      $          -
+
+                                                                                                                   $                   -      $          -
+
+                                                                                                                   $                   -      $          -
+
+
+                                                                                                                   $                   -      $          -
+
+
+
+          Net remeasurement gains (losses) for the year                                                            $                   -      $          -
+
+
+       Accumulated remeasurement gains (losses) at beginning of year                                               $                   -      $          -
+
+       Accumulated remeasurement gains (losses) at end of year                                                     $                   -      $          -
+
+
+
+
+                                                     The accompanying notes and schedules are part of these financial statements.
+
+
+
+
+#   Classification: Public                                                                9
+                                                                                                                                                                            School Jurisdiction Code:                    395
+                             SCHEDULE 1
+                                                                                                                    SCHEDULE OF NET ASSETS
+                                                                                                           For the Year Ended August 31, 2025 (in dollars)
+
+
+
+                                                                                                                                                                                                      INTERNALLY RESTRICTED
+                                                                                  NET                ACCUMULATED     ACCUMULATED             INVESTMENT        ENDOWMENTS   UNRESTRICTED               TOTAL            TOTAL
+                                                                                 ASSETS          REMEASUREMENT          SURPLUS              IN TANGIBLE                         SURPLUS             OPERATING         CAPITAL
+                                                                                                 GAINS (LOSSES)         (DEFICIT)             CAPITAL                                                RESERVES          RESERVES
+                                                                                                                                               ASSETS
+
+                             Balance at August 31, 2024                      $      409,238      $             -    $        409,238     $              -      $       -    $        409,238     $             -   $             -
+                             Prior period adjustments:
+
+                                                                             $             -     $             -    $               -    $              -      $       -    $              -     $             -   $             -
+
+                                                                             $             -     $             -    $               -    $              -      $       -    $              -     $             -   $             -
+                             Adjusted Balance, August 31, 2024               $      409,238      $             -    $        409,238     $              -      $       -    $        409,238     $             -   $             -
+                             Operating surplus (deficit)                     $          90,147                      $         90,147                                        $         90,147
+                             Board funded tangible capital asset additions                                                               $         365,830                  $       (365,830) $                -   $             -
+                             Board funded ARO tangible capital asset
+                             additions                                                                                                   $              -                                        $             -   $             -
+                             Disposal of unsupported or board funded
+                             portion of supported tangible capital assets    $             -                        $               -    $              -                   $              -                       $             -
+                             Disposal of unsupported ARO tangible capital
+                             assets                                          $             -                        $               -    $              -                   $              -                       $             -
+                             Write-down of unsupported or board funded
+                             portion of supported tangible capital assets    $             -                        $               -    $              -                   $              -                       $             -
+                             Net remeasurement gains (losses) for the
+                             year                                            $             -     $             -
+                             Endowment expenses & disbursements              $             -                        $               -                          $       -    $              -
+                             Endowment contributions                         $             -                        $               -                          $       -    $              -
+                             Reinvested endowment income                     $             -                        $               -                          $       -    $              -
+                             Direct credits to accumulated surplus
+                             (Describe)                                      $             -                        $               -    $              -      $       -    $              -     $             -   $             -
+                             Amortization of tangible capital assets         $             -                                             $       (1,338,346)                $      1,338,346
+                             Amortization of ARO tangible capital assets     $             -                                             $              -                   $              -
+                             Board funded ARO liabilities - recognition      $             -                                             $              -                   $              -
+                             Board funded ARO liabilities - remediation      $             -                                             $              -                   $              -
+                             Capital revenue recognized                      $             -                                             $       1,303,781                  $      (1,303,781)
+                             Debt principal repayments (unsupported)         $             -                                             $              -                   $              -
+                             Additional capital debt or capital leases       $             -                                             $              -                   $              -
+                             Net transfers to operating reserves             $             -                                                                                $              -     $             -
+                             Net transfers from operating reserves           $             -                                                                                $              -     $             -
+                             Net transfers to capital reserves               $             -                                                                                $              -                       $             -
+                             Net transfers from capital reserves             $             -                                                                                 $             -                       $             -
+                             Other Changes                                   $             -                        $               -    $              -      $       -    $              -     $             -   $             -
+                             Other Changes                                   $             -                        $               -    $              -      $       -     $             -     $             -   $             -
+                             Balance at August 31, 2025                      $      499,385      $             -    $        499,385     $         331,265     $       -    $        168,120     $             -   $             -
+
+
+
+
+#   Classification: Public                                                                                                          10
+                                                                                                                                                                                           School Jurisdiction Code:             395
+                         SCHEDULE 1
+                                                                                                                        SCHEDULE OF NET ASSETS
+                                                                                                               For the Year Ended August 31, 2025 (in dollars)
+
+
+
+                                                                                                                              INTERNALLY RESTRICTED RESERVES BY PROGRAM
+
+                                                                         School & Instruction Related       Operations & Maintenance           System Administration                Transportation                External Services
+
+
+                                                                             Operating        Capital       Operating         Capital         Operating        Capital         Operating         Capital       Operating        Capital
+                                                                             Reserves        Reserves       Reserves         Reserves         Reserves        Reserves         Reserves         Reserves       Reserves        Reserves
+
+                         Balance at August 31, 2024                      $           -   $          -   $           -   $             -   $           -   $            -   $           -    $          -   $           -   $           -
+                         Prior period adjustments:
+
+                                                                         $           -   $          -   $           -   $             -   $           -   $            -   $           -    $          -   $           -   $           -
+
+                                                                         $           -   $          -   $           -   $             -   $           -   $            -   $           -    $          -   $           -   $           -
+                         Adjusted Balance, August 31, 2024               $           -   $          -   $           -    $            -   $           -   $            -   $           -    $          -   $           -   $           -
+                         Operating surplus (deficit)
+
+                         Board funded tangible capital asset additions$              -   $          -   $           -   $             -   $           -   $            -   $           -    $          -   $           -   $           -
+                         Board funded ARO tangible capital asset
+                         additions                                    $              -   $          -   $           -   $             -   $           -   $            -   $           -    $          -   $           -   $           -
+                         Disposal of unsupported or board funded
+                         portion of supported tangible capital assets                    $          -                   $             -                   $            -                    $          -                   $           -
+                         Disposal of unsupported ARO tangible capital
+                         assets                                                          $          -                   $             -                   $            -                    $          -                   $           -
+                         Write-down of unsupported or board funded
+                         portion of supported tangible capital assets                    $          -                   $             -                   $            -                    $          -                   $           -
+                         Net remeasurement gains (losses) for the
+                         year
+                         Endowment expenses & disbursements
+
+                         Endowment contributions
+
+                         Reinvested endowment income
+                         Direct credits to accumulated surplus
+                         (Describe)                                      $           -   $          -   $           -   $             -   $           -   $            -   $           -    $          -   $           -   $           -
+                         Amortization of tangible capital assets
+
+                         Amortization of ARO tangible capital assets
+
+                         Board funded ARO liabilities - recognition
+
+                         Board funded ARO liabilities - remediation
+
+                         Capital revenue recognized
+
+                         Debt principal repayments (unsupported)
+
+                         Additional capital debt or capital leases
+
+                         Net transfers to operating reserves             $           -                  $           -                     $           -                    $           -                   $           -
+                         Net transfers from operating reserves           $           -                  $           -                     $           -                    $           -                   $           -
+                         Net transfers to capital reserves                               $          -                   $             -                   $            -                    $          -                   $           -
+                         Net transfers from capital reserves                             $          -                   $             -                   $            -                    $          -                   $           -
+                         Other Changes                                   $           -   $          -   $           -   $             -   $           -   $            -   $           -    $          -   $           -   $           -
+                         Other Changes                                   $           -   $          -   $           -    $            -   $           -   $            -   $           -    $          -   $           -   $           -
+                         Balance at August 31, 2025                      $           -   $          -   $           -    $            -   $           -   $            -   $           -    $          -   $           -   $           -
+
+
+
+
+Classification: Public                                                                                                           11
+                                                                                                                                                      School Jurisdiction Code:                      395
+                             SCHEDULE 2
+                                                                                           SCHEDULE OF DEFERRED CONTRIBUTIONS
+                                                                                       (EXTERNALLY RESTRICTED CONTRIBUTIONS ONLY)
+                                                                                          For the Year Ended August 31, 2025 (in dollars)
+
+                                                                                                                                        Alberta Education and Childcare
+                                                                                                                                       Safe Return to
+                                                                                                                                        Class/Safe
+                                                                                                          IMR                CMR         Indoor Air     Transportation            Others        Total Education
+
+                             Deferred Operating Contributions (DOC)
+                               Balance at August 31, 2024                                           $                -   $         -   $          -    $             -     $           42,057   $          42,057
+                               Prior period adjustments - please explain:                           $                -   $         -   $          -    $             -     $               -    $             -
+                             Adjusted ending balance August 31, 2024                                $                -   $         -   $          -    $             -      $          42,057   $          42,057
+                               Received during the year (excluding investment
+                                                                                                    $                -   $         -   $          -    $        977,278    $          151,365   $      1,128,643
+                               income)
+                               Transfer (to) grant/donation revenue (excluding
+                                                                                                    $                -   $         -   $          -    $       (977,278) $           (158,221) $      (1,135,499)
+                               investment income)
+                               Investment earnings - Received during the year                       $                -   $         -   $          -    $             -     $               -    $             -
+                               Investment earnings - Transferred to investment
+                                                                                                    $                -   $         -   $          -    $             -     $               -    $             -
+                               income
+                               Transferred (to) from UDCC                                           $                -   $         -   $          -    $             -     $               -    $             -
+                               Transferred directly (to) SDCC                                       $                -   $         -   $          -    $             -     $               -    $             -
+                               Transferred (to) from others - please explain:                       $                -   $         -   $          -    $             -     $               -    $             -
+                             DOC closing balance at August 31, 2025                                 $                -   $         -   $          -    $             -      $          35,201   $          35,201
+
+
+                             Unspent Deferred Capital Contributions (UDCC)
+                               Balance at August 31, 2024                                           $                -   $         -   $          -    $             -     $               -    $             -
+                               Prior period adjustments - please explain:                           $                -   $         -   $          -    $             -     $               -    $             -
+                             Adjusted ending balance August 31, 2024                                $                -   $         -   $          -    $             -      $              -    $             -
+                               Received during the year (excluding investment
+                                                                                                    $                -   $         -   $          -    $             -     $        1,171,843   $      1,171,843
+                               income)
+                               UDCC Receivable                                                      $                -   $         -   $          -    $             -     $               -    $             -
+                               Transfer (to) grant/donation revenue (excluding
+                                                                                                    $                -   $         -   $          -    $             -     $               -    $             -
+                               investment income)
+                               Investment earnings - Received during the year                       $                -   $         -   $          -    $             -     $               -    $             -
+                               Investment earnings - Transferred to investment
+                                                                                                    $                -   $         -   $          -    $             -     $               -    $             -
+                               income
+                               Proceeds on disposition of supported capital/
+                                                                                                    $                -   $         -   $          -    $             -     $               -    $             -
+                               Insurance proceeds (and related interest)
+                               Transferred from (to) DOC                                            $                -   $         -   $          -    $             -     $               -    $             -
+                               Transferred from (to) SDCC                                           $                -   $         -   $          -    $             -     $       (1,171,843) $      (1,171,843)
+                               Transferred (to) from others - please explain:                       $                -   $         -   $          -    $             -     $               -    $             -
+                             UDCC closing balance at August 31, 2025                                $                -   $         -   $          -    $             -      $              -    $             -
+
+                             Total Unspent Deferred Contributions at August 31, 2025                $                -   $         -   $          -    $             -      $          35,201   $          35,201
+
+
+                             Spent Deferred Capital Contributions (SDCC)
+                               Balance at August 31, 2024                                           $                -   $         -   $          -    $             -     $        8,342,827   $      8,342,827
+                               Prior period adjustments - please explain:                           $                -   $         -                                       $               -    $             -
+                             Adjusted ending balance August 31, 2024                                $                -   $         -   $          -    $             -     $        8,342,827   $      8,342,827
+                               Donated tangible capital assets                                                                                                             $               -    $             -
+                               Alberta Infrastructure managed projects                                                                                                                          $             -
+                               Transferred from DOC                                                 $                -   $         -   $          -    $             -     $               -    $             -
+                               Transferred from UDCC                                                $                -   $         -   $          -    $             -     $        1,171,843   $      1,171,843
+                               Amounts recognized as revenue (Amortization of
+                                                                                                    $                -   $         -   $          -    $             -     $       (1,303,781) $      (1,303,781)
+                               SDCC)
+                               Disposal of supported capital assets                                 $                -   $         -   $          -    $             -     $               -    $             -
+                               Transferred (to) from others - please explain:                       $                -   $         -   $          -    $             -     $               -    $             -
+                             SDCC closing balance at August 31, 2025                                $                -   $         -   $          -    $             -     $        8,210,889   $      8,210,889
+
+
+
+
+#   Classification: Public                                                                                      12
+                                                                                                                                                                                                   School Jurisdiction Code:               395
+                         SCHEDULE 2
+                                                                                                                                SCHEDULE OF DEFERRED CONTRIBUTIONS
+                                                                                                                            (EXTERNALLY RESTRICTED CONTRIBUTIONS ONLY)
+                                                                                                                               For the Year Ended August 31, 2025 (in dollars)
+
+                                                                                                                   Other GoA Ministries                                                                      Other Sources
+                                                                                                                                                                                                    Donations and
+                                                                                     Alberta          Children's                          Other GOA            Total Other GoA                       grants from                        Total other
+                                                                                 Infrastructure        Services         Health            Ministries              Ministries     Gov't of Canada       others           Other            sources              Total
+
+                         Deferred Operating Contributions (DOC)
+                           Balance at August 31, 2024                        $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $           42,057
+                           Prior period adjustments - please explain:        $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                         Adjusted ending balance August 31, 2024             $                -   $            -   $             -    $                -   $                -    $          -       $             -     $       -   $                 -   $           42,057
+                           Received during the year (excluding investment
+                                                                             $                -   $            -   $             -    $                -   $                -    $          -      $          12,000    $       -   $            12,000   $     1,140,643
+                           income)
+                           Transfer (to) grant/donation revenue (excluding
+                                                                             $                -   $            -   $             -    $                -   $                -    $          -      $         (12,000) $         -   $          (12,000)   $     (1,147,499)
+                           investment income)
+                           Investment earnings - Received during the year    $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Investment earnings - Transferred to investment
+                                                                             $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           income
+                           Transferred (to) from UDCC                        $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Transferred directly (to) SDCC                    $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Transferred (to) from others - please explain:    $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                         DOC closing balance at August 31, 2025              $                -   $            -   $             -    $                -   $                -    $          -       $             -     $       -   $                 -   $           35,201
+
+
+                         Unspent Deferred Capital Contributions (UDCC)
+                           Balance at August 31, 2024                        $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Prior period adjustments - please explain:        $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                         Adjusted ending balance August 31, 2024             $                -   $            -   $             -    $                -   $                -    $          -       $             -     $       -   $                 -   $              -
+                           Received during the year (excluding investment
+                                                                             $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $     1,171,843
+                           income)
+                           UDCC Receivable                                   $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Transfer (to) grant/donation revenue (excluding
+                                                                             $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           investment income)
+                           Investment earnings - Received during the year    $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Investment earnings - Transferred to investment
+                                                                             $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           income
+                           Proceeds on disposition of supported capital/
+                                                                             $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Insurance proceeds (and related interest)
+                           Transferred from (to) DOC                         $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Transferred from (to) SDCC                        $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $     (1,171,843)
+                           Transferred (to) from others - please explain:    $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                         UDCC closing balance at August 31, 2025             $                -   $            -   $             -    $                -   $                -    $          -       $             -     $       -   $                 -   $              -
+
+                         Total Unspent Deferred Contributions at August 3 $                   -   $            -   $             -    $                -   $                -    $          -       $             -     $       -   $                 -   $           35,201
+
+
+                         Spent Deferred Capital Contributions (SDCC)
+                           Balance at August 31, 2024                        $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $     8,342,827
+                           Prior period adjustments - please explain:        $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                         Adjusted ending balance August 31, 2024             $                -   $            -   $             -    $                -   $                -    $          -       $             -     $       -   $                 -   $     8,342,827
+                           Donated tangible capital assets                   $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Alberta Infrastructure managed projects           $                -                                                            $                -                                                       $                 -   $              -
+                           Transferred from DOC                              $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Transferred from UDCC                             $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $     1,171,843
+                           Amounts recognized as revenue (Amortization of
+                                                                             $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $     (1,303,781)
+                           SDCC)
+                           Disposal of supported capital assets              $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                           Transferred (to) from others - please explain:    $                -   $            -   $             -    $                -   $                -    $          -      $              -     $       -   $                 -   $              -
+                         SDCC closing balance at August 31, 2025             $                -   $            -   $             -    $                -   $                -    $          -       $             -     $       -   $                 -   $     8,210,889
+
+
+
+
+Classification: Public                                                                                                                           13
+        SCHEDULE 3
+                                                                                                                                                                                    School Jurisdiction Code:        395
+
+                                                                                                 SCHEDULE OF PROGRAM OPERATIONS
+                                                                                              For the Year Ended August 31, 2025 (in dollars)
+                                                                                                                                         2025                                                                        2024
+
+                                                                                                                    Operations
+                    REVENUES                                                           Instruction                      and                                 System             External
+                                                                                  ECS           Grades 1 - 12       Maintenance         Transportation    Administration       Services          TOTAL              TOTAL
+            (1)     Alberta Education and Childcare                           $     416,785 $      10,642,149     $      4,599,688     $       977,278   $       404,606   $           -     $    17,040,506    $    12,419,572
+            (2)     Alberta Infrastructure                                    $         -    $              -     $            -       $            -    $            -    $           -     $           -      $           -
+            (3)     Other - Government of Alberta                             $         -    $              -     $            -       $            -    $            -    $           -     $           -      $           -
+            (4)     Federal Government and First Nations                      $         -    $              -     $            -       $            -    $            -    $           -     $           -      $           -
+            (5)     Other Alberta school authorities                          $         -    $              -     $            -       $            -    $            -    $           -     $           -      $           -
+            (6)     Out of province authorities                               $         -    $              -     $            -       $            -    $            -    $           -     $           -      $           -
+            (7)     Alberta municipalities-special tax levies                 $         -     $             -     $            -       $            -    $            -    $           -     $           -      $           -
+            (8)     Property taxes                                            $         -     $             -     $            -       $            -    $            -    $           -     $           -      $           -
+            (9)     Fees                                                      $      20,706 $         448,807                          $       618,186                     $       374,325   $     1,462,024    $     1,093,572
+           (10)     Sales of services and products                            $         -     $             -     $              -     $            -    $           -     $           -     $           -      $           -
+           (11)     Investment income                                         $         -     $        20,754     $              -     $            -    $           -     $           -     $        20,754    $        15,571
+           (12)     Gifts and donations                                       $          -    $        17,000     $              -     $            -    $           -     $           -     $        17,000    $         1,827
+           (13)     Rental of facilities                                      $          -    $             -     $              -     $            -    $           -     $           -     $           -      $          (800)
+           (14)     Fundraising                                               $         -    $           3,849    $              -     $            -    $           -     $           -     $         3,849    $        11,876
+           (15)     Gains on disposal of tangible capital assets              $         -    $              -     $              -     $            -    $           -     $           -     $           -      $           -
+           (16)     Other                                                     $         -    $      1,296,404     $              -     $            -    $           -     $       548,000   $     1,844,404    $         4,004
+           (17)     TOTAL REVENUES                                            $     437,491 $      12,428,963     $        4,599,688   $     1,595,464   $       404,606   $       922,325   $    20,388,537    $    13,545,622
+
+                    EXPENSES
+           (18)     Certificated salaries                                     $     263,620   $      5,932,328                                          $         44,171   $           -     $     6,240,119    $     4,561,588
+           (19)     Certificated benefits                                     $      33,028   $      1,582,350                                          $            751   $           -     $     1,616,129    $     1,002,145
+           (20)     Non-certificated salaries and wages                       $      22,087   $      1,745,983    $          118,508   $        60,444 $         187,008   $       254,037   $     2,388,067    $     1,443,989
+           (21)     Non-certificated benefits                                 $       1,601   $        310,775    $            2,699   $         2,699 $           8,638   $        19,143   $       345,555    $       107,890
+           (22)     SUB - TOTAL                                               $     320,336   $      9,571,436    $          121,207   $        63,143 $         240,568   $       273,180   $    10,589,870    $     7,115,612
+           (23)     Services, contracts and supplies                          $      91,571   $      2,477,763    $        2,853,996   $     1,541,930 $          15,600   $       103,358   $     7,084,218    $     5,117,881
+           (24)     Amortization of supported tangible capital assets         $         -     $            -      $        1,303,781   $           -    $            -     $           -     $     1,303,781    $     1,145,165
+           (25)     Amortization of unsupported tangible capital assets       $         -     $            -      $           34,565   $           -    $            -     $           -     $        34,565    $           -
+           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $              -     $           -    $            -     $           -     $           -      $           -
+           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $              -     $           -    $            -     $           -     $           -      $           -
+           (28)     Amortization of purchased intangibles                     $         -     $            -      $              -     $           -    $            -     $           -     $           -
+           (29)     Accretion expenses                                        $         -     $            -      $              -     $           -    $            -     $           -     $           -      $           -
+           (30)     Unsupported interest on capital debt                      $         -     $            -      $              -     $           -    $            -     $           -     $           -      $           -
+           (31)     Other interest and finance charges                        $         -     $            -      $              -     $           -    $            -     $           -     $           -      $           -
+           (32)     Losses on disposal of tangible capital assets             $         -     $            -      $              -     $           -    $            -     $           -     $           -      $           -
+           (33)     Other expense                                             $         -     $      1,285,956    $              -     $           -    $            -     $           -     $     1,285,956    $           -
+           (34)     TOTAL EXPENSES                                            $     411,907   $     13,335,155    $        4,313,549   $     1,605,073 $         256,168   $       376,538   $    20,298,390    $    13,378,658
+           (35)     OPERATING SURPLUS (DEFICIT)                               $      25,584   $       (906,192)   $          286,139   $        (9,609) $        148,438   $       545,787   $        90,147    $       166,964
+
+
+
+
+#   Classification: Public                                                                                            14
+       SCHEDULE 4                                                                                                                                                                                                                            School Jurisdiction Code:            395
+
+
+
+
+                                                                                                                            SCHEDULE OF OPERATIONS AND MAINTENANCE
+                                                                                                                          For the Year Ended August 31, 2025 (in dollars)
+
+
+                                                                                                                                          Expensed IMR/CMR,
+                                                                                                                                                                                                Unsupported                                              2025                 2024 TOTAL
+                                                                                                                        Utilities               Modular Unit        Facility Planning &         Amortization             Supported                      TOTAL                Operations and
+       EXPENSES                                                       Custodial              Maintenance                  and                  Relocations &           Operations                 & Other               Capital & Debt               Operations and           Maintenance
+                                                                                                                       Telecomm.              Lease Payments          Administration             Expenses                 Services                    Maintenance
+       Non-certificated salaries and wages                      $                  -    $                   -    $                  -     $                  -     $             118,508                                                         $            118,508    $               10,940
+       Non-certificated benefits                                $                  -    $                   -    $                  -     $                  -     $               2,699                                                         $              2,699    $                   -
+                             SUB-TOTAL REMUNERATION             $                  -    $                   -    $                  -     $                  -     $             121,207                                                         $            121,207    $               10,940
+       Supplies and services                                    $             391,344   $             208,275    $                  -     $                  -     $                  -                                                          $            599,619    $          1,155,625
+       Electricity                                                                                               $             140,219                                                                                                           $            140,219    $              146,564
+       Natural gas/heating fuel                                                                                  $               16,828                                                                                                          $             16,828    $               43,570
+       Sewer and water                                                                                           $               17,619                                                                                                          $             17,619    $               12,992
+       Telecommunications                                                                                        $               39,607                                                                                                          $             39,607    $               36,885
+       Insurance                                                                                                                                                   $                  -                                                          $                -      $                   -
+       ASAP maintenance & renewal payments                                                                                                                                                                          $                    -       $                -      $                   -
+       Amortization of tangible capital assets
+                 Supported                                                                                                                                                                                          $           1,303,781        $          1,303,781    $          1,145,165
+                 Unsupported                                                                                                                                                               $               34,565                                $             34,565    $                   -
+                             TOTAL AMORTIZATION                                                                                                                                             $              34,565   $           1,303,781        $          1,338,346    $          1,145,165
+       Accretion expense                                                                                                                                                                   $                   -    $                    -       $                -      $                   -
+       Interest on capital debt - Unsupported                                                                                                                                              $                   -                                 $                -      $                   -
+       Lease payments for facilities                                                                                                      $            2,040,104                                                                                 $          2,040,104    $          1,474,317
+       Other expense                                            $                  -    $                   -    $                  -     $                  -     $                  -    $                   -    $                    -       $                -      $                   -
+       Losses on disposal of capital assets                                                                                                                                                $                   -                                 $                -      $                   -
+       TOTAL EXPENSES                                           $             391,344   $             208,275    $             214,273    $            2,040,104   $             121,207   $               34,565   $           1,303,781        $          4,313,549    $          4,026,058
+
+
+
+
+       SQUARE METRES
+                 School buildings                                                                                                                                                                                                                            13,589.6                   11,671.1
+                 Non school buildings                                                                                                                                                                                                                           411.0                     411.0
+
+                                  Notes:
+                                                                           Custodial: All expenses related to activities undertaken to keep the school environment and maintenance shops clean and safe.
+                                                                        Maintenance: All expenses associated with the repair, replacement, enhancement and minor construction of buildings, grounds and equipment components. This includes regular and
+                                                                                     preventative maintenance undertaken to ensure components reach or exceed their life cycle and the repair of broken components. Maintenance expenses exclude
+                                                                                     operational costs related to expensed Infrastructure Maintenance Renewal (IMR), CMR & Modular Unit relocations, as they are reported on separately.
+                                                    Utilities & Telecommunications: All expenses related to electricity, natural gas and other heating fuels, sewer and water and all forms of telecommunications.
+                xpensed IMR, CMR & Modular Unit Relocation & Lease Payments: All operational expenses associated with non-capitalized IMR and CMR projects, modular unit (portable) relocation, and payments on leased facilities.
+                                     Facility Planning & Operations Administration: All expenses related to the administration of operations and maintenance including (but not limited to) contract administration, clerical functions, negotiations, supervision of
+                                                                                    employees & contractors, school facility planning & project 'administration', administration of joint-use agreements, and all expenses related to ensuring compliance with
+                                                                                    health and safety standards, codes and government regulations.
+                                      Unsupported Amortization & Other Expenses: All expenses related to unsupported capital assets amortization and interest on unsupported capital debt.
+                                                 Supported Capital & Debt Services: All expenses related to supported capital assets amortization and interest on supported capital debt.
+
+
+
+
+#   Classification: Public                                                                                                                        15
+       SCHEDULE 5                                                                                                                                                         School Jurisdiction Code:         395
+
+                                                                                  SCHEDULE OF CASH, CASH EQUIVALENTS, AND PORTFOLIO INVESTMENTS
+                                                                                              For the Year Ended August 31, 2025 (in dollars)
+
+
+       Cash & Cash Equivalents                                            2025                               2024
+                                                      Average
+                                                      Effective
+                                                      (Market)                           Amortized
+                                                        Yield           Cost               Cost      Amortized Cost
+       Cash                                                2.96% $       (176,576) $        (176,576) $    1,147,395
+       Cash equivalents
+        Government of Canada, direct and
+        guaranteed                                         0.00%                  -                 -                  -
+        Provincial, direct and guaranteed                  0.00%                  -                 -                  -
+        Corporate                                          0.00%                  -                 -                  -
+        Other, including GIC's                             0.00%                  -                 -                  -
+       Total cash and cash equivalents                     2.96% $        (176,576) $       (176,576) $       1,147,395
+       See Note xxx for additional detail.
+       Portfolio Investments                                                                                         2025                                                                                                                     2024
+                                                                                                              Investments Measured at Fair Value
+                                                      Average       Investments                                                                                                                         Investments
+                                                      Effective     Measured at                                                                                                                         Measured at                                      Explain the reason for difference if
+                                                      (Market)     Cost/Amortized                          Fair Value          Fair Value             Fair Value       Subtotal of                     Cost/Amortized                                    PY Actuals are different from prior
+                                                        Yield           Cost               Cost             (Level 1)           (Level 2)              (Level 3)       Fair Value          Total            Cost          Fair Value         Total            year submitted numbers
+       Interest-bearing securities
+         Deposits and short-term securities                0.00% $                  - $              - $                 - $                    - $                - $               - $           - $              - $                - $           -
+         Bonds and mortgages                               0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+                                                           0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+       Equities
+        Canadian equities                                  0.00% $                  - $              - $                 - $                    - $                - $               - $           - $              - $                - $           -
+        Global developed equities                          0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+        Emerging markets equities                          0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+        Private equities                                   0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+        Hedge funds                                        0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+                                                           0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+       Inflation sensitive
+         Real estate                                       0.00% $                  - $              - $                 - $                    - $                - $               - $           - $              - $                - $           -
+         Infrastructure                                    0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+         Renewable resources                               0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+         Other investments                                 0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+                                                           0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+
+       Strategic, tactical, and currency
+       investments                                         0.00% $                  - $              - $                 - $                    - $                - $               - $           - $              - $                - $           -
+
+       Total portfolio investments                         0.00%                    -                -                   -                      -                  -                 -             -                -                  -             -
+       See Note xxx for additional detail.
+       Portfolio investments
+                                                                                           2025
+                                                                       Level 1            Level 2           Level 3              Total
+         Pooled investment funds                                   $                - $              - $                 - $                    -
+
+
+       Portfolio Investments Measured at Fair Value                                                 2025                                                2024
+                                                                       Level 1            Level 2           Level 3              Total                  Total
+         Portfolio investments in equity instruments that are
+                                                                   $                - $              - $                 - $                    - $                -
+         quoted in an active market.
+         Porfolio investments designated to their fair value
+                                                                                    -                -                   -                                         -
+         category.                                                                                                                          -
+                                                                   $                - $              - $                 - $                    - $                -
+
+       Marketable Securities
+                                                                                  2025                                  2024
+
+                                                                       Carrying       Quoted Market    Carrying            Quoted Market
+                                                                        Value            Value          Value                 Value
+       XXXX                                                        $                - $            - $                   - $            -
+       XXXX                                                                         -              -                     -              -
+                                                                   $                - $            - $                   - $            -
+#   Classification: Public                                                                                                                              16
+    Reconciliation of Portfolio Investments
+    Classified as Level 3                                                        2025                    2024
+     Opening balance                                                      $                      - $               -
+     Purchases                                                                                   -                 -
+
+     Sales (excluding realized gains/losses)                                                     -                 -
+     Realized Gains (Losses)                                                                     -                 -
+     Unrealized Gains/(Losses)                                                                   -                 -
+     Transfer-in - please explain:                                                               -                 -
+     Transfer-out - please explain:                                                              -                 -
+     Ending balance                                                       $                      - $               -
+
+
+                                                                                 2025                    2024
+    Operating
+     Cost                                                                 $                      - $               -
+     Unrealized gains and losses                                                                 -                 -
+                                                                                                 -                 -
+
+    Endowments
+     Cost                                                                 $                      - $               -
+     Unrealized gains and losses                                                                 -                 -
+     Deferred revenue                                                                            -                 -
+                                                                                                 -                 -
+    Total portfolio investments                                           $                      - $               -
+
+    The following represents the maturity structure for portfolio investments based on principal amount:
+                                                                                 2025                    2024
+       Under 1 year                                                                     0.0%                    0.0%
+       1 to 5 years                                                                     0.0%                    0.0%
+       6 to 10 years                                                                    0.0%                    0.0%
+       11 to 20 years                                                                   0.0%                    0.0%
+       Over 20 years                                                                    0.0%                    0.0%
+                                                                                        0.0%                    0.0%
+     *Indicate proportion of investment holdings according to maturity - Total must equal 100%
+    - If no explicit maturity date, please indicate expected or estimated divestment date.
+
+
+
+    Transfers between Level 1 and Level 2
+                                                                                                                                  2025
+                                                                                 Fair                     Fair
+                                                                                Value                    Value                           Reason for transfers
+                                                                              (Level 1)                (Level 2)
+
+                                                                                                                       Level 1:
+
+    Transfer in                                                           $                      - $               - Level 2:
+                                                                                                                     Level 1:
+
+    Transfer (out)                                                        $                      - $               - Level 2:
+
+
+
+
+Classification: Public                                                                                                                                  17
+     SCHEDULE 6                                                                                                                                                      School Jurisdiction Code:                  395
+                                                                                         SCHEDULE OF TANGIBLE CAPITAL ASSETS
+                                                                                        For the Year Ended August 31, 2025 (in dollars)
+     Tangible Capital Assets                                                                                                     2025                                                                           2024
+                                                                                                                                                                      Computer
+                                                                                      Work In                                                                        Hardware &         Total                  Total
+                                                                    Land             Progress*           Buildings**           Equipment          Vehicles            Software
+                                        Estimated useful life                                            Life of Lease          5 Years             0%                4-5 Years
+     Historical cost
+       Beginning of year                                        $           -    $         419,761   $        7,335,143    $      1,294,111   $              -   $        592,773   $    9,641,788                       2,770,647
+       Prior period adjustments                                             -                    -                    -                   -                  -                  -                -                               -
+       Additions                                                            -              593,508              944,165                   -                  -                  -        1,537,673                       6,871,141
+       Transfers in (out)                                                   -          (1,013,269)            1,013,269                   -                  -                  -                -                               -
+       Less disposals including write-offs                                  -                    -                    -                   -                  -                  -                -                               -
+     Historical cost, August 31, 2025                           $           -    $               -   $        9,292,577    $      1,294,111   $              -   $        592,773   $   11,179,461 $                     9,641,788
+
+     Accumulated amortization
+      Beginning of year                                         $           -    $               - $            829,076    $        297,745   $              -   $        172,140   $    1,298,961                         153,796
+      Prior period adjustments                                              -                    -                    -                   -                  -                  -                -                               -
+      Amortization                                                           -                    -             958,550             258,822                  -            120,974        1,338,346                       1,145,165
+      Other additions                                                       -                     -                   -                   -                  -                  -                -                               -
+      Transfers in (out)                                                    -                    -                    -                   -                  -                  -                -                               -
+      Less disposals including write-offs                                    -                    -                   -                   -                  -                  -                -                               -
+     Accumulated amortization, August 31, 2025                  $           -    $               - $          1,787,626    $        556,567   $              -   $        293,114   $    2,637,307 $                     1,298,961
+
+     Net Book Value at August 31, 2025                          $           -    $               -   $        7,504,951    $        737,544   $              -   $        299,659   $    8,542,154
+
+     Net Book Value at August 31, 2024                          $           -    $        419,761    $        6,506,067    $        996,366   $              -   $        420,633                    $                   8,342,827
+
+
+
+                                                                                       2025                  2024
+     Total cost of assets under capital lease                                    $         93,686    $           93,686
+     Total amortization of assets under capital lease                            $         43,643    $           24,905
+
+     **Included in Buildings, is leasehold improvements with a carrying cost of $9,292,577 (2024 - $7,335,143), accumulated amortized of $1,787,626 (2024 - $829,076), for a net book value of $7,504,951 (2024 - $6,506,067).
+
+
+
+
+#   Classification: Public                                                                                                18
+       SCHEDULE 7                                                                                                                             School Jurisdiction Code:                  395
+                                                   SCHEDULE OF REMUNERATION AND MONETARY INCENTIVES
+                                                         For the Year Ended August 31, 2025 (in dollars)
+                                                                                                                                                                 Other Accrued
+                                                                                                                        Performance
+      Board Members:                                   FTE      Remuneration        Benefits          Allowances          Bonuses          ERIP's / Other Paid   Unpaid Benefits        Expenses
+
+      Francis Fast                                       1.00                  $0                $0                $0                                                              $0              $0
+       Jenny Fast                                        1.00                  $0                $0                $0                                                              $0              $0
+       Williams French                                   1.00                  $0                $0                $0                                                              $0              $0
+       John von Heyking                                  1.00                  $0                $0                $0                                                              $0              $0
+       Wendy Juergens                                    1.00                  $0                $0                $0                                                              $0              $0
+       Moira Lavoie                                      1.00                  $0                $0                $0                                                              $0              $0
+       Ryan Parks                                        1.00                  $0                $0                $0                                                              $0              $0
+       Jim Silovs                                        1.00                  $0                $0                $0                                                              $0              $0
+       Joseph Woodward                                   1.00                  $0                $0                $0                                                              $0              $0
+
+
+
+
+       Subtotal                                          9.00                  $0                $0                $0                                                              $0              $0
+
+
+      Name, Superintendent 1      John Picard            1.00           $44,171                $751                $0                 $0                    $0                     $0              $0
+      Name, Superintendent 2
+      Name, Superintendent 3
+      Name, Treasurer 1           Sadiq Valliani         1.00          $187,008             $8,638                 $0                 $0                    $0                     $0              $0
+      Name, Treasurer 2
+      Name, Treasurer 3
+      Name, Other
+
+
+       Certificated                                                   $6,195,948         $1,615,378                $0                 $0                    $0                     $0
+       School based                                     76.10
+       Non-School based                                   -
+       Non-certificated                                               $2,201,059          $336,917                 $0                 $0                    $0                     $0
+       Instructional                                    42.10
+       Operations & Maintenance                          1.00
+       Transportation                                    1.00
+       Other                                              -
+
+
+       TOTALS                                          131.20         $8,628,186         $1,961,684                $0                 $0                    $0                     $0              $0
+
+
+
+
+#   Classification: Public                                                          19
+     SCHEDULE 8                                                                                                                                                                                                                                      School Jurisdiction Code:          395
+                                                                                                                                 SCHEDULE OF ASSET RETIREMENT OBLIGATIONS
+                                                                                                                                   For the Year Ended August 31, 2025 (in dollars)
+
+       Continuity of ARO (Liability) Balance
+                                                                                              2025                                                                                                                                                   2024
+                                                                                                                              Computer                                                                                                                                               Computer
+       (in dollars)                                        Land           Buildings       Equipment           Vehicles       Hardware &           Total        (in dollars)                                       Land           Buildings       Equipment           Vehicles       Hardware &           Total
+                                                                                                                               Software                                                                                                                                               Software
+       Opening Balance, Aug 31, 2024                   $          -   $               -   $           -   $              -   $          -     $           -    Opening Balance, Aug 31, 2023                  $          -   $               -   $           -   $              -   $          -     $           -
+       Liability incurred from Sept. 1, 2024 to Aug.                                                                                                           Liability incurred from Sept. 1, 2023 to
+                                                                  -                   -               -                  -                -               -                                                              -                   -               -                  -                -               -
+       31, 2025                                                                                                                                                Aug. 31, 2024
+       Liability settled/extinguished from Sept. 1,                                                                                                            Liability settled/extinguished from Sept. 1,
+       2024 to Aug. 31, 2025 - Alberta                            -                   -               -                  -                -               -    2023 to Aug. 31, 2024 - Alberta                           -                   -               -                  -                -               -
+       Infrastructure                                                                                                                                          Infrastructure
+       Liability settled/extinguished from Sept 1.,                                                                                                            Liability settled/extinguished from Sept. 1,
+                                                                  -                   -               -                  -                -               -                                                              -                   -               -                  -                -               -
+       2024 to Aug. 31, 2025 - Other                                                                                                                           2023 to Aug. 31, 2024 - Other
+       Accretion expense (only if Present Value                                                                                                                Accretion expense (only if Present Value
+                                                                  -                   -               -                  -                -               -                                                              -                   -               -                  -                -               -
+       technique is used)                                                                                                                                      technique is used)
+       Add/(Less): Revision in estimate Sept. 1,                                                                                                               Add/(Less): Revision in estimate Sept. 1,
+                                                                  -                   -               -                  -                -               -                                                              -                   -               -                  -                -               -
+       2024 to Aug. 31, 2025                                                                                                                                   2023 to Aug. 31, 2024
+       Reduction of liability resulting from                                                                                                                   Reduction of liability resulting from
+       disposals of assets Sept. 1, 2024 to Aug.                  -                   -               -                  -                -               -    disposals of assets Sept. 1, 2023 to Aug.                 -                   -               -                  -                -               -
+       31, 2025                                                                                                                                                31, 2024
+       Balance, Aug. 31, 2025                          $          -   $               -   $           -   $              -   $            -   $           -    Balance, Aug. 31, 2024                         $          -   $               -   $           -   $              -   $            -   $           -
+
+
+
+       Continuity of TCA (Capitalized ARO) Balance
+                                                                                              2025                                                                                                                                                   2024
+                                                                                                                              Computer                                                                                                                                               Computer
+       (in dollars)                                        Land           Buildings       Equipment           Vehicles       Hardware &           Total        (in dollars)                                       Land           Buildings       Equipment           Vehicles       Hardware &           Total
+                                                                                                                              Software                                                                                                                                               Software
+       ARO Tangible Capital Assets - Cost                                                                                                                      ARO Tangible Capital Assets - Cost
+       Opening balance, August 31, 2024                $          -   $               -   $           -   $              -   $            -   $           -    Opening balance, August 31, 2023               $          -   $               -   $           -   $              -   $            -   $           -
+         Additions resulting from liability incurred              -                   -               -                  -                -               -     Additions resulting from liability incurred              -                   -               -                  -                -               -
+        Revision in estimate                                      -                   -               -                  -                -               -     Revision in estimate                                     -                   -               -                  -                -               -
+        Reduction resulting from disposal of                                                                                                                    Reduction resulting from disposal of
+                                                                  -                   -               -                  -                -               -                                                              -                   -               -                  -                -               -
+        assets                                                                                                                                                  assets
+       Cost, August 31, 2025                           $          -   $               -   $           -   $              -   $            -   $           -    Cost, August 31, 2024                          $          -   $               -   $           -   $              -   $            -   $           -
+       ARO TCA - Accumulated Amortization                                                                                                                      ARO TCA - Accumulated Amortization
+       Opening balance, August 31, 2024                $          -   $               -   $           -   $              -   $            -   $           -    Opening balance, August 31, 2023               $          -   $               -   $           -   $              -   $            -   $           -
+        Amortization expense                                      -                   -               -                  -                -               -     Amortization expense                                     -                   -               -                  -                -               -
+        Revision in estimate                                      -                   -               -                  -                -               -     Revision in estimate                                     -                   -               -                  -                -               -
+        Less: disposals                                           -                   -               -                  -                -               -     Less: disposals                                          -                   -               -                  -                -               -
+                                                                                                                                                               Accumulated amortization, August 31,
+       Accumulated amortization, August 31, 2025
+                                                       $          -   $               -   $           -   $              -   $            -   $           -    2024                                           $          -   $               -   $           -   $              -   $            -   $           -
+
+       Net Book Value at August 31, 2025               $          -   $               -   $           -   $              -   $            -   $           -    Net Book Value at August 31, 2024              $          -   $               -   $           -   $              -   $            -   $           -
+
+
+
+
+#   Classification: Public                                                                                                                                20
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 1 – AUTHORITY AND PURPOSE
+
+Calgary Classical Academy Inc., the predecessor entity, was incorporated on October 12, 2021, under the
+Business Corporations Act of Alberta and facilitated the operations of the school until August 31, 2023.
+Alberta Classical Academy Ltd. (the “School Authority”) was incorporated on December 6, 2022 and on
+September 1, 2023, Calgary Classical Academy Inc. entered into an assignment and assumption
+agreement whereby all assets, liabilities, equity and operations of the school were assigned to Alberta
+Classical Academy Ltd. The School Authority delivers education programs under the authority of the
+Education Act, 2012, Chapter E-0.3.
+
+The School Authority receives funding for instruction and support under Ministerial Grants Regulation (AR
+215/2022). The regulation allows for the setting of conditions and use of grant monies. The School Authority
+is limited on certain funding allocations and administrative expenses.
+
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+These financial statements have been prepared in accordance with Canadian Public Sector Accounting
+Standards (PSAS). The financial statements have, in management’s opinion, been properly prepared within
+reasonable limits of materiality and within the framework of the accounting policies summarized below:
+
+    a) Basis of Financial Reporting
+
+        Valuation of Financial Assets and Liabilities
+
+        The School Authority’s financial assets and liabilities are generally measured as follows:
+
+        Financial Statement Component                     Measurement
+        Cash and cash equivalents                         Cost
+        Accounts receivable                               Lower of cost or net recoverable value
+        Inventories for resale                            Lower of cost or net realizable value
+        Portfolio investments                             Fair value and cost or amortized cost
+        Accounts payable and other accrued liabilities    Cost
+        Debt                                              Amortized cost
+        Derivatives                                       Fair value
+        Asset retirement obligations and environmental    Cost or present value
+        liabilities
+
+        For financial statement components measured using amortized cost, the effective interest rate
+        method is used to determine interest revenue or expense. Transaction costs are a component of
+        cost for financial instruments measured using cost or amortized cost. Transaction costs are
+        expensed for financial instruments measured at fair value.
+
+        Financial Assets
+
+        Financial assets are assets that could be used to discharge existing liabilities or finance future
+        operations and are not for consumption in the normal course of operations.
+
+        Financial assets are the School Authority’s financial claims on external organizations and
+        individuals, as well as cash and inventories for resale at the year end.
+
+
+
+
+                                                     21
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – continued
+
+      Cash and Cash Equivalents
+
+      Cash comprises cash on hand and demand deposits. Cash equivalents are short-term, highly liquid,
+      investments that are readily convertible to known amounts of cash and that are subject to an
+      insignificant risk of change in value. Cash equivalents have a maturity of three months or less at
+      acquisition and are held for the purpose of meeting short-term commitments rather than for
+      investment purposes.
+
+      Accounts Receivable
+
+      Accounts receivable are recognized at the lower of cost or net recoverable value. A valuation
+      allowance is recognized when recovery is uncertain.
+
+      Portfolio Investments
+
+      Portfolio investments consist of guaranteed investment certificates (“GICs”), term deposits, bonds,
+      equity instruments and mutual funds that have no maturity dates or have a maturity of greater than
+      3 months. GICs, term deposits and other investments not quoted in an active market are reported
+      at cost or amortized cost. A write-down of a portfolio investment to reflect a loss in value is not
+      reversed for a subsequent increase in value. Discounts and premiums arising on the purchase of
+      fixed income securities are amortized over the term of the investments using an effective interest
+      method.
+
+      Derivatives and portfolio investments in equity instruments that are quoted in an active market are
+      recorded at fair value and the associated transaction costs are expensed upon initial recognition.
+      The change in the fair value is recognized in the Statement of Remeasurement Gains and Losses
+      as a remeasurement gain or loss until the portfolio investments are derecognized. Upon
+      derecognition, the accumulated remeasurement gains or losses associated with the derecognized
+      portfolio investments are reversed and reclassified to the Statement of Operations.
+
+      Impairment is defined as a loss in value of a portfolio investment that is other than a temporary
+      decline and is included in the Statement of Operations. In the case of an item in the fair value
+      category, a reversal of any net remeasurement gains recognized in previous reporting periods up to
+      the amount of the write-down is reported in the Statement of Remeasurement Gains and Losses. A
+      subsequent increase in value would be recognized on the Statement of Remeasurement Gains and
+      Losses and realized on the Statement of Operations only when sold.
+
+      Contractual obligations are evaluated for the existence of embedded derivatives. They are elected
+      to either measure the entire contract at fair value or separately measure the value of the derivative
+      component when characteristics of the derivative are not closely related to the economic
+      characteristics and risks of the contract itself. Contracts to buy or sell non-financial items for the
+      School Authority’s normal course of business are not recognized as financial assets or liabilities.
+      The School Authority does not have any embedded derivatives.
+
+      Detailed information regarding portfolio investments is disclosed in the Schedule 5: Schedule of
+      Cash, Cash Equivalents, and Portfolio Investments.
+
+      Inventories for resale
+
+      Inventories for resale are valued at the lower of cost and net realizable value. Cost is determined
+      on first-in, first-out basis.
+
+
+
+
+                                                   22
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – continued
+
+      Other financial assets
+
+      Other financial assets are valued at the lower of cost or expected net realizable value.
+
+      Liabilities
+
+      Liabilities are present obligations of the school authority to external organizations and individuals
+      arising from past transactions or events occurring before the year end, the settlement of which is
+      expected to result in the future sacrifice of economic benefits. They are recognized when there is
+      an appropriate basis of measurement and management can reasonably estimate the amounts.
+
+      Accounts payable and other accrued liabilities
+
+      Accounts payable and accrued liabilities include unearned revenue collected from external
+      organizations and individuals for which goods and services have yet to be provided.
+
+      Deferred Contributions
+
+      Deferred contributions include contributions received for operations which have stipulations that
+      meet the definition of a liability per Public Sector Accounting Standard (PSAS) PS 3200. These
+      contributions are recognized by the School Authority once it has met all eligibility criteria to receive
+      the contributions. When stipulations are met, deferred revenue is recognized as revenue in the
+      fiscal year in a manner consistent with the circumstances and evidence used to support the initial
+      recognition of the contributions received as a liability.
+
+      Deferred contributions also includes contributions for capital expenditures, unexpended and
+      expended. Unexpended Deferred Capital Contributions (UDCC) represent externally restricted
+      supported capital funds provided for a specific capital purpose received or receivable by the School
+      Authority, but the related expenditure has not been made at year-end. These contributions must
+      also have stipulations that meet the definition of a liability per PS 3200 when expended.
+
+      Spent Deferred Capital Revenue (SDCC) represents externally restricted supported capital funds
+      that have been expended but have yet to be amortized over the useful life of the related tangible
+      capital asset. Amortization over the useful life of the related tangible capital asset is due to certain
+      stipulations related to the contributions that require the School Authority to use the asset in a
+      prescribed manner over the life of the associated asset.
+
+      Asset Retirement Obligations
+
+      Asset retirement obligations are legal obligations associated with the retirement of a tangible capital
+      assets (TCA). Asset retirement activities include all activities relating to an asset retirement
+      obligation. These may include, but are not limited to:
+           decommissioning or dismantling a tangible capital asset that was acquired, constructed or
+               developed;
+           remediation of contamination of a tangible capital asset created by its normal use;
+           post-retirement activities such as monitoring; and
+           constructing other tangible capital assets to perform post-retirement activities.
+
+      A liability for an asset retirement obligation is recognized when, as at the financial reporting date:
+      a) there is a legal obligation to incur retirement costs in relation to a tangible capital asset;
+      b) the past transaction or event giving rise to the liability has occurred;
+      c) it is expected that future economic benefits will be given up; and
+      d) a reasonable estimate of the amount can be made.
+
+                                                     23
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – continued
+
+      Asset Retirement Obligations - continued
+
+      When a liability for asset retirement obligation is recognized, asset retirement costs related to
+      recognized tangible capital assets in productive use are capitalized by increasing the carrying
+      amount of the related asset and are amortized over the estimated useful life of the underlying
+      tangible capital asset. Asset retirement costs related to unrecognized tangible capital assets and
+      those not in productive use are expensed.
+
+      Environmental Liabilities
+
+      Liabilities for Contaminated Sites:
+      Contaminated sites are a result of contamination of a chemical, organic or radioactive material or
+      live organism that exceeds an environmental standard, being introduced into soil, water or
+      sediment.
+
+      A liability for remediation of a contaminated site may arise from an operation that is either in
+      productive use or no longer in productive use and may also arise from an unexpected event
+      resulting in contamination. The resulting liability is recognized net of any expected recoveries, when
+      all of the following criteria are met:
+
+              i. an environmental standard exists;
+              ii. contamination exceeds the environmental standard;
+              iii. the School Authority is directly responsible or accepts responsibility;
+              iv. it is expected that future economic benefits will be given up; and
+              v. a reasonable estimate of the amount can be made
+
+      Other environmental liabilities:
+      Other environmental liabilities, which are not liabilities for contaminated sites or asset retirement
+      obligations, are recognized when all of the following criteria are met:
+
+              i. the School Authority has a duty or responsibility to others, leaving little or no discretion to
+              avoid the obligation;
+              ii. the duty or responsibility to others entails settlement by future transfer or use of assets,
+              or a provision of services at a specified or determinable date, or on demand;
+              iii. a transaction or events obligating the School Authority have already occurred; and
+              iv. a reasonable estimate of the amount can be made.
+
+      The Society does not have any asset retirement obligations, environmental or other environmental
+      liabilities.
+
+      Debt
+
+      Notes, debentures, and mortgages are recognized at their face amount less unamortized discount,
+      which includes issue expenses.
+
+      Non-Financial Assets
+
+      Non-financial assets are acquired, constructed, or developed assets that do not normally provide
+      resources to discharge existing liabilities, but instead:
+              (a) are normally employed to deliver government services;
+              (b) may be consumed in the normal course of operations; and
+              (c) are not for sale in the normal course of operations.
+
+      Non-financial assets include tangible capital assets, inventories of supplies and prepaid expenses.
+                                                     24
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – continued
+
+      Tangible Capital Assets
+
+      The following criteria applies:
+       Tangible capital assets acquired or constructed are recorded at cost which includes amounts
+         that are directly related to the acquisition, design, construction, development, improvement or
+         betterment of the asset. Cost also includes overhead directly attributable to construction as well
+         as interest costs that are directly attributable to the acquisition or construction of the asset, and
+         asset retirement cost.
+       Donated tangible capital assets are recorded at their fair market value at the date of donation,
+         except in circumstances where fair value cannot be reasonably determined, when they are then
+         recognized at nominal value. Transfers of tangible capital assets from related parties are
+         recorded at original cost less accumulated amortization.
+       Construction-in-progress is recorded as a transfer to the applicable asset class at substantial
+         completion.
+       Buildings include site and leasehold improvements as well as assets under capital lease.
+       Sites and buildings are written down to residual value when conditions indicate they no longer
+         contribute to the ability of the School Authority to provide services or when the value of future
+         economic benefits associated with the sites and buildings are less than their net book value.
+         For supported assets, the write-downs are accounted for as reductions to Expended Deferred
+         Capital Contributions.
+       Buildings that are demolished or destroyed are written-off.
+       Tangible capital assets with costs in excess of $5,000 are capitalized.
+       Leases that, from the point of view of the lessee, transfer substantially all the benefits and risks
+         incident to ownership of the property to the School Authority are considered capital leases.
+         These are accounted for as an asset and an obligation. Capital lease obligations are recorded
+         at the present value of the minimum lease payments excluding executor costs, e.g., insurance,
+         maintenance costs, etc. The discount rate used to determine the present value of the lease
+         payments is the lower of the School Authority’s rate for incremental borrowing or the interest
+         rate implicit in the lease.
+       Tangible capital assets are amortized over their estimated useful lives on a straight-line basis,
+         at the following rates:
+
+                  Furniture and Equipment                                         5 years
+                  System Software Implementation                                  4-5 years
+                  Leasehold Improvements                                 shorter of: (i) useful life or (ii) life
+                                                                         of remaining term of lease
+
+
+
+
+                                                    25
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – continued
+
+      Prepaid expenses
+
+      Prepaid expenses is recognized at cost and amortized based on the terms of the agreement or
+      using a methodology that reflects use of the resource.
+
+      Operating and Capital Reserves
+
+      Certain amounts, as approved by the School Authority’s Board, are internally or externally restricted
+      for future operating or capital purposes. Transfers to and from reserves are recorded when
+      approved by the School Authority’s Board. Capital reserves are restricted to capital purposes and
+      may only be used for operating purposes with approval by the Minister of Education. Reserves are
+      disclosed in the Schedule of Changes in Accumulated Surplus.
+
+      Revenue Recognition
+
+      All revenues are reported on the accrual basis of accounting. Cash received for which goods or
+      services have not been provided by year end is recognized as unearned revenue and recorded in
+      accounts payable and other accrued liabilities.
+
+      Endowment contributions, matching contributions, and associated investment income allocated for
+      preservation of endowment capital purchasing power are recognized in the Statement of
+      Operations in the period in which they are received.
+
+      Government transfers
+
+      Transfers from all governments are referred to as government transfers.
+
+      Government transfers and associated externally restricted investment income are recognized as
+      deferred contributions if the eligibility criteria for use of the transfer, or the stipulations together with
+      the School Authority’s actions and communications as to the use of the transfer, create a liability.
+      These transfers are recognized as revenue as the stipulations are met and, when applicable, the
+      School Authority complies with its communicated use of these transfers.
+
+      All other government transfers, without stipulations for the use of the transfer, are recognized as
+      revenue when the transfer is authorized and the School Authority meets the eligibility criteria (if
+      any).
+
+      Donations and non-Government contributions
+
+      Donations and non-government contributions are received from individuals, corporations, and
+      private sector not-for-profit organizations. Donations and non-government contributions may be
+      unrestricted or externally restricted for operating or capital purposes.
+
+      Unrestricted donations and non-government contributions are recognized as revenue in the year
+      received or in the year the funds are committed to the School Authority if the amount can be
+      reasonably estimated and collection is reasonably assured.
+
+      Externally restricted donations, non-government contributions and realized and unrealized gains
+      and losses for the associated externally restricted investment income are recognized as deferred
+      contributions if the terms for their use, or the terms along with the School Authority’s actions and
+      communications as to the use, create a liability. These resources are recognized as revenue as the
+      terms are met and, when applicable, the School Authority complies with its communicated use.
+
+
+
+                                                      26
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – continued
+
+      Revenue Recognition – continued
+
+      In-kind donations of services and materials are recognized at fair value when such value can
+      reasonably be determined. While volunteers contribute a significant amount of time each year to
+      assist the School Authority, the value of their services are not recognized as revenue and expenses
+      in the financial statements because fair value cannot be reasonably determined.
+
+      Grants and donations for land
+
+      The School Authority records transfers and donations for the purchase of land as a liability when
+      received and as revenue when the School Authority purchases the land. The School Authority
+      records in-kind contributions of land as revenue at the fair value of the land. When the School
+      Authority cannot determine the fair value, it records such in-kind contributions at nominal value.
+
+      Investment income
+
+      Investment income includes dividend and interest income and realized gains or losses on the sale
+      of portfolio investments. Unrealized gains and losses on portfolio investments that are not from
+      restricted transfers, donations or contributions are recognized in the Statement of Accumulated
+      Remeasurement Gains and Losses until the related investments are sold. Once realized, these
+      gains or losses are recognized in the Statement of Operations.
+
+      Expenses
+
+      Expenses are reported on an accrual basis. The cost of all goods consumed and services received
+      during the year is expensed.
+
+      Allocation of Costs
+           Actual salaries of personnel assigned to two or more programs are allocated based on the
+               time spent in each program.
+           Employee benefits and allowances are allocated to the same programs, and in the same
+               proportions, as the individual’s salary.
+           Supplies and services are allocated based on actual program identification.
+
+
+
+
+                                                  27
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – continued
+
+      Program Reporting
+
+      The School Authority’s operations have been segmented as follows:
+
+             ECS Instruction: The provision of ECS education instructional services that fall under the
+              basic public education mandate.
+
+             Grade 1-12 Instruction: The provision of instructional services for Grades 1-12 to Grade
+              12 that fall under the basic public education mandate.
+
+             Operations and Maintenance. The operation and maintenance of all school buildings and
+              maintenance shop facilities.
+
+             Transportation. The provision of regular and special education bus services (to/from
+              school), whether contracted or board operated, including transportation facility expenses.
+
+             System Administration. The provision of board governance and system-based/central
+              office administration.
+
+             External Services. All projects, activities, and services offered outside the public education
+              mandate for Pre-Kindergarten children and students in Kindergarten to grades 12. Services
+              offered beyond the mandate for public education are to be self-supporting, and Alberta
+              Education funding may not be utilized to support these programs.
+
+      The allocation of revenues and expenses are reported by program, source, object and type on the
+      Schedule of Program Operations. Respective instruction expenses include the cost of certificated
+      teachers, non-certificated teaching assistants as well as a proportionate share of supplies &
+      services, school administration & instruction support, and System Instructional Support.
+
+NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – continued
+
+      Measurement Uncertainty
+
+      Measurement uncertainty exists when there is a variance between the recognized or disclosed
+      amount and another reasonably possible amount. The preparation of financial statements for a
+      period involves the use of estimates and approximations, which have been made using careful
+      judgment. Actual results could differ from those estimates. Significant areas requiring the use of
+      management estimates relate to the potential impairment of assets, rates for amortization and
+      estimated employee future benefits, is subject to measurement uncertainty.
+
+      Estimates of liabilities for contaminated sites are subject to measurement uncertainty because the
+      existence and extent of contamination, the responsibility for clean-up, and the timing and cost of
+      remediation cannot be reasonably estimated. The degree of measurement uncertainty cannot be
+      reasonably determined.
+
+      There is measurement uncertainty related to asset retirement obligations as it involves estimates in
+      determining settlement amount, discount rates and timing of settlement. Changes to any of these
+      estimates and assumptions may result in change to the obligation.
+
+      Accounts receivable are stated after evaluation as to their collectability and an appropriate
+      allowance for doubtful accounts is provided where considered necessary. Specifically, management
+      has assessed all receivables as collectable.
+
+
+                                                   28
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+
+NOTE 3 – FUTURE CHANGES IN ACCOUNTING STANDARDS
+
+On September 1, 2026, the School Authority will adopt the following new conceptual framework and
+accounting standard approved by the Public Sector Accounting Board:
+
+               The Conceptual Framework of Financial Reporting in the Public Sector
+
+                The Conceptual Framework is the foundation for public sector financial reporting standard
+                setting. It replaces the conceptual aspects of Section PS 1000 Financial Statement
+                Concepts and Section PS 1100 Financial Statement Objectives. The conceptual framework
+                highlights considerations fundamental for the consistent application of accounting issues in
+                the absence of specific standards.
+
+               PS 1202 Financial Statement Presentation
+                Section PS 1202 sets out general and specific requirements for the presentation of
+                information in general purpose financial statements. The financial statement presentation
+                principles are based on the concepts within the Conceptual Framework.
+
+        Management is currently assessing the impact of the conceptual framework and the standard on
+        the financial statements.
+
+
+NOTE 4 – ACCOUNTS RECEIVABLE
+
+                                                                  2025                                2024
+                                                              Allowance
+                                                                             Net
+                                                Gross         for                             Net Realizable
+                                                                             Realizable
+                                                Amount        Doubtful                        Value
+                                                                             Value
+                                                              Accounts
+ Alberta Education – Grants                     $        -     $       -       $        -        $      397,388
+ Alberta Education – Capital                             -             -                -               890,842
+ Other Alberta School Jurisdictions                  9,074             -            9,074                 9,074
+ Federal Government                                316,041             -          316,041               190,805
+ Other                                           1,284,486             -        1,284,486                51,296
+ Total                                          $1,609,601     $       -       $1,609,601        $    1,539,405
+
+The amount receivable in “Other” represents cost reimbursement arising from a tenant allowance
+associated with a previous third-party lessor. This property has been purchased by, and is now
+subsequently leased from, Alberta Infrastructure. Management is actively pursuing the collection of this
+amount.
+
+NOTE 5 – ACCOUNTS PAYABLE AND ACCRUED LIABILITIES
+
+Accounts payable consists of the following:
+                                                                                       2025               2024
+Federal Government                                                                 $         -        $ 176,042
+Other salaries and benefit costs                                                        30,731            35,686
+Unearned revenue – Instructional and Transportation Fees                               769,127           899,919
+Other trade payables and accrued liabilities                                           665,107         1,336,224
+Total                                                                              $ 1,464,965       $ 2,447,871
+
+
+
+
+                                                     29
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 6 – BENEFIT PLANS
+
+Pension costs included in these statements comprise the cost of employer contributions for current service
+of employees during the year.
+
+Current and past service costs of the Alberta Teachers Retirement Fund are met by contributions by active
+members and the Government of Alberta. Under the terms of the Teachers’ Pension Plan Act, the School
+Authority does not make pension contributions for certificated staff. The Government portion of the current
+service contribution to the Alberta Teachers’ Retirement Fund on behalf of the School Authority is included
+in both revenues and expenses. For the school year ended August 31, 2025, the amount contributed by the
+Government was $641,046 (2024 - $283,334).
+
+The School Authority does not participate in multi-employer pension plans.
+
+
+NOTE 7 – CAPITAL LEASES
+
+Capital leases are funded by the School Authority and are composed of the following:
+
+                                                                                       2025         2024
+RCAP Leasing, due between May 31, 2027 and September 31, 2029,
+for various computer equipment with a net book value of $50,043 (2024         $    61,822     $    78,757
+- $68,781) pledged as collateral
+
+
+NOTE 8 – PREPAID EXPENSES
+
+Prepaid expenses consist of the following:
+                                                                                   2025             2024
+        Lease deposits                                                        $   297,083     $   290,523
+        Other                                                                           -             600
+                                                                              $   297,083     $   291,123
+
+NOTE 9 – NET ASSETS
+
+Detailed information related to accumulated surplus is available on the Schedule of Changes in
+Accumulated Surplus. Accumulated surplus may be summarized as follows:
+
+                                                                                  2025              2024
+        Unrestricted surplus                                                 $   168,120      $   409,238
+        Operating reserves                                                             -                 -
+          Surplus (deficit) from operations                                  $   168,120      $   409,238
+          Investment in capital assets                                           331,265                 -
+          Capital reserves                                                             -                 -
+          Endowments                                                                   -                 -
+          Accumulated remeasurement gains (losses)                                     -                 -
+        Accumulated surplus                                                    $ 499,385      $   409,238
+
+
+
+
+                                                    30
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 9 – NET ASSETS - continued
+
+Accumulated supplies deficit from operations (ASO) include funds of $nil that are raised at school level and
+are not available to spend at board level. The School Authority’s adjusted surplus from operations is
+calculated as follows:
+
+                                                                                   2025                  2024
+        Accumulated surplus from operations                                    $ 499,385           $   409,238
+        Deduct: School generated funds included in accumulated surplus                  -                     -
+        Adjusted accumulated surplus from operations                           $ 499,385           $   409,238
+
+Adjusted accumulated surplus from operations represents funds available for use by the School Authority
+after deducting funds raised at school-level.
+
+NOTE 10 – CONTRACTUAL OBLIGATIONS
+                                                                                     2025                2024
+       Building Projects (1)                                                  $          -           $ 784,988
+       School Buildings and Board Office Lease (2)                               9,104,992          13,477,938
+       Service Providers (3)                                                     4,300,772           3,905,643
+                                                                              $ 13,405,764         $18,168,569
+
+    (1) Building Projects: The School Authority previously had commitments to complete leasehold
+        improvements at one of its schools.
+    (2) School Buildings and : The School Authority has agreements to lease school buildings and office
+        space.
+    (3) Service Providers: As at August 31, 2025, the School Authority had $4,300,772 (2024 - $3,905,643)
+        in commitments relating to service contracts.
+
+    Estimated payment requirements for each of the next five years and thereafter are as follows:
+
+                                          School
+                       Building        Buildings and          Service
+                                                                                   Other                 Total
+                       Projects        Board Office          Providers
+                                           Lease
+ 2025/2026            $           -      $ 1,249,921            $ 1,285,393                    -       $ 2,535,314
+ 2026/2027                        -         1,122,154             1,157,742                    -          2,279,896
+ 2027/2028                        -         1,122,153             1,186,519                    -          2,308,671
+ 2028/2029                        -         1,122,153               335,559                    -          1,457,712
+ 2029/2030                        -         1,122,153               335,559                    -          1,457,712
+ Thereafter                       -         3,366,460                     -                    -          3,366,460
+                      $           -      $ 9,104,992            $ 4,300,772                $   -       $ 13,405,764
+
+
+NOTE 11 – SCHOOL GENERATED FUNDS
+
+There were no School generated funds received or spent during the year.
+
+
+
+
+                                                     31
+ALBERTA CLASSICAL ACADEMY LTD.
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED AUGUST 31, 2025
+
+
+NOTE 12 – RELATED PARTY TRANSACTIONS
+
+Related parties are those entities consolidated or accounted for on the modified equity basis in the
+Government of Alberta Consolidated Financial Statements. Related parties also include key management
+personnel in division, their close family members and companies controlled by key management personnel.
+
+All entities that are consolidated in the accounts of the Government of Alberta are related parties of school
+jurisdictions. These include government departments, health authorities, post-secondary institutions and
+other school jurisdictions in Alberta.
+
+                                                  Balances                              Transactions
+                                          Assets          Liabilities
+                                      (at cost or net   (at fair value)        Revenues                Expenses
+                                        realizable
+                                          value)
+ Government of Alberta
+ (GOA):
+   Education                          $             -    $                -     $            -     $            -
+    Grant Revenue & Expenses                        -                     -         16,399,460                  -
+    ATRF payments made                              -                     -            641,046                  -
+    Other Revenues & Expenses                       -                     -                  -                  -
+   Other       Alberta  school                  9,074                     -                  -            120,691
+ jurisdictions
+ TOTAL 2024/2025                       $        9,074    $                -     $ 17,040,506             $120,691
+ TOTAL     2023/2024                   $   1,297,304     $                -     $ 12,419,572       $      345,362
+
+The School Authority and its employees paid or collected certain taxes and amounts set by regulation or
+local policy. These amounts were incurred in the normal course of business, reflect charges applicable to
+all users and have been excluded from this schedule.
+
+The above transactions were incurred in the normal course of operations and are recorded at exchange
+amount. All transactions between the School Authority and its related parties are recorded at fair value.
+
+NOTE 13 – ECONOMIC DEPENDENCE ON RELATED THIRD PARTY
+
+The School Authority’s primary source of income is from the Alberta Government. The School Authority’s
+ability to continue viable operations is dependent on this funding.
+
+NOTE 14 – BUDGET AMOUNTS
+
+The budget was prepared by the School Authority and approved by the School Authority’s Board on April
+30, 2024. It is presented for information purposes only and has not been audited.
+
+NOTE 15 – FINANCIAL INSTRUMENTS
+
+The Academy, as part of its operations, carries a number of financial instruments. It is management's
+opinion that the Academy is not exposed to significant interest, currency, credit, liquidity or other price risks
+arising from these financial instruments except as otherwise disclosed.
+
+Credit Risk
+A credit concentration exists relating to accounts receivable. Accounts receivable from one third-party in
+connection with the repayment of a tenant allowance represents 80% of the total accounts receivable as at
+August 31, 2025.
+
+
+
+                                                        32
+                                                                                                                                                           School Jurisdiction Code:               395
+      SCHEDULE 9
+                                                                                     UNAUDITED SCHEDULE OF FEES
+                                                                              For the Year Ended August 31, 2025 (in dollars)
+                                                 Please         Actual Fees          Budgeted Fee       (A) Actual Fees       (B) Unspent     (C) Funds Raised          (D) Expenditures   (A) + (B) + (C) - (D)
+                                                provide a        Collected         Revenue 2024/2025       Collected       September 1, 2024*   to Defray Fees              2024/2025      Unspent Balance at
+                                              description, if
+                                                                 2023/2024                                 2024/2025                               2024/2025                                August 31, 2025*
+                                                needed.
+
+
+      Transportation Fees                                             $431,438              $768,300           $618,186                  $0                      $0             $618,186                    $0
+      Basic Instruction Fees
+      Basic instruction supplies                                      $207,495              $352,230           $448,807                  $0                      $0             $448,807                    $0
+      Fees to Enhance Basic Instruction
+      Technology user fees                                                  $0                    $0                 $0                  $0                      $0                   $0                    $0
+      Alternative program fees                                              $0                    $0                 $0                  $0                      $0                   $0                    $0
+      Fees for optional courses                                             $0                    $0                 $0                  $0                      $0                   $0                    $0
+      Activity fees                                                         $0                    $0                 $0                  $0                      $0                   $0                    $0
+      Early childhood services                                         $15,655               $19,200            $20,706                  $0                      $0              $20,706                    $0
+      Other fees to enhance education                                       $0                    $0                 $0                  $0                      $0                   $0                    $0
+      Non-Curricular fees
+      Extracurricular fees                                                  $0                     $0                 $0                 $0                      $0                 $0                  $0
+      Non-curricular travel                                                 $0                     $0                 $0                 $0                      $0                 $0                  $0
+      Lunch supervision and noon hour activity fees                         $0                     $0                 $0                 $0                      $0                 $0                  $0
+      Non-curricular goods and services                                     $0                     $0                 $0                 $0                      $0                 $0                  $0
+      Other fees                                                       $68,566                     $0          $374,325                  $0                      $0           $374,325                  $0
+      TOTAL FEES                                                      $723,154             $1,139,730         $1,462,024                 $0                      $0         $1,462,024                  $0
+                                                                                                                                                                   *Unspent balances cannot be less than $0
+
+                                                                                                                                                                            Actual               Actual
+      Please disclose amounts paid by parents of students that are recorded as "Sales of services and products", "Fundraising", or "Other revenue"
+                                                                                                                                                                             2025                 2024
+      (rather than fee revenue):
+                                                                                                                                                Please provide a
+                                                                                                                                              description, if needed.
+      Cafeteria sales, hot lunch, milk programs                                                                                                                                       $0                    $0
+      Special events, graduation, tickets                                                                                                                                             $0                    $0
+      International and out of province student revenue                                                                                                                               $0                    $0
+      Sales or rentals of other supplies/services (clothing, agendas, yearbooks)                                                                                                      $0                    $0
+      Adult education revenue                                                                                                                                                         $0                    $0
+      Preschool                                                                                                                                                                       $0                    $0
+      Child care & before and after school care                                                                                                                                       $0                    $0
+      Lost item replacement fee                                                                                                                                                       $0                    $0
+                                                                                                                                                                                      $0                    $0
+                                                                                                                                                                                      $0                    $0
+                                                                                                                                                                                      $0                    $0
+                                                                                   TOTAL                                                                                              $0                    $0
+
+
+
+
+#   Classification: Public                                                                              33
+                                                                                          School Jurisdiction Code:         395
+     SCHEDULE 10
+
+                                       UNAUDITED SCHEDULE OF SYSTEM ADMINISTRATION
+                                          For the Year Ended August 31, 2025 (in dollars)
+                                                                         Allocated to System Administration
+                                                                                          2025
+                                                                      Salaries &         Supplies &
+     EXPENSES                                                          Benefits           Services         Other           TOTAL
+      Office of the superintendent                                $         44,922   $           -     $           -   $      44,922
+      Educational administration (excluding superintendent)                    -                 -                 -               -
+      Business administration                                              195,646            15,600               -         211,246
+      Board governance (Board of Trustees)                                     -                 -                 -               -
+      Information technology                                                   -                 -                 -               -
+      Human resources                                                          -                 -                 -               -
+      Central purchasing, communications, marketing                            -                 -                 -               -
+      Payroll                                                                  -                 -                 -               -
+      Administration - insurance                                                                                   -               -
+      Administration - amortization                                                                                -               -
+      Administration - other (admin building, interest)                                                            -               -
+      Other (describe)                                                         -                 -                 -               -
+      Other (describe)                                                         -                 -                 -               -
+      Other (describe)                                                         -                 -                 -             -
+     TOTAL EXPENSES                                               $        240,568   $        15,600   $           -   $     256,168
+      Less: Amortization of unsupported tangible capital assets                                                                   $0
+     TOTAL FUNDED SYSTEM ADMINISTRATION EXPENSES                                                                             256,168
+
+
+     REVENUES                                                                                                              2025
+      System Administration grant from Alberta Education and Childcare                                                       404,606
+      System Administration other funding/revenue from Alberta Education and Childcare (ATRF, secondment revenue,                  -
+      System Administration funding from others                                                                                  -
+     TOTAL SYSTEM ADMINISTRATION REVENUES                                                                                    404,606
+      Transfers (to)/from System Administration reserves                                                                           -
+      Transfers (to) other programs                                                                                                -
+     SUBTOTAL                                                                                                                404,606
+    System Administration expense (over) under spent                                                                        $148,438
+
+
+
+
+#   Classification: Public                                            34
+

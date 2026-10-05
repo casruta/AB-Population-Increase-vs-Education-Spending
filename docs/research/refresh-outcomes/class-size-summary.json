@@ -1,0 +1,39 @@
+{
+  "authority_count": 61,
+  "school_count": 1560,
+  "observation_date": "2025-11-24",
+  "grade_bands": {
+    "G10-12": {
+      "class_records": 25369,
+      "disclosed_records": 23428,
+      "suppressed_under10": 1941,
+      "over30_records": 8208,
+      "over30_percent_of_all_included_records": 32.35444834246521,
+      "unweighted_mean_disclosed_only": 26.468285811849068
+    },
+    "G4-6": {
+      "class_records": 13352,
+      "disclosed_records": 12997,
+      "suppressed_under10": 355,
+      "over30_records": 1237,
+      "over30_percent_of_all_included_records": 9.26452965847813,
+      "unweighted_mean_disclosed_only": 25.041932753712395
+    },
+    "G7-9": {
+      "class_records": 35313,
+      "disclosed_records": 34399,
+      "suppressed_under10": 914,
+      "over30_records": 7642,
+      "over30_percent_of_all_included_records": 21.64075552912525,
+      "unweighted_mean_disclosed_only": 25.926945550742754
+    },
+    "K-3": {
+      "class_records": 14898,
+      "disclosed_records": 14385,
+      "suppressed_under10": 513,
+      "over30_records": 287,
+      "over30_percent_of_all_included_records": 1.926433078265539,
+      "unweighted_mean_disclosed_only": 22.011470281543275
+    }
+  }
+}

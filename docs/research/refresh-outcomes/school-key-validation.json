@@ -1,0 +1,21 @@
+{
+  "class-size": {
+    "records": 88932,
+    "duplicate_identifiers": 0,
+    "school_keys": 1560
+  },
+  "composition-by-school": {
+    "records": 1549,
+    "duplicate_school_keys": 0,
+    "matched_class_school_keys": 1549,
+    "unmatched_companion_keys": 0,
+    "class_school_keys_without_companion": 11
+  },
+  "occurrence-by-school": {
+    "records": 1549,
+    "duplicate_school_keys": 0,
+    "matched_class_school_keys": 1549,
+    "unmatched_companion_keys": 0,
+    "class_school_keys_without_companion": 11
+  }
+}

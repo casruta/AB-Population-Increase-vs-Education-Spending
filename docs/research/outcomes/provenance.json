@@ -1,0 +1,20 @@
+{
+  "source_id": "alberta_education_annual_2024_25",
+  "title": "Alberta Education Annual Report 2024\u20132025",
+  "url": "https://open.alberta.ca/dataset/8b226e68-1227-4aec-87a5-b573f3bfb062/resource/dcf58041-1aef-4f46-9452-b6a58f29d856/download/educ-annual-report-2024-2025.pdf",
+  "local_path": "data/raw/k12/educ-annual-report-2024-2025.pdf",
+  "sha256": "ac9d5ff12fd80811686f64c4350417b352a135d945fb0703f0da5c035423c546",
+  "extraction": "pdftotext -layout, manually reviewed tables and notes",
+  "review_date": "2026-10-05",
+  "freshness": "Archived annual report; latest annual-report update not retrieved. Do not describe values as current 2026 outcomes.",
+  "live_access_checks": [
+    {
+      "url": "https://www.alberta.ca/education-annual-report",
+      "result": "curl CONNECT tunnel failed, response 403"
+    },
+    {
+      "url": "https://open.alberta.ca",
+      "result": "curl CONNECT tunnel failed, response 403"
+    }
+  ]
+}

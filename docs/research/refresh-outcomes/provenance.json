@@ -1,0 +1,321 @@
+{
+  "review_date": "2026-10-05",
+  "source_url_metadata": "discovered-resources.json and original official catalogue JSONs",
+  "artifacts": [
+    {
+      "file": "EVALUATION_DESIGN.md",
+      "bytes": 4254,
+      "sha256": "e4a5c8416ce66e966b0b042100babee1e4033c2154b4b26fb228e136c00ba042"
+    },
+    {
+      "file": "FINDINGS.md",
+      "bytes": 10259,
+      "sha256": "8aa1dd36c43d308b852ac269a7c6c5981783571ae2e9f42c226c9b9615b75afe"
+    },
+    {
+      "file": "MATCHING_AND_GAPS.md",
+      "bytes": 5751,
+      "sha256": "6bf2d30439a108e05dfd88f73eae18b5b2c208489e18b637a60ca57565916da2"
+    },
+    {
+      "file": "accountability-page.html",
+      "bytes": 53819,
+      "sha256": "dffdfebe18352c4d85bad2abaaaed50e957bab902eb0b35eec5a9a710e52411a"
+    },
+    {
+      "file": "all-annual-page.html",
+      "bytes": 206948,
+      "sha256": "db7ef288236274da2b27b77df3bf66a1924db16e04a9ae9b101f1d1872315059"
+    },
+    {
+      "file": "all-assurance-search.json",
+      "bytes": 573986,
+      "sha256": "df844ccd372ff3ab877e118136e5f8f9f307e8c0ca9364cd4ae2fc54e896172b"
+    },
+    {
+      "file": "all-education-annual-search.json",
+      "bytes": 82032,
+      "sha256": "6574c571c8f10eddc6d134c37232bcc43c92f077eefac588154acc19d27d7cb8"
+    },
+    {
+      "file": "analyze_classes.py",
+      "bytes": 2715,
+      "sha256": "99fbf6bb0c1ffcc4969c1713cdde5932bf199822d27e5cf1b2f0953b36e737b9"
+    },
+    {
+      "file": "annual-2024-2025-head.txt",
+      "bytes": 245,
+      "sha256": "a94a27bed41b1d8b4da7daf3967cc1016948b526e73b1e55bb6c3d1bea6f6bb9"
+    },
+    {
+      "file": "annual-2024-2025.txt",
+      "bytes": 855939,
+      "sha256": "f774e96ab94753816aaaa38d001550ba509a6dc4bd12d4b019efa4dbfd0d142b"
+    },
+    {
+      "file": "annual-childcare-fulltext-search.json",
+      "bytes": 21852,
+      "sha256": "87e4e94a2aaade7146f8808e60c89be3011dbd2f70bc09cceff80c150c37eeeb"
+    },
+    {
+      "file": "annual-live-verification.json",
+      "bytes": 424,
+      "sha256": "462611365960a314e41637df47174610c5f8c7ef0934efd68b242f5115ccd070"
+    },
+    {
+      "file": "annual-update-2024-2025.pdf",
+      "bytes": 365982,
+      "sha256": "2f587b1451351141e2c08bca56bd9a6e35cda127658e8f87687e396382bed89f"
+    },
+    {
+      "file": "annual-update-2024-2025.txt",
+      "bytes": 47676,
+      "sha256": "be4371300d7e321983bc67a0fb98bf6425f6a9d6b79e30c617c3d33d2ca07908"
+    },
+    {
+      "file": "annual-update-head.txt",
+      "bytes": 243,
+      "sha256": "9488e0bbda77d4fa281a2bf2fb57e521ac3df79cf250c02aa076fbfbbcda2be4"
+    },
+    {
+      "file": "annual2025-2026-fulltext-search.json",
+      "bytes": 388994,
+      "sha256": "640e3b7d4c50642491794f3699e891da767285a7c13884d2db9bfae9d5b8162d"
+    },
+    {
+      "file": "annual2025-26-fulltext-search.json",
+      "bytes": 93148,
+      "sha256": "3445c54567fc6270816c5bd4bc33f0f464e02585d621dafcf0c93d9edd16cd91"
+    },
+    {
+      "file": "assurance-excerpt-provenance.json",
+      "bytes": 642,
+      "sha256": "01bd29dbf9bdc2f30496ca1213ae47073bc4af1f768feb937dd74e3eff4ee826"
+    },
+    {
+      "file": "assurance-fall2025-excerpt.txt",
+      "bytes": 35173,
+      "sha256": "f186b5ebf909c7ce2a050b70861cd86ee8f7cd5647889b0fea2310e4b397282b"
+    },
+    {
+      "file": "assurance-fnmi-fall2025.pdf",
+      "bytes": 130750,
+      "sha256": "e99be3a52e7e89721994c8a1d8ace14bc8a62fb65feef0f86f10cc23301be1a2"
+    },
+    {
+      "file": "assurance-fnmi-fall2025.txt",
+      "bytes": 5875,
+      "sha256": "5f7679266207c2af1d680e174ed1927d25b85bc9bb6852f00ae4faf9787b551f"
+    },
+    {
+      "file": "assurance-search.json",
+      "bytes": 261430,
+      "sha256": "f9c15f676dcda19f808fa2c264624a21c9fc222a97f75257b8f6c2e5705ac728"
+    },
+    {
+      "file": "business-backgrounder-2026-2029.pdf",
+      "bytes": 219078,
+      "sha256": "24d3b0133b097bdcb2c0dda6ae2a4a164371a26b773b9bd6589261f9c98631cb"
+    },
+    {
+      "file": "business-backgrounder-2026-2029.txt",
+      "bytes": 33358,
+      "sha256": "642ace51f92fdfafea00f0125a7f646df289284564dec3790644055f6b9a2adc"
+    },
+    {
+      "file": "business-plan-2026-2029.pdf",
+      "bytes": 1174099,
+      "sha256": "ca9f38636e38140af1e2fbdd24db9f1d248bc9511ae2ad5a705350a6c587e5a1"
+    },
+    {
+      "file": "business-plan-2026-2029.txt",
+      "bytes": 16117,
+      "sha256": "6eece1786dc768c4ce67287b819fa492a90270268a8cdf8b20a866c19bafdca1"
+    },
+    {
+      "file": "childcare-organization-annual-search.json",
+      "bytes": 21852,
+      "sha256": "87e4e94a2aaade7146f8808e60c89be3011dbd2f70bc09cceff80c150c37eeeb"
+    },
+    {
+      "file": "childcare-search.json",
+      "bytes": 293823,
+      "sha256": "af98cb1b79d1ea1619960013c5c80a04bbb0d801e8b202994746713be1a2bdb8"
+    },
+    {
+      "file": "class-size-2025-2026.xlsx",
+      "bytes": 3478122,
+      "sha256": "40be6316611bb3152d82011d8a86373992165e94bff1037e694954e738e417e4"
+    },
+    {
+      "file": "class-size-search.json",
+      "bytes": 33449,
+      "sha256": "cd7aeb8b3c395d4027833ee2c52f9ddf331b911b2625d880e5993593f6b44042"
+    },
+    {
+      "file": "class-size-summary.json",
+      "bytes": 1207,
+      "sha256": "7998882de84a059f1a9ce9064f71980464d3f31ff5713bb1e5fcd2bdbf45206c"
+    },
+    {
+      "file": "classroom-search.json",
+      "bytes": 113343,
+      "sha256": "766cc52e7daba294abf48d6828fdb2e0957983443153c9bb4f7dce728c05d198"
+    },
+    {
+      "file": "completion-official-statistic.csv",
+      "bytes": 349,
+      "sha256": "c0fa1214fed9ee4f5cfd70e24aa3f465337cbf4aa721a31d4a577cf4f9a1ace4"
+    },
+    {
+      "file": "completion-page.html",
+      "bytes": 54282,
+      "sha256": "75785cd569a5080a227a1b5395904ceca95a306d1459c35f32f1077a11bb9f33"
+    },
+    {
+      "file": "completion-page.txt",
+      "bytes": 12741,
+      "sha256": "5d6f219fb6a6468cb2e88d590be6881f45c24531c8f50d166f471e1ee7886329"
+    },
+    {
+      "file": "completion-search.json",
+      "bytes": 18072,
+      "sha256": "092d8fe3f80378f46a12ffc418485b05816c077ddd457208d6a9536e0c02a4e1"
+    },
+    {
+      "file": "composition-by-school-2025-2026.xlsx",
+      "bytes": 112064,
+      "sha256": "55a9038fd96b5525641cb6c7fdb526c232122642c4b0c4e04bf6cfe4280eefff"
+    },
+    {
+      "file": "composition-by-school-metadata.txt",
+      "bytes": 2851,
+      "sha256": "6ee71c8612596c7bac6cd853fabe9ec9ea2fe77a9086c189d5b018dddf3ca266"
+    },
+    {
+      "file": "discovered-resources.json",
+      "bytes": 236225,
+      "sha256": "77eb4587132f706017cdf83f378a153243404d7835eff924e19b53659513577c"
+    },
+    {
+      "file": "discovery-log.json",
+      "bytes": 1060,
+      "sha256": "d825b2af14c698c806d73f002b8a9fd38aed520864de6bcf59b2271dc6d685ef"
+    },
+    {
+      "file": "education-childcare-search.json",
+      "bytes": 199,
+      "sha256": "1e225f12572963a28cfed30f9d37cc7689dfa5b34d3c45516ca3e061a5b28dab"
+    },
+    {
+      "file": "education-organization-annual-title-search.json",
+      "bytes": 182015,
+      "sha256": "d26f13ece2aacf5bc35c398e198ba3f7d4ac41ffdb5598efed466e72a9b3656b"
+    },
+    {
+      "file": "education-statistics.html",
+      "bytes": 45871,
+      "sha256": "a0939acd0e7e942fa7c2be9c17b12f428c76b3dab1a408500e26702208bb717f"
+    },
+    {
+      "file": "education-title-search.json",
+      "bytes": 82032,
+      "sha256": "6574c571c8f10eddc6d134c37232bcc43c92f077eefac588154acc19d27d7cb8"
+    },
+    {
+      "file": "fiscal-plan-2026.txt",
+      "bytes": 729768,
+      "sha256": "38b1e048c584f8a730ff3cd970c693d6e499ac6eda53af5d1f7b620b5f7182ab"
+    },
+    {
+      "file": "goa-annual-search.json",
+      "bytes": 624190,
+      "sha256": "8682fddfe0163c7ea0a80b7ae79fe0f5005ab0d0ff754e70dee6878685d49ace"
+    },
+    {
+      "file": "live-annual-metadata.json",
+      "bytes": 30371,
+      "sha256": "27c7f802fb3a5302afcfc2f0884c70d0e4b2b73b693422b2748dbadf2b968d20"
+    },
+    {
+      "file": "math-numerator-verification.json",
+      "bytes": 2291,
+      "sha256": "1beb1b5228039c3e2eb6498e65a710a0a9d8c56fb43f1ce36023fbe43eb03903"
+    },
+    {
+      "file": "occurrence-by-school-2025-2026.xlsx",
+      "bytes": 112619,
+      "sha256": "941a3bc0049872b7df8012581e27d19aaf660a97f1a69c60751a45ca830ce148"
+    },
+    {
+      "file": "occurrence-by-school-metadata.txt",
+      "bytes": 2593,
+      "sha256": "93267b3d47e6849066121a4d546b2e3255d2b023c23f4a4095ea3a6e3b168dbd"
+    },
+    {
+      "file": "operational-2026.txt",
+      "bytes": 12409,
+      "sha256": "604165da1162ab0493e007af5b2953dfaff6677c2a929d28624c86e6b32142eb"
+    },
+    {
+      "file": "pat-multiyear-provincial.pdf",
+      "bytes": 385137,
+      "sha256": "340f5d6c9c522fc54957c57e1104f0fddc1aba011feb57dd4e27abea22820d2a"
+    },
+    {
+      "file": "pat-multiyear-provincial.txt",
+      "bytes": 188224,
+      "sha256": "867729720d444fe540b8a41d785fff3fe63cd2c8e1c28b05b3b5344fcf834c2d"
+    },
+    {
+      "file": "pat-page.html",
+      "bytes": 72194,
+      "sha256": "ac4c543950570b73169947c4be07a3099a688b5e5f0e5f1778d86e385879f902"
+    },
+    {
+      "file": "pat-page.txt",
+      "bytes": 10826,
+      "sha256": "bc306485c6d3272d3eccc717928adbcbe03de7e4de56a75771759e1f55a5aef4"
+    },
+    {
+      "file": "pat-search.json",
+      "bytes": 31350,
+      "sha256": "6859dbe7ac3faf1c05b2c5fee022b7e149f7f6b5115ce14a2182ad3f200be951"
+    },
+    {
+      "file": "refresh_official_sources.py",
+      "bytes": 3421,
+      "sha256": "8d026517a774371137495902e9d172d2e8f5a9264772454b2223e34a85a1d9fc"
+    },
+    {
+      "file": "reviewed_summary.json",
+      "bytes": 8513,
+      "sha256": "929352bf0d82327585ae6ce6dcd3ac83116d1f5743eda663d9489e64f0db1026"
+    },
+    {
+      "file": "school-key-validation.json",
+      "bytes": 517,
+      "sha256": "330fcf177467108274fa26dd76075bda153427bef322423f008ae16c57f9216c"
+    },
+    {
+      "file": "school-workforce-search.json",
+      "bytes": 7561,
+      "sha256": "e37672f8c736c1a448a1d9cbbbc1786461ea79c398559209689874d9ab7f0af8"
+    },
+    {
+      "file": "staffing-search.json",
+      "bytes": 199,
+      "sha256": "1e225f12572963a28cfed30f9d37cc7689dfa5b34d3c45516ca3e061a5b28dab"
+    },
+    {
+      "file": "survey-page.html",
+      "bytes": 48130,
+      "sha256": "67460f65952570bcc78925d76a8b1b6c528a687608d67e8356f3345a5ace151b"
+    }
+  ],
+  "removed_large_artifact": "See assurance-excerpt-provenance.json for original11MB official PDF hash/URL, retained page1\u20139 excerpt",
+  "scope": "Files confined to docs/research/refresh-outcomes; original outcomes/README not modified",
+  "verified_https": "curl default CA and platform proxy; --proto=https in reusable script; no verification bypass",
+  "independent_review": "Causal reviewer confirmed math/class calculations and cohort/denominator caveats; latest located wording required",
+  "validation": "AllJSON parse, scripts AST parse; independent raw math counts reproduce52.7/51.7attainment and84.9/85.3participation; classcount7642/35313checked; liveoriginalannualSHA matchesarchive; independent causal review passed withfreshness caveat"
+}

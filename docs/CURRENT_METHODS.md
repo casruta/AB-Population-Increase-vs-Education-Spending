@@ -1,5 +1,16 @@
 # Current report methodology
 
+## October 2026 extension
+
+The README was refreshed on **5 October 2026**. It now leads with a separately reviewed comparison of **79 continuing school authorities**: inflation-adjusted reported expenses excluding amortization per pupil fell **1.3% from 2023–24 to 2024–25**. Both years use matched September headcounts, current-statement comparative expense columns and complete September–August CPI periods. This cohort covers 99.9% of the matched 2024–25 public-system headcount; it is not a full-province total or a fully harmonized measure of delivered classroom resources. Restatements, accounting policies and Valhalla’s fundraising audit qualification limit interpretation. See the [comparative audit review](research/refresh-finance/comparative79_review.md).
+
+A separate reconstruction of all 83 matched 2024–25 statements yields $8.787 billion of expenses excluding amortization and approximately **$11,814 per pupil in 2025 dollars**. These are researcher aggregations of official individual statements. They do not replace a government-issued combined statement or extend the historical 2016–22 trend. Northland’s finalized 2023–24 audit, signed 23 July 2025, was checked after the earlier combined report included draft information.
+
+Current source verification leaves revised funding unchanged at +4.6% real per pupil for 2024–25 to 2025–26. This comparison uses matched annual sector coverage, not a fixed authority cohort: four charters enter the later roster. The later enrolment is preliminary and its source footnote says “as of December 2025”; the source also defines registered-student counts by September 30. Do not infer a fully comparable December census from the footnote alone.
+
+The [source ledger](research/extended-session-log.md) and focused [outcome](research/refresh-outcomes/FINDINGS.md), [migration](research/migration/FINDINGS.md) and [policy review](reviews/extended-policy-review.md) document newer evidence. Migration uses one September 23, 2026 revised vintage, age at start-year July 1 and July–June periods; it is not pupil enrolment. Assessment and class-size populations differ from the financial scope. No linked evidence identifies funding or immigration as a cause of outcome changes. The remaining sections describe the retained September 2026 methodology and inputs.
+
+
 Evidence date: **20 September 2026**. The README separates historical school expenses, recent operating allocations and consolidated education expenses. These are different financial measures and are never joined into one trend.
 
 ## Historical school spending

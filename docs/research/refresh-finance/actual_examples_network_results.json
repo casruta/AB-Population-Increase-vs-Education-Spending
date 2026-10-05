@@ -1,0 +1,67 @@
+[
+  {
+    "id": "actual_example_0",
+    "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/a0adca61-ef7f-4436-9fa9-ab4b9d9345e4/download/ecc-afs-2024-2025-alberta-classical-academy-ltd.pdf",
+    "checked_at_utc": "2026-10-05T02:38:45.276301+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/a0adca61-ef7f-4436-9fa9-ab4b9d9345e4/download/ecc-afs-2024-2025-alberta-classical-academy-ltd.pdf",
+    "content_type": "application/pdf",
+    "last_modified": "Mon, 19 Jan 2026 20:34:43 GMT",
+    "bytes": 418444,
+    "sha256": "165b8e3cb056448f2b4e7ee2ae4c8a9e7cdcf5f4122abadbae43ab785bfebf71",
+    "body_file": "docs/research/refresh-finance/responses/actual_example_0"
+  },
+  {
+    "id": "actual_example_11",
+    "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/c78c6f46-9f8c-4546-8d24-70e8c55d5c04/download/ecc-afs-2024-2025-calgary-school-divison.pdf",
+    "checked_at_utc": "2026-10-05T02:38:45.276999+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/c78c6f46-9f8c-4546-8d24-70e8c55d5c04/download/ecc-afs-2024-2025-calgary-school-divison.pdf",
+    "content_type": "application/pdf",
+    "last_modified": "Tue, 16 Dec 2025 22:17:51 GMT",
+    "bytes": 845529,
+    "sha256": "c56020c8492c32ff79cf748831214fd103d350637922e7e52e5efca9282f1459",
+    "body_file": "docs/research/refresh-finance/responses/actual_example_11"
+  },
+  {
+    "id": "actual_example_21",
+    "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/29782f0d-b016-429a-8ac7-0cb9beee409c/download/ecc-afs-2024-2025-edmonton-school-division.pdf",
+    "checked_at_utc": "2026-10-05T02:38:45.277488+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/29782f0d-b016-429a-8ac7-0cb9beee409c/download/ecc-afs-2024-2025-edmonton-school-division.pdf",
+    "content_type": "application/pdf",
+    "last_modified": "Tue, 16 Dec 2025 22:17:23 GMT",
+    "bytes": 911581,
+    "sha256": "8b432e7670fa1e9c979b025f07e649f3bc61000cd22cc8c15329986b112de0d9",
+    "body_file": "docs/research/refresh-finance/responses/actual_example_21"
+  },
+  {
+    "id": "actual_example_55",
+    "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/337f25ee-c350-4e60-b032-a642f88dddf4/download/ecc-afs-2024-2025-northland-school-division.pdf",
+    "checked_at_utc": "2026-10-05T02:38:45.277898+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/337f25ee-c350-4e60-b032-a642f88dddf4/download/ecc-afs-2024-2025-northland-school-division.pdf",
+    "content_type": "application/pdf",
+    "last_modified": "Thu, 12 Mar 2026 17:58:57 GMT",
+    "bytes": 1022448,
+    "sha256": "e1f3cced3c93388098dec33f4f0c6901b2ee3f63ac5530073e54e2974f93090f",
+    "body_file": "docs/research/refresh-finance/responses/actual_example_55"
+  },
+  {
+    "id": "actual_example_76",
+    "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/8028526c-5543-4e01-9517-f1d8248b345b/download/educ-afs-2024-2025-valhalla-school-foundation.pdf",
+    "checked_at_utc": "2026-10-05T02:38:45.278329+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/8028526c-5543-4e01-9517-f1d8248b345b/download/educ-afs-2024-2025-valhalla-school-foundation.pdf",
+    "content_type": "application/pdf",
+    "last_modified": "Wed, 08 Apr 2026 17:32:40 GMT",
+    "bytes": 510020,
+    "sha256": "ce04aa852282a57b79429cf143720f629b6cba733afb6d913cc15afe286f3721",
+    "body_file": "docs/research/refresh-finance/responses/actual_example_76"
+  }
+]

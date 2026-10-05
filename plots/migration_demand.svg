@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="705.6pt" height="417.6pt" viewBox="0 0 705.6 417.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 417.6 
+L 705.6 417.6 
+L 705.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 63.504 300.672 
+L 677.376 300.672 
+L 677.376 96.048 
+L 63.504 96.048 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="126.743295" y="312.529422" transform="rotate(-0 126.743295 312.529422)">2021–2022</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="248.591647" y="312.529422" transform="rotate(-0 248.591647 312.529422)">2022–2023</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="370.44" y="312.529422" transform="rotate(-0 370.44 312.529422)">2023–2024</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="492.288353" y="312.529422" transform="rotate(-0 492.288353 312.529422)">2024–2025</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #51616f" x="614.136705" y="312.529422" transform="rotate(-0 614.136705 312.529422)">2025–2026</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <path d="M 63.504 300.672 
+L 677.376 300.672 
+" clip-path="url(#pa4c5a2a790)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="60.004" y="304.851141" transform="rotate(-0 60.004 304.851141)">0k</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <path d="M 63.504 243.832 
+L 677.376 243.832 
+" clip-path="url(#pa4c5a2a790)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="60.004" y="248.011141" transform="rotate(-0 60.004 248.011141)">10k</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <path d="M 63.504 186.992 
+L 677.376 186.992 
+" clip-path="url(#pa4c5a2a790)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="60.004" y="191.171141" transform="rotate(-0 60.004 191.171141)">20k</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <path d="M 63.504 130.152 
+L 677.376 130.152 
+" clip-path="url(#pa4c5a2a790)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.16; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #51616f" x="60.004" y="134.331141" transform="rotate(-0 60.004 134.331141)">30k</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 91.407273 300.672 
+L 162.079317 300.672 
+L 162.079317 241.802812 
+L 91.407273 241.802812 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #007f86"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 213.255625 300.672 
+L 283.92767 300.672 
+L 283.92767 204.618084 
+L 213.255625 204.618084 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #007f86"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 335.103978 300.672 
+L 405.776022 300.672 
+L 405.776022 169.88316 
+L 335.103978 169.88316 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #007f86"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 456.95233 300.672 
+L 527.624375 300.672 
+L 527.624375 231.190784 
+L 456.95233 231.190784 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #007f86"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 578.800683 300.672 
+L 649.472727 300.672 
+L 649.472727 241.109364 
+L 578.800683 241.109364 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #007f86"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 91.407273 241.802812 
+L 162.079317 241.802812 
+L 162.079317 235.709564 
+L 91.407273 235.709564 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #70449b"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 213.255625 204.618084 
+L 283.92767 204.618084 
+L 283.92767 167.797132 
+L 213.255625 167.797132 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #70449b"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 335.103978 169.88316 
+L 405.776022 169.88316 
+L 405.776022 133.289568 
+L 335.103978 133.289568 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #70449b"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 456.95233 231.190784 
+L 527.624375 231.190784 
+L 527.624375 214.627608 
+L 456.95233 214.627608 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #70449b"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 578.800683 241.109364 
+L 649.472727 241.109364 
+L 649.472727 223.233184 
+L 578.800683 223.233184 
+z
+" clip-path="url(#pa4c5a2a790)" style="fill: #70449b"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 63.504 300.672 
+L 677.376 300.672 
+" style="fill: none; stroke: #c7d0d7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="126.743295" y="231.730764" transform="rotate(-0 126.743295 231.730764)">11,429</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="248.591647" y="163.818332" transform="rotate(-0 248.591647 163.818332)">23,377</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="370.44" y="129.310768" transform="rotate(-0 370.44 129.310768)">29,448</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="492.288353" y="210.648808" transform="rotate(-0 492.288353 210.648808)">15,138</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #17324d" x="614.136705" y="219.254384" transform="rotate(-0 614.136705 219.254384)">13,624</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_14">
+     <path d="M 72.504 112.646438 
+L 92.504 112.646438 
+L 92.504 105.646438 
+L 72.504 105.646438 
+z
+" style="fill: #007f86"/>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="100.504" y="112.646438" transform="rotate(-0 100.504 112.646438)">Net international migration</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 72.504 127.647219 
+L 92.504 127.647219 
+L 92.504 120.647219 
+L 72.504 120.647219 
+z
+" style="fill: #70449b"/>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="100.504" y="127.647219" transform="rotate(-0 100.504 127.647219)">Net interprovincial migration</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_17">
+   <text style="font-weight: 700; font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="21.168" y="20.88" transform="rotate(-0 21.168 20.88)">Net migration of children remains positive</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="21.168" y="45.936" transform="rotate(-0 21.168 45.936)">Alberta • ages 5–17 at start-year July 1 • demographic estimates, not enrolment</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #51616f" x="21.168" y="344.52" transform="rotate(-0 21.168 344.52)">Net international migration includes permanent-resident admissions, net emigration and NPR changes.</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #51616f" transform="translate(21.168 359.661266)">July–June periods; 2025–26 preliminary. Ages 5–17 exclude younger ECS pupils and students 18+.</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #51616f" transform="translate(21.168 371.664)">These estimates do not replace local enrolment and assessed-needs records.</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #51616f" transform="translate(21.168 388.893266)">Source: Statistics Canada Tables 17-10-0014-01 and 17-10-0015-01.</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #51616f" transform="translate(21.168 400.896)">September 23, 2026 vintage; earlier years use the same revisions.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa4c5a2a790">
+   <rect x="63.504" y="96.048" width="613.872" height="204.624"/>
+  </clipPath>
+ </defs>
+</svg>

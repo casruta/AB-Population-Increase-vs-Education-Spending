@@ -1,0 +1,29 @@
+{
+  "period": "2024-25",
+  "status": "research extraction; not continuous comparable trend",
+  "authority_count": 83,
+  "matched_headcount": 748521,
+  "total_expenses_cad": 9294025811,
+  "amortization_cad": 507171459,
+  "expenses_excluding_amortization_cad": 8786854352,
+  "nominal_expenses_per_student": "11738.95502196999148988471933",
+  "real2025_expenses_per_student": "11814.42463344963491851635692",
+  "cpi_mean": "171.1",
+  "cpi_months": [
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08"
+  ],
+  "qualified_audits": [
+    "Valhalla School Foundation"
+  ]
+}

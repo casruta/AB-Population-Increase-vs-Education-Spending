@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.alberta.ca/student-population-statistics",
+    "status": 403,
+    "headers": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Server": "envoy"
+    },
+    "body_sample": "error code: 1010\n",
+    "retrieved_utc": "2026-10-05T02:48:06.527340+00:00"
+  },
+  {
+    "url": "https://open.alberta.ca/api/3/action/package_show?id=8b226e68-1227-4aec-87a5-b573f3bfb062",
+    "status": 403,
+    "headers": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Server": "envoy"
+    },
+    "body_sample": "error code: 1010\n",
+    "retrieved_utc": "2026-10-05T02:48:06.650832+00:00"
+  }
+]

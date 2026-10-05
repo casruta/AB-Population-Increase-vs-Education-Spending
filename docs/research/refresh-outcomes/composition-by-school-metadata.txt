@@ -1,0 +1,23 @@
+B1: Metadata
+B2: BACKGROUND
+B3: Data sourced from school authority self-reported data collected through Alberta Classroom Insights Portal (ACIP) as of November 24, 2025.
+B4: Data set includes schools in public, separate, and francophone school/regional authorities. Schools identified as alternative programs, outreach/online or special-purpose schools are not included in this analysis.  
+B5: Data set includes classrooms with enrolment provided as between 1 and 60 students, with a valid grade range, and for subjects other than special education. 
+B6: Asterisk (*) - To prevent the identification of individuals, data are suppressed for classrooms with fewer than 10 students and for schools with fewer than 10 reportable classrooms.
+B7: DEFINITIONS
+B8: A classroom is based on the portion of time a group of students is instructed by a teacher. As each teacher with an unique student group counts as a separate classroom, the same student information may be recorded in multiple classrooms. 
+
+Students may be identified in multiple complexity categories simultaneously.
+
+Composition: Number of complexity categories in each classroom. Complexity categories include: English as an Additional Languages (EAL); Mild/Moderate needs; Severe needs; Individualized Program Plan (IPP); First Nations, Métis and Inuit; Gifted; Refugee; Waitlist for Assessment; and Other.   
+     - High: 7 or more
+     - Medium: 4 to 6
+     - Low: 0 to 3   
+
+For the November 2025 data collection, school authorities reported students using categories that included “mild/moderate code” and “severe code.” While special education codes are not required in order to access services for students enrolled in school (meaning that coding is not tied to funding), the data collected may have referenced the Government of Alberta’s Special Education Coding Criteria or used locally developed indicators—such as assessments, teacher observations, or school based team reviews—to determine alignment with the broad categories. The data collection was designed to ensure that the breadth of classroom complexity factors was measured and will include students without the requirement for formal diagnosis, but who may still have a need for substantial instructional supports. 
+ 
+Although some boards continue to use the Coding Criteria to monitor trends in their student populations, students in Alberta do not need to be formally identified with a special education code to receive educational supports.
+
+A1: School Year | B1: Authority Code | C1: Authority | D1: School Code | E1: School Name | F1: Number of Reportable Classrooms | G1: Number of Reportable Classrooms in Each Category
+G2: Low | H2: Medium | I2: High
+A3: 2025–2026 | B3: 0019 | C3: The Red Deer Catholic Separate School Division | D3: 0489 | E3: Mother Teresa | F3: 41 | G3: 11 | H3: 27 | I3: 3

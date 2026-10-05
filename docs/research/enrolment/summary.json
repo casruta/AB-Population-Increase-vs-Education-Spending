@@ -1,0 +1,146 @@
+{
+  "scope": "Public/separate/francophone/charter; ECS included; both Lloydminster excluded",
+  "snapshot_warning": "2024\u201325 published final September headcount versus 2025\u201326 preliminary December 2025 count. Differences are published school-year snapshots, not a migration attribution or same-month experimental comparison.",
+  "totals": [
+    748521,
+    754880
+  ],
+  "roster_sizes": [
+    83,
+    87
+  ],
+  "unmatched": [
+    {
+      "code": "2669",
+      "name": "Agriculture Charter School Society",
+      "category": "Charter",
+      "headcount_2024_25": "",
+      "headcount_2025_26": 127,
+      "change": "",
+      "growth": "",
+      "roster_status": "one-year-only"
+    },
+    {
+      "code": "2671",
+      "name": "Andrew Rural Academy Foundation",
+      "category": "Charter",
+      "headcount_2024_25": "",
+      "headcount_2025_26": 119,
+      "change": "",
+      "growth": "",
+      "roster_status": "one-year-only"
+    },
+    {
+      "code": "2743",
+      "name": "Roots of Resilience Charter School Society",
+      "category": "Charter",
+      "headcount_2024_25": "",
+      "headcount_2025_26": 71,
+      "change": "",
+      "growth": "",
+      "roster_status": "one-year-only"
+    },
+    {
+      "code": "2750",
+      "name": "Alberta Advance Academy",
+      "category": "Charter",
+      "headcount_2024_25": "",
+      "headcount_2025_26": 448,
+      "change": "",
+      "growth": "",
+      "roster_status": "one-year-only"
+    }
+  ],
+  "sources": [
+    {
+      "path": "data/raw/k12/ecc-authority-enrolment-data-2024-2025.xlsx",
+      "sha256": "f28efe98d7837c6336dfdbc1282cbff7fdadf0a3fdad1aa8472a0a8c96e020a3"
+    },
+    {
+      "path": "data/raw/k12/ecc-preliminary-authority-enrolment-data-2025-2026.xlsx",
+      "sha256": "46f41daa0da83b37802ec552c79fa956d2c6d0005e5afcadfd318cca4025c1e8"
+    }
+  ],
+  "large_authority_examples": [
+    {
+      "code": "4077",
+      "name": "The Greater St. Albert Roman Catholic Separate School Division",
+      "category": "Separate",
+      "headcount_2024_25": 5735,
+      "headcount_2025_26": 5938,
+      "change": 203,
+      "growth": 0.03539668700959031,
+      "roster_status": "matched"
+    },
+    {
+      "code": "1175",
+      "name": "The Pembina Hills School Division",
+      "category": "Public",
+      "headcount_2024_25": 5335,
+      "headcount_2025_26": 5507,
+      "change": 172,
+      "growth": 0.032239925023430205,
+      "roster_status": "matched"
+    },
+    {
+      "code": "0110",
+      "name": "The Edmonton Catholic Separate School Division",
+      "category": "Separate",
+      "headcount_2024_25": 50013,
+      "headcount_2025_26": 51029,
+      "change": 1016,
+      "growth": 0.020314718173275015,
+      "roster_status": "matched"
+    },
+    {
+      "code": "3020",
+      "name": "The Edmonton School Division",
+      "category": "Public",
+      "headcount_2024_25": 120918,
+      "headcount_2025_26": 122648,
+      "change": 1730,
+      "growth": 0.014307216460742067,
+      "roster_status": "matched"
+    },
+    {
+      "code": "0046",
+      "name": "The Elk Island Catholic Separate School Division",
+      "category": "Separate",
+      "headcount_2024_25": 9229,
+      "headcount_2025_26": 9356,
+      "change": 127,
+      "growth": 0.013760970852746857,
+      "roster_status": "matched"
+    },
+    {
+      "code": "4010",
+      "name": "The Calgary Roman Catholic Separate School Division",
+      "category": "Separate",
+      "headcount_2024_25": 63410,
+      "headcount_2025_26": 64143,
+      "change": 733,
+      "growth": 0.011559690900488917,
+      "roster_status": "matched"
+    },
+    {
+      "code": "4208",
+      "name": "The Christ the Redeemer Catholic Separate School Division",
+      "category": "Separate",
+      "headcount_2024_25": 10389,
+      "headcount_2025_26": 10508,
+      "change": 119,
+      "growth": 0.011454422947348109,
+      "roster_status": "matched"
+    },
+    {
+      "code": "3260",
+      "name": "The Fort McMurray School Division",
+      "category": "Public",
+      "headcount_2024_25": 8144,
+      "headcount_2025_26": 8234,
+      "change": 90,
+      "growth": 0.011051080550098291,
+      "roster_status": "matched"
+    }
+  ]
+}

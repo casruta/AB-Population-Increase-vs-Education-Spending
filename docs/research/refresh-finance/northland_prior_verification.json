@@ -1,0 +1,20 @@
+{
+  "authority_code": "1280",
+  "school_year": "2023-24",
+  "source_file": "work/northland-prior-audit/northland2023.pdf",
+  "sha256": "712292090bfb8e08cd9fac5c8dba964f22b5064fbd9d8062ad57a91ea95155df",
+  "audit_opinion": "unmodified PSAS opinion; see original reportPDFpages3-4",
+  "audit_signature_date": "2025-07-23",
+  "comparison": "Final2023source currentactual versus2024source priorcomparative",
+  "final_total_expenses_cad": 60147641,
+  "final_amortization_rows24_27_cad": [
+    3453838,
+    1096415,
+    0,
+    3959
+  ],
+  "final_amortization_cad": 4554212,
+  "final_expenses_excluding_amortization_cad": 55593429,
+  "matches_2024_comparative": true,
+  "important_template_difference": "2023Schedule3row28 is accretion and retained in netexpense;2024row28 is purchasedintangiblesamortization with blank2023comparativecell."
+}

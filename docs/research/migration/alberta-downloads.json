@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://open.alberta.ca/api/3/action/package_show?id=8b226e68-1227-4aec-87a5-b573f3bfb062",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.alberta.ca/student-population-statistics",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.alberta.ca/population-statistics",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.alberta.ca/english-as-an-additional-language",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

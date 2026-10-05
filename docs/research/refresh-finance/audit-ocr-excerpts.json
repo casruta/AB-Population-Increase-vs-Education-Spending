@@ -1,0 +1,338 @@
+{
+  "reviewed_authorities": 9,
+  "note": "New Humble OCR opinion year2026 was visually verified against PDF p3 as2025; retain raw OCR as transcription evidence only.",
+  "records": [
+    {
+      "index": 10,
+      "name": "The Calgary Roman Catholic Separate School Division",
+      "pdf_sha256": "4d583c679fbb16e133cca5eeb0f83d942ae1de421665fd9609ac36e506885765",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/2af5d671-d512-47d5-8511-16015fce43ec/download/ecc-afs-2024-2025-calgary-roman-catholic-separate-school-division.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "Opinion\n\nWe have audited the financial statements of Calgary Roman Catholic Separate School Division (the\nDivision), which comprise the statement of financial position as at August 31, 2025, and the\nstatement of operations, statement of cash flows, statement of change in net financial assets (net\n\ndebt), and statement of remeasurement gains and losses for the year then ended, and notes to the\nfinancial statements, including a summary of significant accounting policies.\n\nIn our opinion, the accompanying financial statements present fairly, in all material respects, the"
+            },
+            {
+              "line": 20,
+              "text": "In our opinion, the accompanying financial statements present fairly, in all material respects, the\nfinancial position of the Division as at August 31, 2025, and its results of operations, its\nmeasurement gains and losses, and its cash flows for the year ended in accordance with Canadian\npublic sector accounting standards.\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian generally accepted auditing standards. Our\nresponsibilities under those standards are further described in the Auditor\u2019s Responsibilities for\nthe Audit of the Financial Statements section of our report. We are independent of the Division in"
+            },
+            {
+              "line": 35,
+              "text": "Unaudited Information\n\nWe have not audited, reviewed or otherwise attempted to verify the accuracy or completeness of\nSchedule 9 or Schedule 10 of the Division\u2019s Financial Statements,\n\nResponsibilities of Management and Those Charged with Governance for the Financial\nStatements\n\nManagement is responsible for the preparation and fair presentation of these financial statements\nin accordance with Canadian public sector account standards, and for such internal control as"
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": [
+            {
+              "line": 46,
+              "text": "November 27, 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "name": "The Christ the Redeemer Catholic Separate School Division",
+      "pdf_sha256": "f4692d55a131ff6647014b5ebd1246fbfa0501fe3685f1cf8b14d37a94897277",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/1805848a-2d9e-4da4-9770-b95967b9deff/download/ecc-afs-2024-2025-christ-redeemer-catholic-separate-school-division.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "Opinion\n\nWe have audited the financial statements of The Christ the Redeemer Catholic Separate School Division, which\ncomprise the statement of financial position as at August 31, 2025 and the statements of operations, change in\nnet debt, remeasurement gains and losses, and cash flows for the year then ended, and a summary of significant\naccounting policies and other explanatory information.\n\nIn our opinion, the accompanying financial statements and related schedules present fairly, in all material respects,\nthe financial position of the Division as at August 31, 2025, and the results of its operations and its cash flows for\nthe year then ended in accordance with Canadian public sector accounting standards."
+            },
+            {
+              "line": 18,
+              "text": "In our opinion, the accompanying financial statements and related schedules present fairly, in all material respects,\nthe financial position of the Division as at August 31, 2025, and the results of its operations and its cash flows for\nthe year then ended in accordance with Canadian public sector accounting standards.\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian generally accepted auditing standards. Our responsibilities\nunder those standards are further described in the Auditor's Responsibilities for the Audit of the Financial\nStatements section of our report. We are independent of the Division in accordance with the ethical requirements\nthat are relevant to our audit of the financial statements in Canada, and we have fulfilled our other ethical"
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": [
+            {
+              "line": 29,
+              "text": "November 27, 2025 Chartered Professional Accountants\n\nFort Macleod | Invermere | Lethbridge | Milk River | Taber | Vauxhall 4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "name": "The Connect Charter School Society",
+      "pdf_sha256": "95282562de1461e5e142f258a825b706bf9ef1af931f6ff7c3d3417301ce6939",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/9c645391-dcff-4c17-924f-86e020ef7e17/download/ecc-afs-2024-2025-connect-charter-school-society.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 18,
+              "text": "Opinion\n\nWe have audited the financial statements of Connect Charter School Society (the \u201cSociety\u201d, which comprise the\nstatement of financial position as at August 31, 2025, and the statements of operations, change in financial assets ,\nte-measurement gains and losses, and cash flow for the year then ended, and notes to the financial statements,\nincluding a summary of significant accounting policies and Schedules 1,2,3,5,6, and 8, Schedule 4 excluding the rows\nunder \u201cSquare Meters\u201d, and Schedule 7 excluding the column \"FTE\" (the \u201cfinancial statements\").\n\nIn our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of\nConnect Charter School Society as at August 31, 2025, and its results of operations, its changes in its net debt, and"
+            },
+            {
+              "line": 26,
+              "text": "In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of\nConnect Charter School Society as at August 31, 2025, and its results of operations, its changes in its net debt, and\nits cash flows for the year then ended in accordance with Canadian public sector accounting standards.\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian Generally Accepted Auditing Standards. Our responsibilities\nunder those standards are further described in the Auditor's Responsibilities for the Audit of the Financial Statements\nsection of our report. We are independent of the Society in accordance with the ethical requirements that are relevant\nto our audit of the financial statements in Canada, and we have fulfilled our other ethical responsibilities in accordance"
+            },
+            {
+              "line": 39,
+              "text": "Other Matter\n\nWe have not audited, reviewed or otherwise attempted to verify the accuracy or completeness of the square meter\namounts included in Schedule 4 and the FTE amounts included in Schedule 7. Accordingly, we do not express an\nopinion on the square meter amounts included in Schedule 4 and the FTE amounts included in Schedule 7.\n\nResponsibilities of Management and Those Charged with Governance for the Financial Statements.\n\nManagement is responsible for the preparation and fair presentation of these financial statements in accordance with\nCanadian Public Sector Accounting Standards, and for such internal control as management determines is necessary"
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": [
+            {
+              "line": 52,
+              "text": "November 24, 2025 Chartered Professional Accountants\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "name": "The East Central Francophone Education Region",
+      "pdf_sha256": "4c7261c90deeb6565888b4e7bc14e951640f5026387633a969e4345c81023344",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/39a9ea75-73b1-47f6-9a92-a32b36f3e00a/download/ecc-afs-2024-2025-east-central-francophone-education-region.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "Opinion\n\nWe have audited the accompanying financial statements of The East Central Francophone Education\nRegion, which comprise the statement of financial position as at August 31, 2025, and the statements of\noperations, cash flows, and change in net financial assets, and the supporting schedules for the year then\nended, along with a summary of significant accounting policies and other explanatory information.\n\nIn our opinion, the financial statements present fairly, in all material respects, the financial position of The\nEast Central Francophone Education Region as at August 31, 2025, and its financial performance and its\ncash flows for the year ended in accordance with Canadian Public Sector Accounting Standards."
+            },
+            {
+              "line": 18,
+              "text": "In our opinion, the financial statements present fairly, in all material respects, the financial position of The\nEast Central Francophone Education Region as at August 31, 2025, and its financial performance and its\ncash flows for the year ended in accordance with Canadian Public Sector Accounting Standards.\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian generally accepted auditing standards. Our\nresponsibilities under those standards are further described in the Auditor's Responsibilities for the Audit\nof the Financial Statements section of our report. We are independent of The East Central Francophone\nEducation Region in accordance with the ethical requirements that are relevant to our audit of the financial"
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": [
+            {
+              "line": 48,
+              "text": "November 20, 2025\n\nBergeron&Co."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "name": "The Holy Family Catholic Separate School Division",
+      "pdf_sha256": "e68e0b09e7862d10bd7043ac7dd58bc38113e669727c5dc0785eebc677faffb6",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/44769f4d-4c7c-4066-b19a-849e1397f8b1/download/ecc-afs-2024-2025-holy-family-catholic-separate-school-division.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "Opinion\n\nWe have audited the financial statements of Holy Family Catholic Separate School Division (the \u201cSchool Division\"),\nwhich comprise the statement of financial position as at August 31, 2025, and the statements of operations, cash\nflowsnet financial assets and remeasurement gains and losses for the year then ended, and notes to the financial\nstatements, including a summary of significant accounting policies.\n\nIn our opinion, the accompanying financial statements present faiy, in all material respects, the financial position of\n\u2018the School Division as at August 31, 2025, and the results of its operations, cash flows net financial assets and\nremeasurement gains and losses for the year then ended in accordance with Canadian public sector accounting"
+            },
+            {
+              "line": 12,
+              "text": "In our opinion, the accompanying financial statements present faiy, in all material respects, the financial position of\n\u2018the School Division as at August 31, 2025, and the results of its operations, cash flows net financial assets and\nremeasurement gains and losses for the year then ended in accordance with Canadian public sector accounting\nstandards,\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian generally accepted auditing standards. Our responsibilities\nunder those standards are further described in the Auditor's Responsibilities for the Audit of the Financial Statements\nsection of our report. We are independent of the School Division in accordance with the ethical requirements that"
+            },
+            {
+              "line": 26,
+              "text": "Other Matter\n\nThe supplementary unaudited schedules of fees and system administration are unaudited.\n\nResponsibilities of Management and Those Charged with Governance for the Financial Statements\nManagement is responsible for the preparation and fair presentation of the financial statements in accordance with\nCanadian public sector accounting standards, and for such internal control as management determines is necessary\nto enable the preparation of financial statements that are free from material misstatement, whether due to fraud or\nerror.\n"
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": [
+            {
+              "line": 45,
+              "text": "November 26, 2025 Chartered Professional Accountants\n\nMNP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "name": "The Holy Spirit Roman Catholic Separate School Division",
+      "pdf_sha256": "9867a5cb37babd1b487a88f7929913fac4324ede33bdf51a66ec8b4121c60771",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/97feb912-65d1-4733-9bba-45c7ebdf80a3/download/ecc-afs-2024-2025-holy-spirit-roman-catholic-separate-school-division.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 17,
+              "text": "Opinion\n\nWe have audited the financial statements of The Holy Spirit Roman Catholic Separate School\nDivision (the \u201cDivision\u201d), which comprise:\n\ne The statement of financial position as at August 31, 2025\n\n\u00ab The statement of operations for the year then ended\n\n* The statement of cash flows for the year then ended"
+            },
+            {
+              "line": 39,
+              "text": "In our opinion, the accompanying financial statements present fairly, in all material respects, the\nfinancial position of the Division as at August 31, 2025 and its results of operations, changes in\nnet financial assets, and its cash flows for the year then ended in accordance with Canadian\npublic sector accounting standards.\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian generally accepted auditing standards. Our\nresponsibilities under those standards are further described in the \u201cAuditor\u2019s Responsibilities\nfor the Audit of the Financial Statements\u201d section of our auditor's report."
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": []
+        },
+        {
+          "pdf_page": 5,
+          "excerpts": []
+        },
+        {
+          "pdf_page": 6,
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "opinion\n\nPractitioner\u2019s Independence and Quality Management\n\nWe have complied with the relevant rules of professional conduct/code of ethics applicable to the\npractice of public accounting and related to assurance engagements, issued by various\nprofessional accounting bodies, which are founded on fundamental principles of integrity,\nobjectivity, professional competence and due care, confidentiality and professional behaviour.\n\nThe firm applies Canadian Standard on Quality Management 1, Quality Management for Firms"
+            },
+            {
+              "line": 26,
+              "text": "Opinion\n\nIn our opinion, the subject matter information of the Division for the year ended August 31, 2025\nhas been prepared, in all material respects, in accordance with the applicable criteria.\n\nSpecific Purpose of Subject Matter Information\n\nThe subject matter information has been prepared in accordance with the applicable criteria. As\na result, the subject matter information may not be suitable for another purpose.\n"
+            },
+            {
+              "line": 28,
+              "text": "In our opinion, the subject matter information of the Division for the year ended August 31, 2025\nhas been prepared, in all material respects, in accordance with the applicable criteria.\n\nSpecific Purpose of Subject Matter Information\n\nThe subject matter information has been prepared in accordance with the applicable criteria. As\na result, the subject matter information may not be suitable for another purpose.\n\nKhang \u201c0\na"
+            },
+            {
+              "line": 43,
+              "text": "November 26, 2025\n\n3.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "name": "The Lethbridge School Division",
+      "pdf_sha256": "a65bc46c7f2c5588422a1de8fbb611f1eef1956c84e307d3335fd5c1f95b24f6",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/adb49bee-19e7-40f0-b4ea-27df0490bbab/download/ecc-afs-2024-2025-lethbridge-school-division.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "Opinion\n\nWe have audited the financial statements of Lethbridge Schoo! Division (the \"Division\"), which comprise the\nstatement of financial position as at August 31, 2025, and the statements of operations, accumulated operating\nsurplus, remeasurement gains and losses, changes in net financial assets and cash flows for the year then ended, and\nnotes to the financial statements, including a summary of significant accounting policies.\n\nIn our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of\nthe Division as at August 31, 2025, and the results of its operations, its rerneasurement gains and losses, changes in\nits net financial assets and its cash flows for the year then ended in accordance with Canadian public sector"
+            },
+            {
+              "line": 12,
+              "text": "In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of\nthe Division as at August 31, 2025, and the results of its operations, its rerneasurement gains and losses, changes in\nits net financial assets and its cash flows for the year then ended in accordance with Canadian public sector\naccounting standards\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian generally accepted auditing standards. Our responsibilities\nunder those standards are further described in the Auditor's Responsibilities for the Audit of the Financial Statements\nsection of our report. We are independent of the Division in accordance with the ethical requirements that are"
+            },
+            {
+              "line": 26,
+              "text": "Unaudited Information\n\nWe have not auctited, reviewed or otherwise attempted to verify the accuracy or completeness of the Schedule of\nFees (Schedule 9) and Schedule of System Administration Expenses (Schedule 10) on pages 35 and 36 of the\nDivision's Financial Statements.\n\nOther Matter\n\nThe financial statements of the Lethbridge Schoo! Division for the year ended August 31, 2024 were audited by BDO\nCanada LL? of Lethbridge, Alberta, Canada. BDO Canada LLP expressed an unmodified opinion on those staternents"
+            },
+            {
+              "line": 32,
+              "text": "Other Matter\n\nThe financial statements of the Lethbridge Schoo! Division for the year ended August 31, 2024 were audited by BDO\nCanada LL? of Lethbridge, Alberta, Canada. BDO Canada LLP expressed an unmodified opinion on those staternents\non November 26, 2024.\n\nResponsibilities of Management and Those Charged with Governance for the Financial Statements\n\nManagement is responsible for the preparation and fair presentation of the financial statements in accordance with\nCanadian public sector accounting standards, and for such internal control as management determines is necessary"
+            },
+            {
+              "line": 36,
+              "text": "on November 26, 2024.\n\nResponsibilities of Management and Those Charged with Governance for the Financial Statements\n\nManagement is responsible for the preparation and fair presentation of the financial statements in accordance with\nCanadian public sector accounting standards, and for such internal control as management determines is necessary\nto enable the preparation of financial statements that are free from material misstatement, whether due to fraud or\nerror.\n\nIn preparing the financial statements, management is responsible for assessing the Division's ability to continue as a"
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": [
+            {
+              "line": 50,
+              "text": "November 25, 2025 Chartered Professional Accountants\n\n3425 - 2nd Ave South, Lethbridge, Alberta, Tt) 4V1 MNP\n1.800.661.8097 T: 403.329.1552 F: 403.329.1540 MNP.ca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "name": "New Humble Community School Association",
+      "pdf_sha256": "395a545f2cfb0614b28657a034810d7d03a3937d199301cd0e7967648dd03f0e",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/3424bf1a-90a8-438c-91ae-e1e3a15d618b/download/ecc-afs-2024-2025-new-humble-community-school-association.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 8,
+              "text": "Opinion\n\nWe have audited the financial statements of New Humble Community School Association (the \u201cAssociation\u201d), which\ncomprise the statement of financial position as at August 31, 2025, and the statements of operations, cash flows, change\nin net financial assets, and remeasurement gains and losses for the year then ended, and notes to the financial\nstatements, including a summary of significant accounting policies.\n\nIn our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of the\nAssociation as at August 31, 2026, and the results of its operations, change in net financial assets, and its cash flows for\nthe year then ended in accordance with Canadian public sector accounting standards."
+            },
+            {
+              "line": 15,
+              "text": "In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of the\nAssociation as at August 31, 2026, and the results of its operations, change in net financial assets, and its cash flows for\nthe year then ended in accordance with Canadian public sector accounting standards.\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian generally accepted auditing standards. Our responsibilities under\nthose standards are further described in the Auditors\u2019 Responsibilities for the Audit of the Financial Statements section of\n\u2018our report. We are independent of the Association in accordance with the ethical requirements that are relevant to our\naudit of the financial statements in Canada, and we have fulfilled our ethical responsibilities in accordance with these"
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": [
+            {
+              "line": 39,
+              "text": "November 19, 2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "name": "The St. Thomas Aquinas Roman Catholic Separate School Division",
+      "pdf_sha256": "a5d7a0c2e69d234883f88a1a0307140037bd61cfe2a6aa17aad255155c0c7547",
+      "url": "https://open.alberta.ca/dataset/2f4b0aa9-b327-4bfa-86ba-783583eae157/resource/9ec4fbb9-839a-4a16-a947-7a62ba4a68a0/download/ecc-afs-2024-2025-st-thomas-aquinas-rcss-division.pdf",
+      "ocr_engine": "tesseract; pdftoppm 130dpi; OCR is transcription, PDF is authoritative",
+      "current_opinion": "unmodified",
+      "pages": [
+        {
+          "pdf_page": 3,
+          "excerpts": [
+            {
+              "line": 9,
+              "text": "Opinion\n\nWe have audited the financial statements of St. Thomas Aquinas Roman Catholic Separate School Division (the\n\u201cschool Division\"), which comprise the statement of financial position as at August 31, 2U25, and the statements of\noperations, cash flows, change in net financial assets, remeasurment gains and losses, and the related schedules for\nthe year then ended, and notes to the financial statements, including a summary of significant accounting policies.\n\nIn our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of\nthe School Division as at August 31, 2025, and the results of its operations, its remeasurement gains and losses, net\nfinancial assets and its cash flows for the year then ended in accordance with Canadian public sector accounting"
+            },
+            {
+              "line": 16,
+              "text": "In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of\nthe School Division as at August 31, 2025, and the results of its operations, its remeasurement gains and losses, net\nfinancial assets and its cash flows for the year then ended in accordance with Canadian public sector accounting\nstandards\n\nBasis for Opinion\n\nWe conducted our audit in accordance with Canadian generally accepted auditing standards. Our responsibilities\nunder those standards are further described in the Auditor's Responsibilities for the Audit of the Financial Statements\nsection of our report. We are independent of the School Division in accordance with the ethical requirements that,"
+            }
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "excerpts": [
+            {
+              "line": 45,
+              "text": "November 27, 2025 Chartered Professional Accountants\n\nMNP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

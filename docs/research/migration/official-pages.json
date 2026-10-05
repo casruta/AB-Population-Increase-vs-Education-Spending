@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000801",
+    "path": "docs/research/migration/official-page-0.html",
+    "status": 200,
+    "verified_date": "2026-10-05",
+    "sha256": "10210196f2a30302eb6519ddbf69694c57721abe64a876fd4637b8d8086328fb"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710001401",
+    "path": "docs/research/migration/official-page-1.html",
+    "status": 200,
+    "verified_date": "2026-10-05",
+    "sha256": "7a8d7981f7c7295e8a0310067df7c7191b6976eed8237eed0f52e27164d804a1"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260923/dq260923a-eng.htm",
+    "path": "docs/research/migration/official-page-2.html",
+    "status": 200,
+    "verified_date": "2026-10-05",
+    "sha256": "1d13105d7b480d7bfc3fbc8e62b85606d82236e56b0a14aff07a1844d9f33b3c"
+  }
+]

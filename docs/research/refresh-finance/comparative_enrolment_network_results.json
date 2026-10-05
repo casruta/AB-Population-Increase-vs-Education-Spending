@@ -1,0 +1,13 @@
+{
+  "id": "enrolment2023_live",
+  "url": "https://open.alberta.ca/dataset/ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7/resource/e5874922-9709-4931-a049-b98959507f30/download/educ-authority-enrolment-data-2023-2024.xlsx",
+  "checked_at_utc": "2026-10-05T02:45:21.244613+00:00",
+  "tls_verification": true,
+  "status": 200,
+  "final_url": "https://open.alberta.ca/dataset/ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7/resource/e5874922-9709-4931-a049-b98959507f30/download/educ-authority-enrolment-data-2023-2024.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 23 Apr 2025 14:23:49 GMT",
+  "bytes": 50790,
+  "sha256": "d79762b459c1e486539a4946de4094ac801f5cfb354391136ebf97758c8af963",
+  "body_file": "docs/research/refresh-finance/responses/enrolment2023_live"
+}

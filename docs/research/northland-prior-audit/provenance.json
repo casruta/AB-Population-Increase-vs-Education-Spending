@@ -1,0 +1,13 @@
+{
+  "title": "Northland School Division audited financial statements2023\u201324",
+  "url": "https://open.alberta.ca/dataset/8a671f76-edb0-4ca5-984d-79dd41ffb9f0/resource/d5fa007e-8015-4819-9939-23c2a5e39ce7/download/educ-afs-2023-2024-northland-school-division.pdf",
+  "retrieved_date": "2026-10-05",
+  "audit_signed_date": "2025-07-23",
+  "sha256": "712292090bfb8e08cd9fac5c8dba964f22b5064fbd9d8062ad57a91ea95155df",
+  "audit_opinion_pdf_pages": [
+    3,
+    4
+  ],
+  "financial_basis": "Canadian public sector accounting standards",
+  "scope_warning": "Current2023\u201324 clean auditor opinion; unaudited markers refer to fee and system-administration supplemental schedules, not Schedule3 program operations. This evidence finalizes Northland beyond the8July2025 combined draft compilation."
+}

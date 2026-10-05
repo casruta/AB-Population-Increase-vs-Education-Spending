@@ -1,0 +1,158 @@
+{
+  "checked_date": "2026-10-05",
+  "mode": "archived-only",
+  "publication_snapshot_date": "2026-09-20",
+  "school_funding": [
+    {
+      "school_year": "2024-25",
+      "matched_allocation_cad": 7716613874,
+      "status": "Revised allocation including in-year adjustments",
+      "allocation_publication_date": "2025-09-16",
+      "allocation_reference_vintage": "August2025",
+      "matched_headcount": 748521,
+      "matched_authority_count": 83,
+      "enrolment_sha256": "f28efe98d7837c6336dfdbc1282cbff7fdadf0a3fdad1aa8472a0a8c96e020a3",
+      "enrolment_matches_archived": true,
+      "enrolment_status": "final",
+      "enrolment_count_timing": "September30 school-year headcount",
+      "enrolment_upload_date_proxy": "2026-02-05",
+      "cpi_months": [
+        "2024-09",
+        "2024-10",
+        "2024-11",
+        "2024-12",
+        "2025-01",
+        "2025-02",
+        "2025-03",
+        "2025-04",
+        "2025-05",
+        "2025-06",
+        "2025-07",
+        "2025-08"
+      ],
+      "cpi_mean": "171.1",
+      "nominal_per_student": "10309.14813879637311444835883",
+      "real_2025_per_student": "10375.42553770155143371132315",
+      "excluded_authorities": [
+        {
+          "category": "Public",
+          "name": "Lloydminster Public School Division",
+          "code": "3170",
+          "count": 2942
+        },
+        {
+          "category": "Separate",
+          "name": "Lloydminster Roman Catholic Separate School Division",
+          "code": "4870",
+          "count": 2763
+        }
+      ]
+    },
+    {
+      "school_year": "2025-26",
+      "matched_allocation_cad": 8361644972,
+      "status": "Revised allocation including in-year adjustments",
+      "allocation_publication_date": "2026-05-13",
+      "allocation_reference_vintage": "April2026",
+      "matched_headcount": 754880,
+      "matched_authority_count": 87,
+      "enrolment_sha256": "46f41daa0da83b37802ec552c79fa956d2c6d0005e5afcadfd318cca4025c1e8",
+      "enrolment_matches_archived": true,
+      "enrolment_status": "preliminary",
+      "enrolment_count_timing": "December2025 count (official page footnote); preliminary school-year headcount",
+      "enrolment_upload_date_proxy": "2026-02-05",
+      "cpi_months": [
+        "2025-09",
+        "2025-10",
+        "2025-11",
+        "2025-12",
+        "2026-01",
+        "2026-02",
+        "2026-03",
+        "2026-04",
+        "2026-05",
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ],
+      "cpi_mean": "175.6833333333333333333333333",
+      "nominal_per_student": "11076.78700190758796100042391",
+      "real_2025_per_student": "10857.16377039267610407517122",
+      "excluded_authorities": [
+        {
+          "category": "Public",
+          "name": "Lloydminster Public School Division",
+          "code": "3170",
+          "count": 3073
+        },
+        {
+          "category": "Separate",
+          "name": "Lloydminster Roman Catholic Separate School Division",
+          "code": "4870",
+          "count": 2734
+        }
+      ]
+    },
+    {
+      "school_year": "2026-27",
+      "matched_allocation_cad": 8896073124,
+      "status": "Projected allocation",
+      "allocation_publication_date": "2026-05-13",
+      "allocation_reference_vintage": "April2026",
+      "matched_headcount": null,
+      "real_2025_per_student": null
+    }
+  ],
+  "real_allocation_percent_change_2024_to_2025": "4.643069635463291444255682900",
+  "illustrative_100_dollars_per_student_annual_cad": 75488000,
+  "cpi_latest_reference_month": "2026-08",
+  "cpi_release_date": "2026-09-14",
+  "cpi_changes_from_archived": [],
+  "actuals": {
+    "latest_combined_period_on_official_listing": "2023-24",
+    "combined_publication_date": "2025-07-08",
+    "continuous_comparable_actual_trend_end": "2021-22",
+    "individual_2024_25_statements_available": true,
+    "individual_publication_date": "2025-12-16",
+    "combined_or_summary_2024_25_found": false,
+    "government_combined_2024_25_status": "No government-published combined or summary2024-25 total was located; individual statements are available.",
+    "reconstruction_status": "Accepted standalone83-authority reconstruction within the scope and caveats in rollup-review.md; not a government-issued combined total.",
+    "reconstructed_2024_25_level": {
+      "period": "2024-25",
+      "status": "research extraction; not continuous comparable trend",
+      "authority_count": 83,
+      "matched_headcount": 748521,
+      "total_expenses_cad": 9294025811,
+      "amortization_cad": 507171459,
+      "expenses_excluding_amortization_cad": 8786854352,
+      "nominal_expenses_per_student": "11738.95502196999148988471933",
+      "real2025_expenses_per_student": "11814.42463344963491851635692",
+      "cpi_mean": "171.1",
+      "cpi_months": [
+        "2024-09",
+        "2024-10",
+        "2024-11",
+        "2024-12",
+        "2025-01",
+        "2025-02",
+        "2025-03",
+        "2025-04",
+        "2025-05",
+        "2025-06",
+        "2025-07",
+        "2025-08"
+      ],
+      "qualified_audits": [
+        "Valhalla School Foundation"
+      ]
+    },
+    "individual_source_metadata_modified": "2026-04-21T15:50:48.507824",
+    "individual_latest_resource_update": "2026-04-08T17:43:11.717866",
+    "reconstruction_review": "Full83independent source-column,hash,total,amortization review passed; see rollup-review.md"
+  },
+  "limitations": [
+    "Source availability describes checked official pages/catalog searches; cannot prove no unpublished or unindexed file exists.",
+    "2025-26 denominator remains preliminary;2026-27 has no matched headcount.",
+    "CPI general purchasing power is not school input cost inflation."
+  ]
+}

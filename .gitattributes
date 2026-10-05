@@ -3,3 +3,11 @@ data/raw/** -text
 data/latest/** -text
 reports/*.pdf binary
 archive/original/** -text
+docs/research/** -text
+# Public source extracts preserve CRLF and original PDF/HTML layout whitespace.
+docs/research/**/*.csv whitespace=cr-at-eol
+docs/research/**/*.txt whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab
+docs/research/**/*.html whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab
+docs/research/**/responses/** whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab,cr-at-eol
+# Matplotlib SVG path serialization includes harmless trailing spaces.
+plots/*.svg whitespace=-blank-at-eol

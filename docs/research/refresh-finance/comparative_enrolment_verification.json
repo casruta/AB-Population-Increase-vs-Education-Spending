@@ -1,0 +1,9 @@
+{
+  "year": "2023-24",
+  "matched_authorities": 80,
+  "matched_students": 726625,
+  "all_authority_counts_match_staging": true,
+  "live_xlsx_matches_archived_hash": true,
+  "source_sha256": "d79762b459c1e486539a4946de4094ac801f5cfb354391136ebf97758c8af963",
+  "source_url": "https://open.alberta.ca/dataset/ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7/resource/e5874922-9709-4931-a049-b98959507f30/download/educ-authority-enrolment-data-2023-2024.xlsx"
+}

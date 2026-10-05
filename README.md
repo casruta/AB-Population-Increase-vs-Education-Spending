@@ -1,73 +1,66 @@
-# Alberta education funding per student
+# Alberta schools: reported real expenses fell; newer funding rose
 
-**Evidence updated 20 September 2026. All amounts are Canadian dollars.**
+**For 79 continuing authorities, reported expenses excluding amortization per pupil fell 1.3% after inflation from 2023–24 to 2024–25. Revised allocations per pupil rose 4.6% after inflation from 2024–25 to 2025–26.** Accounting changes limit the spending comparison; allocations are a different measure.
 
-**Recent school funding increased per student, even after rising prices are taken into account.** Earlier actual spending bought less per student. These findings compare funding in 2024–26 and spending in 2016–22 separately.
+## Spending and funding
 
-**Per-student figures show whether funding keeps pace with enrolment.** They divide a funding or spending total by the number of students in the same schools.
+Amounts are Canadian dollars. This report covers schools; [methods and broader education context](docs/CURRENT_METHODS.md) retain post-secondary totals, childcare exclusions and operating/capital boundaries.
 
-[Read the concise report](reports/alberta_education_brief.pdf) · [Download the data](budget_data/education_evidence.csv) · [Methods and sources](docs/CURRENT_METHODS.md)
+![Reported expenses per pupil fell 1.3% for 79 continuing authorities; inflation-adjusted allocations per pupil rose 4.6%; the separate 83-authority 2024–25 level is also shown.](plots/funding_and_actuals.png)
 
-## Recent funding increased
+The comparison uses statement comparatives and matched September headcounts for 79 authorities covering **99.9%** of the 2024–25 pupils in our public system scope. Restatements and Valhalla's qualified fundraising audit mean it measures reported expenses, not a fully harmonized change in classroom resources. [Independent audit review](docs/research/refresh-finance/comparative79_review.md).
 
-**Recent funding grew faster than prices.** Funding allocated per student rose from **$10,309 in 2024–25** to **$11,077 in 2025–26**. That is **7.4% growth in dollars**, or **4.6% after inflation**.
+All 83 matched 2024–25 statements separately yield **$11,814 per pupil in 2025 dollars**. These are researcher aggregations. The older like-for-like 2016–22 decline was 12.4%; accounting and coverage breaks prevent joining the series.
 
-**Funding also grew faster than student numbers.** For the same group of school authorities, funding increased from **$7.717 billion to $8.362 billion**. Student numbers grew by **0.85%**, from 748,521 to 754,880.
+Expenses include all authority revenue sources; allocations are provincial funding. Annual scope includes public, separate, francophone and charter authorities plus Early Childhood Services, excluding Lloydminster. The allocation comparison uses **preliminary 2025–26 enrolment, labelled “as of December 2025”**, versus final September 2024 enrolment, with four new charters. CPI measures general purchasing power, not school input costs.
 
-![School funding per student increased between 2024–25 and 2025–26, both before and after adjusting for inflation.](plots/recent_funding.png)
+## Outcomes are mixed; service capacity needs checking
 
-**These figures show allocated funding, including changes made during the year.** The source calls these changes “in-year adjustments”. Audited spending measures what schools actually spent. The 2025–26 student count is preliminary.
+The [December 2025 official update](https://open.alberta.ca/dataset/8d78df56-9979-457c-9ec2-26e87bd922ed/resource/8130ef49-31fd-473b-affa-9b5fb81f1726/download/ecc-annual-report-update-2024-2025.pdf) extends assessment evidence to 2024–25:
 
-**The funding and student counts cover the same school systems.** Public, separate, francophone and charter authorities are included, along with Early Childhood Services. Both Lloydminster boards are excluded from each side of the calculation.
+| Acceptable-standard attainment | 2023–24 → 2024–25 | Change |
+|---|---|---:|
+| Grade 9 mathematics, enrolled denominator | 52.7% → 51.7% | -1.0 percentage points |
+| Diploma mathematics, exam-writer denominator | 73.5% → 76.0% | +2.5 percentage points |
 
-## Earlier spending lost purchasing power
+Grade 9 mathematics participation rose 84.9% → 85.3%. Regular Mathematics 9 results also weakened among exam writers. Different cohorts and denominators limit comparison; these outcomes predate the 2025–26 allocation increase. [Completion and assessment definitions](docs/research/refresh-outcomes/FINDINGS.md).
 
-**Earlier spending per student barely changed before inflation.** School authorities spent **$11,358 per student in 2016–17** and **$11,356 in 2021–22**.
+A newer classroom snapshot shows **21.6% of included Grade 7–9 class records exceeded 30 pupils** as of 24 November 2025. These selected self-reported public/separate/francophone groups exclude specified programs; pupils repeat across records. This is a capacity signal, not a unique-pupil count or spending effect.
 
-**Rising prices reduced what that spending could buy.** In 2025 dollars, spending fell from **$14,334 to $12,559 per student**, a **12.4% decline**. Total spending rose from $7.402 billion to $7.719 billion while enrolment increased.
+## Immigration and migration change the demand picture
 
-![School spending per student was nearly unchanged before inflation from 2016–17 to 2021–22, but its purchasing power declined.](plots/historical_spending.png)
+![Net international and interprovincial migration of children aged 5–17 remained positive, reaching 13,624 in 2025–26. These demographic counts are not school admissions.](plots/migration_demand.png)
 
-**School expenses cover more than teaching.** This measure includes instruction, transport, facilities and administration. It excludes amortization, the accounting charge for using long-lived assets such as buildings.
+In **July 2025–June 2026**, Alberta gained an estimated **13,624 net migrants aged 5–17**: 10,479 internationally and 3,145 from other provinces. The immigrant component counted 8,374 permanent-resident admissions, including status changes rather than only new arrivals.
 
-**The 2023–24 financial report puts spending at $11,647 per student, or $8.463 billion overall.** It is shown separately because later reports changed their accounting and which authorities they included.
+All-age net non-permanent-resident change was negative, yet it remained **+3,408 for ages 5–17**. An overall population slowdown therefore cannot substitute for school-age forecasts. Age-at-July 1 estimates omit younger ECS pupils and students 18+, and do not measure new enrolment, local settlement or language needs. [Migration evidence and revisions](docs/research/migration/FINDINGS.md).
 
-**Calgary's funding remained below the level needed to preserve purchasing power.** The Calgary Board of Education reports adjusted funding of **$9,622 per student in 2024–25**, versus its inflation-adjusted benchmark of **$11,048**. That **12.9% gap** describes Calgary only.
+**The available datasets do not establish that spending or immigration caused these outcome changes.**
 
-## What the 2026–27 plan provides
-
-**Planned school funding rises 6.4% in 2026–27 for the authorities being compared.** Their allocation is **$8.896 billion**. Including Lloydminster, the published public-school total is **$8.943 billion**.
-
-**Student growth and rising costs will determine what the increase buys.** Their combined effect must not exceed the funding increase to preserve purchasing power per student. These are planned allocations, not completed spending.
-
-## Overall education spending
-
-**Alberta spent $17.197 billion on education in 2024–25.** This total covers schools and post-secondary education. It equals approximately **$3,540 per Alberta resident**.
-
-**Budget 2026 plans $19.388 billion in education spending.** That equals **$3,834 per resident** using the April 1, 2026 population. This is a budget amount, while the 2024–25 figure is actual spending.
-
-**Per-resident spending shows the scale of the whole education system.** It includes spending funded by institutions' own revenue and excludes childcare. School grants are already within this broader measure and must not be added again.
-
-**The 2026–27 operating budget provides $10.755 billion for schools and $7.110 billion for Advanced Education.** These cover ongoing services. The ministry's separate **$2.110 billion childcare component** is excluded from school comparisons.
-
-## What to do next
-
-**Protect what each student's funding can buy.** Adjust annual operating funding for enrolment growth and costs. Cost additional learning supports separately, then track teachers, education assistants and services alongside dollars.
-
-**An extra $100 per student requires about $75.5 million annually** for the 754,880 students in this comparison. Distinguish ongoing funding from temporary additions when planning improvements.
-
-## Sources and reproduction
-
-**The calculations use official funding, enrolment and financial records.** Sources include [Alberta operating allocations](https://www.alberta.ca/system/files/ecc-projected-operational-funding-school-authorities.pdf), [student statistics](https://www.alberta.ca/student-population-statistics) and Statistics Canada. See the [methodology](docs/CURRENT_METHODS.md) and [source manifest](data/latest/source_manifest.json) for definitions and source details.
-
-**Using 2025 dollars makes purchasing power comparable across years.** The adjustment uses the Consumer Price Index, a measure of changing prices, averaged over each September–August school year. Price data extends through August 2026.
-
-**Older supporting tables use a different price reference.** They retain their documented 2012-dollar convention and should not be directly compared with the README's 2025-dollar figures.
-
-```bash
-python -m pip install -r requirements.txt -c constraints.txt
-python generate_all_charts.py
-python -m unittest discover -v
+```mermaid
+flowchart LR
+    M[Migration and cohort change] -. Demand to measure .-> N[Local enrolment and assessed needs]
+    F[Real funding] -. Delivery to verify .-> S[Staffing, space and supports]
+    N -. Capacity to plan .-> S
+    S -. Effect to evaluate .-> O[Learning and completion]
+    C[Pandemic and assessment changes] --> O
 ```
 
-**The README, charts and evidence tables can be rebuilt offline** using the commands above. Use `--output-dir PATH` to save a separate build. The PDF remains the reviewed September 2026 snapshot.
+## Decisions
+
+- **Ministry and authorities:** audit forecast errors and midyear adjustment timing under the existing 30% current-year/70% projected-year enrolment model. Use local registrations, withdrawals, grade cohorts and assessed needs; separately cost staff and space. Planned 2026–27 allocations grow 6.4%, but missing matched enrolment prevents a per-student estimate.
+- **Authorities:** prioritize numeracy and timely language/learning support according to assessed need. Track enrolment-to-assessment waits, delivered support hours, attendance and learning progress. Compare baseline-adjusted progress and delivered supports with comparable schools and prior trends; a full-year review is an initial checkpoint before scaling. Do not treat immigrant status as a learning deficit.
+- **Reviewers:** independently reconcile source definitions and arithmetic, challenge causal claims, revise, and recheck. The [recorded critique loop](docs/reviews/extended-policy-review.md) identifies remaining uncertainty rather than promising a funding payoff.
+
+## How we obtained and checked the evidence
+
+**Verified 5 October 2026:** we enabled narrowly scoped official-domain access, checked live catalogues, downloaded the latest located statements/update/classroom files, and independently validated extraction, coverage, CPI periods and migration identities. Migration uses a consistent **23 September 2026 revised vintage**; mixing it with older population snapshots would give incorrect results. Large downloads stay in caches; bounded extracts, checksums and reproducible scripts preserve the evidence. [Source ledger and resource record](docs/research/extended-session-log.md).
+
+Allocations and August 2026 CPI were unchanged on live recheck. No 2025–26 ministry annual report or assessment release was located in checked official listings. The evidence is latest verified, not a guarantee of completeness. The PDF remains the September snapshot; **this README is the updated report**.
+
+```bash
+source .venv/bin/activate
+export XDG_CACHE_HOME="$PWD/.venv/cache" MPLCONFIGDIR="$PWD/.venv/matplotlib"
+python -m unittest discover -v
+python generate_all_charts.py --output-dir validation-output
+```

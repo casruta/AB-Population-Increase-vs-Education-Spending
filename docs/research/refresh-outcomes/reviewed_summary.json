@@ -1,0 +1,198 @@
+{
+  "review_date": "2026-10-05",
+  "latest_verified_assessment_period": "2024-25",
+  "latest_verified_completion_period": "2023-24",
+  "source": {
+    "title": "Education and Childcare Annual Report Update 2024\u20132025",
+    "url": "https://open.alberta.ca/dataset/8d78df56-9979-457c-9ec2-26e87bd922ed/resource/8130ef49-31fd-473b-affa-9b5fb81f1726/download/ecc-annual-report-update-2024-2025.pdf",
+    "publication_date": "December 2025",
+    "local_pdf": "docs/research/refresh-outcomes/annual-update-2024-2025.pdf",
+    "sha256": "2f587b1451351141e2c08bca56bd9a6e35cda127658e8f87687e396382bed89f",
+    "catalogue_resource_created": "2025-12-17T17:19:20.554731",
+    "catalogue_resource_last_modified": "2025-12-17T17:19:20.429790"
+  },
+  "grade9_math": {
+    "earlier_period": "2023-24",
+    "later_period": "2024-25",
+    "earlier": 52.7,
+    "later": 51.7,
+    "change_pp": -1.0,
+    "participation_earlier": 84.9,
+    "participation_later": 85.3,
+    "denominator": "Enrolment-weighted overall Grade9 Mathematics including Knowledge and Employability; acceptable includes excellence",
+    "printed_pages": "3\u20135, 8, 16\u201317"
+  },
+  "grade9_language_arts": {
+    "earlier_period": "2023-24",
+    "later_period": "2024-25",
+    "earlier": 69.6,
+    "later": 69.7,
+    "change_pp": 0.1,
+    "participation_earlier": 83.3,
+    "participation_later": 85.2,
+    "denominator": "Enrolment-weighted four Grade9 language-arts subjects; acceptable includes excellence",
+    "printed_pages": "3\u20135, 7, 16\u201317"
+  },
+  "diploma_math": {
+    "earlier_period": "2023-24",
+    "later_period": "2024-25",
+    "earlier": 73.5,
+    "later": 76.0,
+    "change_pp": 2.5,
+    "denominator": "Exam-writer-weighted Mathematics30-1 and30-2; acceptable includes excellence",
+    "printed_pages": "10\u201311, 13, 17\u201318"
+  },
+  "diploma_language_arts": {
+    "earlier_period": "2023-24",
+    "later_period": "2024-25",
+    "earlier": 85.1,
+    "later": 85.7,
+    "change_pp": 0.6,
+    "denominator": "Exam-writer-weighted four diploma language-arts courses; acceptable includes excellence",
+    "printed_pages": "10\u201312, 17\u201318"
+  },
+  "completion_5year": {
+    "earlier_period": "2019-20",
+    "later_period": "2023-24",
+    "earlier": 86.2,
+    "later": 87.1,
+    "change_pp": 0.9,
+    "peak_period": "2021-22",
+    "peak": 88.6,
+    "change_from_peak_pp": -1.5,
+    "source_title": "Education Annual Report2024\u20132025",
+    "source_url": "https://open.alberta.ca/dataset/8b226e68-1227-4aec-87a5-b573f3bfb062/resource/dcf58041-1aef-4f46-9452-b6a58f29d856/download/educ-annual-report-2024-2025.pdf",
+    "printed_pages": "22\u201323, 87"
+  },
+  "freshness": "Verified live official catalogue and downloaded December2025 update. Annual catalogue and annual-reports landing list2024-25 annual/update as latest;2025-26 education annual report and2025-26 assessment results not located, so no claim of nonexistence.",
+  "interpretation": "Mixed outcomes: Grade9 mathematics attainment weakened, language arts broadly stable, diploma attainment improved among exam writers; completion remains lagged. Different cohorts, denominators, participation, curriculum and pandemic changes prevent direct generalisation or causal funding/migration inference.",
+  "class_size": {
+    "authority_count": 61,
+    "school_count": 1560,
+    "observation_date": "2025-11-24",
+    "grade_bands": {
+      "G10-12": {
+        "class_records": 25369,
+        "disclosed_records": 23428,
+        "suppressed_under10": 1941,
+        "over30_records": 8208,
+        "over30_percent_of_all_included_records": 32.35444834246521,
+        "unweighted_mean_disclosed_only": 26.468285811849068
+      },
+      "G4-6": {
+        "class_records": 13352,
+        "disclosed_records": 12997,
+        "suppressed_under10": 355,
+        "over30_records": 1237,
+        "over30_percent_of_all_included_records": 9.26452965847813,
+        "unweighted_mean_disclosed_only": 25.041932753712395
+      },
+      "G7-9": {
+        "class_records": 35313,
+        "disclosed_records": 34399,
+        "suppressed_under10": 914,
+        "over30_records": 7642,
+        "over30_percent_of_all_included_records": 21.64075552912525,
+        "unweighted_mean_disclosed_only": 25.926945550742754
+      },
+      "K-3": {
+        "class_records": 14898,
+        "disclosed_records": 14385,
+        "suppressed_under10": 513,
+        "over30_records": 287,
+        "over30_percent_of_all_included_records": 1.926433078265539,
+        "unweighted_mean_disclosed_only": 22.011470281543275
+      }
+    },
+    "url": "https://open.alberta.ca/dataset/e3d5e3e2-fd4c-457c-b39a-e77118e7de7c/resource/41f8b7df-d23e-4e23-b4c2-6f2440d39ef2/download/ecc-alberta-class-size-2025-2026.xlsx",
+    "local_path": "docs/research/refresh-outcomes/class-size-2025-2026.xlsx",
+    "sha256": "40be6316611bb3152d82011d8a86373992165e94bff1037e694954e738e417e4",
+    "headline": "21.6% of included Grades7\u20139 class records exceed30 pupils",
+    "coverage": "Public, separate and francophone authorities; excludes alternative, outreach/online and special-purpose schools, special-education subjects, invalid grades and enrolment outside1\u201360; repeated student membership across instructional groups",
+    "trend": "Current snapshot; no matched historical trend verified"
+  },
+  "service_perceptions": {
+    "principal_attract_retain": {
+      "earlier": 74.5,
+      "later": 70.3,
+      "earlier_period": "2023-24",
+      "later_period": "2024-25",
+      "definition": "Mean agreement across two principal attract/retain survey items; not staffing FTE",
+      "printed_pages": "68\u201369, 81",
+      "ministry_year_to_year_classification": "stable"
+    },
+    "support_access": {
+      "earlier": 73.9,
+      "later": 72.9,
+      "earlier_period": "2023-24",
+      "later_period": "2024-25",
+      "definition": "Simple mean of respondent-group agreement averages across support questions; not pupil-weighted actual access",
+      "printed_pages": "76\u201377, 82",
+      "ministry_year_to_year_classification": "stable"
+    }
+  },
+  "numerator_crosscheck": {
+    "title": "Provincial Achievement Test Multiyear Reports, Province Alberta",
+    "url": "https://www.alberta.ca/system/files/custom_downloaded_images/ed-pat-multiyear-province-report-table.pdf",
+    "local_pdf": "pat-multiyear-provincial.pdf",
+    "sha256": "340f5d6c9c522fc54957c57e1104f0fddc1aba011feb57dd4e27abea22820d2a",
+    "generated": "2025-09-26",
+    "data_current_as_of": "2025-09-15",
+    "pdf_pages": {
+      "regular_math9": 17,
+      "knowledge_employability_math9": 20
+    },
+    "latest_observation": "2024-25",
+    "calculation": "Sum regular and K&E course-entry counts, not proof of unique-student linkage. Enrolled percentages and participation reproduce ministry rounded values. Writer percentage is separately derived, not ministry overall measure.",
+    "counts_and_calculations": {
+      "2023-24": {
+        "regular": {
+          "enrolled": 58577,
+          "writers": 49797,
+          "acceptable": 30859
+        },
+        "knowledge_employability": {
+          "enrolled": 1967,
+          "writers": 1584,
+          "acceptable": 1026
+        },
+        "combined_course_entries": {
+          "enrolled": 60544,
+          "writers": 51381,
+          "acceptable": 31885,
+          "acceptable_percent_enrolled": 52.66417811839324,
+          "participation_percent": 84.86555232558139,
+          "acceptable_percent_writers": 62.05601292306495,
+          "below_acceptable": 19496,
+          "results_unavailable": 9163,
+          "below_acceptable_percent_enrolled": 32.20137420718816,
+          "results_unavailable_percent_enrolled": 15.134447674418604
+        }
+      },
+      "2024-25": {
+        "regular": {
+          "enrolled": 58911,
+          "writers": 50311,
+          "acceptable": 30469
+        },
+        "knowledge_employability": {
+          "enrolled": 1940,
+          "writers": 1582,
+          "acceptable": 964
+        },
+        "combined_course_entries": {
+          "enrolled": 60851,
+          "writers": 51893,
+          "acceptable": 31433,
+          "acceptable_percent_enrolled": 51.65568355491282,
+          "participation_percent": 85.27879574698855,
+          "acceptable_percent_writers": 60.572716936773745,
+          "below_acceptable": 20460,
+          "results_unavailable": 8958,
+          "below_acceptable_percent_enrolled": 33.62311219207572,
+          "results_unavailable_percent_enrolled": 14.721204253011454
+        }
+      }
+    }
+  }
+}

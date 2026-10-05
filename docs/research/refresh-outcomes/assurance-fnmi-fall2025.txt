@@ -1,0 +1,57 @@
+Required Alberta Education and Childcare Assurance Measures - Overall Summary
+Fall 2025
+Province: Alberta (FNMI)
+
+
+                                                                                               Alberta (FNMI)                                          Measure Evaluation
+    Assurance Domain                               Measure
+                                                                                 Current         Prev Year       Prev 3 Year
+                                                                                                                                   Achievement            Improvement                 Overall
+                                                                                 Result           Result           Average
+                            Student Learning Engagement                             n/a             n/a              n/a                n/a                    n/a                      n/a
+
+                            Citizenship                                             n/a             n/a              n/a                n/a                    n/a                      n/a
+
+                            3-year High School Completion                          59.8             58.6             58.4            Very Low               Improved                   Issue
+
+Student Growth and          5-year High School Completion                          69.7             69.4             69.6            Very Low              Maintained                 Concern
+Achievement                 PAT9: Acceptable                                       41.6             41.4             40.4            Very Low               Improved                   Issue
+
+                            PAT9: Excellence                                        6.3             6.1              5.7             Very Low               Improved                   Issue
+
+                            Diploma: Acceptable                                    77.5             76.9             75.9              Low                  Improved                 Acceptable
+
+                            Diploma: Excellence                                    11.9             11.8             11.6              Low                 Maintained                  Issue
+
+Teaching & Leading          Education Quality                                       n/a             n/a              n/a                n/a                    n/a                      n/a
+                            Welcoming, Caring, Respectful and Safe Learning
+                                                                                    n/a             n/a              n/a                n/a                    n/a                      n/a
+Learning Supports           Environments (WCRSLE)
+                            Access to Supports and Services                         n/a             n/a              n/a                n/a                    n/a                      n/a
+
+Governance                  Parental Involvement                                    n/a             n/a              n/a                n/a                    n/a                      n/a
+
+Notes:
+1. Data values have been suppressed where the number of respondents/students is fewer than 6. Suppression is marked with an asterisk (*).
+2. Caution should be used when interpreting high school completion rate results over time, as participation in the 2019/20 to 2021/22 Diploma Exams was impacted by the COVID-19 pandemic. In
+   the absence of Diploma Exams, achievement level of diploma courses were determined solely by school-awarded marks.
+3. Aggregated Grade 9 PAT results are based upon a weighted average of percent meeting standards (Acceptable, Excellence). The weights are the number of students enrolled in each Grade 9
+   course. Courses included: English Language Arts (Grades 9, 9 KAE), Français (9e année), French Language Arts (9e année), Mathematics (Grades 9, 9 KAE), Science (Grades 9, 9 KAE),
+   Social Studies (Grades 9, 9 KAE).
+4. Aggregated Diploma results are a weighted average of percent meeting standards (Acceptable, Excellence) on Diploma Examinations. The weights are the number of students writing the
+   Diploma Exam for each course. Courses included: English Language Arts 30-1, English Language Arts 30-2, French Language Arts 30-1, Français 30-1, Mathematics 30-1, Mathematics 30-2,
+   Chemistry 30, Physics 30, Biology 30, Science 30, Social Studies 30-1, Social Studies 30-2.
+5. Participation in the PATs and Diploma Exams was impacted by the COVID-19 pandemic from 2020/21 to 2021/22. School years 2020/21 and 2021/22 are not included in the rolling 3-year
+   average. Caution should be used when interpreting trends over time.
+6. Participation in the PATs was impacted by wildfires in 2022/23 and 2023/24 and participation in Diploma Exams was impacted by wildfires in 2022/23. Caution should be used when interpreting
+   trends over time for the province and those school authorities affected by these events.
+7. Security breaches occurred over the last few days of the 2021/22 PAT administration window. Students most likely impacted by these security breaches have been excluded from the provincial
+   cohort. All students have been included in school and school authority reporting. Caution should be used when interpreting these results.
+
+
+
+
+Report Generated: Oct 03, 2025                                                                                                                                                    Report Version 1.0
+Locked with Suppression for Fall 2025                                                                                                                                Data Current as of Sep 15, 2025
+                                                                                                2
+

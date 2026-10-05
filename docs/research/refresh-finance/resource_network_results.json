@@ -1,0 +1,41 @@
+[
+  {
+    "id": "enrolment2025_live",
+    "url": "https://open.alberta.ca/dataset/ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7/resource/a8c9817d-b432-4c04-9824-99fa02e98643/download/ecc-preliminary-authority-enrolment-data-2025-2026.xlsx",
+    "checked_at_utc": "2026-10-05T02:36:51.293569+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/dataset/ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7/resource/a8c9817d-b432-4c04-9824-99fa02e98643/download/ecc-preliminary-authority-enrolment-data-2025-2026.xlsx",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "last_modified": "Thu, 05 Feb 2026 23:27:31 GMT",
+    "bytes": 53603,
+    "sha256": "46f41daa0da83b37802ec552c79fa956d2c6d0005e5afcadfd318cca4025c1e8",
+    "body_file": "docs/research/refresh-finance/responses/enrolment2025_live"
+  },
+  {
+    "id": "enrolment2024_live",
+    "url": "https://open.alberta.ca/dataset/ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7/resource/5ef019ed-2cfe-4b6b-ad82-71b441985855/download/ecc-authority-enrolment-data-2024-2025.xlsx",
+    "checked_at_utc": "2026-10-05T02:36:51.294197+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/dataset/ccbcf0fb-615e-44a0-b7ec-681e2ea4e1e7/resource/5ef019ed-2cfe-4b6b-ad82-71b441985855/download/ecc-authority-enrolment-data-2024-2025.xlsx",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "last_modified": "Thu, 05 Feb 2026 23:25:17 GMT",
+    "bytes": 53583,
+    "sha256": "f28efe98d7837c6336dfdbc1282cbff7fdadf0a3fdad1aa8472a0a8c96e020a3",
+    "body_file": "docs/research/refresh-finance/responses/enrolment2024_live"
+  },
+  {
+    "id": "individual2024_metadata",
+    "url": "https://open.alberta.ca/api/3/action/package_show?id=2f4b0aa9-b327-4bfa-86ba-783583eae157",
+    "checked_at_utc": "2026-10-05T02:36:51.294560+00:00",
+    "tls_verification": true,
+    "status": 200,
+    "final_url": "https://open.alberta.ca/api/3/action/package_show?id=2f4b0aa9-b327-4bfa-86ba-783583eae157",
+    "content_type": "application/json;charset=utf-8",
+    "last_modified": null,
+    "bytes": 67069,
+    "sha256": "d5a90215cca0e18c2e61f28d911ab31cd559f1d5840fff773569f9d41c5d57e2",
+    "body_file": "docs/research/refresh-finance/responses/individual2024_metadata"
+  }
+]

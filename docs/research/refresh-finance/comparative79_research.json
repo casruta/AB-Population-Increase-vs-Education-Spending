@@ -1,0 +1,3536 @@
+{
+  "admission_status": "Independently reviewed for narrow reported-expense comparison only; not a stable-basis resource measure, province-wide total or historical-series extension",
+  "common_authority_count": 79,
+  "missing_current_authorities": [
+    {
+      "year": "2023",
+      "authority_code": "0154",
+      "authority_name": "Mother Earth's Children's Charter School Society",
+      "category": "Charter",
+      "learners": "21",
+      "included": "True",
+      "exclusion_reason": "",
+      "source_id": "k12_enrolment_2023",
+      "locator": "'Alberta Authority Enrolment Dat'!R71"
+    }
+  ],
+  "new_current_authorities": [
+    {
+      "authority_code": "0257",
+      "name": "Footprints for Learning",
+      "headcount": 499
+    },
+    {
+      "authority_code": "2485",
+      "name": "Fusion Education Association",
+      "headcount": 92
+    },
+    {
+      "authority_code": "2487",
+      "name": "Gwynne Valley Rural Education Association",
+      "headcount": 104
+    },
+    {
+      "authority_code": "2638",
+      "name": "The WISE Charter Society",
+      "headcount": 186
+    }
+  ],
+  "prior_period_2023_24": {
+    "headcount": 726604,
+    "expenses_excluding_amortization_cad": 8462248583,
+    "cpi_mean": "167.5083333333333333333333333",
+    "real_2025_per_student": "11972.49664603138081212154851"
+  },
+  "current_period_2024_25": {
+    "headcount": 747640,
+    "expenses_excluding_amortization_cad": 8776342720,
+    "cpi_mean": "171.1",
+    "real_2025_per_student": "11814.19631091026941866494628"
+  },
+  "common_cohort_real_change_percent": "-1.322199870263354562809401250",
+  "records": [
+    {
+      "authority_code": "0009",
+      "name": "Foundations for the Future Charter Academy Charter School Society",
+      "current_headcount": 4161,
+      "prior_headcount": 3771,
+      "current_expenses_excluding_amortization_cad": 49976342,
+      "comparative_total_expenses_cad": 47392685,
+      "comparative_amortization_cad": 2321724,
+      "comparative_expenses_excluding_amortization_cad": 45070961,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1886500,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $      25,779    $        266,168    $        1,661,935    $           -      $           -     $           -     $     1,953,882    $    1,886,500"
+        },
+        {
+          "row": 25,
+          "cad": 435224,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       6,483    $         66,939    $          208,791    $           -      $       136,495   $           -     $       418,708    $      435,224"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -      $              -      $           -      $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -      $              -      $           -      $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -      $              -      $           -      $           -     $           -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "25ac7a82c9583c8d20748341a860effcd75db6e663c4cdc3a4bd3c14724c2ee0"
+    },
+    {
+      "authority_code": "0012",
+      "name": "Suzuki Charter School Society",
+      "current_headcount": 420,
+      "prior_headcount": 393,
+      "current_expenses_excluding_amortization_cad": 4627336,
+      "comparative_total_expenses_cad": 4566017,
+      "comparative_amortization_cad": 132077,
+      "comparative_expenses_excluding_amortization_cad": 4433940,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 120468,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $         120,468    $           -     $           -     $           -      $       120,468   $       120,468"
+        },
+        {
+          "row": 25,
+          "cad": 11609,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $            -     $          11,609    $           -     $           -     $           -      $        11,609   $        11,609"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $             -      $           -     $           -     $           -      $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $             -      $           -     $           -     $           -      $           -     $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $             -      $           -     $           -     $           -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "01c3538bfd8d33b56823a42edc7defd522fd6345943fc96768fa5d182142f023"
+    },
+    {
+      "authority_code": "0019",
+      "name": "The Red Deer Catholic Separate School Division",
+      "current_headcount": 10637,
+      "prior_headcount": 10649,
+      "current_expenses_excluding_amortization_cad": 109495394,
+      "comparative_total_expenses_cad": 122309193,
+      "comparative_amortization_cad": 8180485,
+      "comparative_expenses_excluding_amortization_cad": 114128708,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 6751490,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $       861,691    $         6,022,183   $           -    $            -     $           -     $     6,883,874    $     6,751,490"
+        },
+        {
+          "row": 25,
+          "cad": 1410873,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        28,434    $           259,568   $     1,090,954 $          89,463   $           -     $     1,468,419    $     1,410,873"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $           -      $               -     $           -    $            -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 18122,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $           -      $            18,122   $           -    $            -     $           -     $        18,122    $        18,122"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $           -      $               -     $           -    $            -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 15,
+      "source_sha256": "f0961e16a4a12ee52e342d2102deae0faf96da5a60b2d70b56b239168cebc150"
+    },
+    {
+      "authority_code": "0020",
+      "name": "The St. Thomas Aquinas Roman Catholic Separate School Division",
+      "current_headcount": 4908,
+      "prior_headcount": 4750,
+      "current_expenses_excluding_amortization_cad": 56207180,
+      "comparative_total_expenses_cad": 56441418,
+      "comparative_amortization_cad": 2941535,
+      "comparative_expenses_excluding_amortization_cad": 53499883,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2427248,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -      $         2,394,773    $           -    $            -      $           -      $    2,394,773    $    2,427,248"
+        },
+        {
+          "row": 25,
+          "cad": 481441,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        423,083    $            20,852    $           -    $        117,776    $           -      $      561,711    $      481,441"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $               -      $           -    $            -      $           -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 32846,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $            32,846    $           -    $            -      $           -      $       32,846    $       32,846"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -    $            -      $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "a5d7a0c2e69d234883f88a1a0307140037bd61cfe2a6aa17aad255155c0c7547"
+    },
+    {
+      "authority_code": "0021",
+      "name": "The Holy Family Catholic Separate School Division",
+      "current_headcount": 1867,
+      "prior_headcount": 1727,
+      "current_expenses_excluding_amortization_cad": 34609713,
+      "comparative_total_expenses_cad": 33550486,
+      "comparative_amortization_cad": 2415986,
+      "comparative_expenses_excluding_amortization_cad": 31134500,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1820140,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $          -      $            -     $         1,958,400    $           -    $             -     $           -      $    1,958,400    $    1,820,140"
+        },
+        {
+          "row": 25,
+          "cad": 552600,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $          -      $         70,703   $           386,485    $        15,050 $           47,297   $           -      $      519,535    $      552,600"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $          -      $            -     $               -      $           -    $             -     $           -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 43246,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $          -      $            -     $           118,836    $           -    $             -     $           -      $      118,836    $       43,246"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $          -      $            -     $               -      $           -    $             -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "e68e0b09e7862d10bd7043ac7dd58bc38113e669727c5dc0785eebc677faffb6"
+    },
+    {
+      "authority_code": "0045",
+      "name": "The Connect Charter School Society",
+      "current_headcount": 624,
+      "prior_headcount": 624,
+      "current_expenses_excluding_amortization_cad": 8897366,
+      "comparative_total_expenses_cad": 9182553,
+      "comparative_amortization_cad": 425334,
+      "comparative_expenses_excluding_amortization_cad": 8757219,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 317087,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -    $            -     $          362,548    $           -    $            -     $              -   $       362,548   $       317,087"
+        },
+        {
+          "row": 25,
+          "cad": 108247,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -    $            -     $          134,118    $           -    $            -     $              -   $       134,118   $       108,247"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -    $            -     $              -      $           -    $            -     $              -   $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -    $            -     $              -      $           -    $            -     $              -   $           -     $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -    $            -     $              -      $           -    $            -     $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "95282562de1461e5e142f258a825b706bf9ef1af931f6ff7c3d3417301ce6939"
+    },
+    {
+      "authority_code": "0046",
+      "name": "The Elk Island Catholic Separate School Division",
+      "current_headcount": 9229,
+      "prior_headcount": 8810,
+      "current_expenses_excluding_amortization_cad": 82334088,
+      "comparative_total_expenses_cad": 84690645,
+      "comparative_amortization_cad": 5616764,
+      "comparative_expenses_excluding_amortization_cad": 79073881,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4523565,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $        228,297   $         4,357,038    $           -     $           -      $           -      $    4,585,335    $    4,523,565"
+        },
+        {
+          "row": 25,
+          "cad": 999784,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        337,809   $           231,898    $       313,472   $        34,799    $           -      $      917,978    $      999,784"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -      $           -     $           -      $           -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 93415,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $            93,415    $           -     $           -      $           -      $       93,415    $       93,415"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -      $           -     $           -      $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "2f3d5f562600c25a8bb5137a0356e8f1da05a74f9bdb931f1a29ee45ebcee3c6"
+    },
+    {
+      "authority_code": "0047",
+      "name": "The Living Waters Catholic Separate School Division",
+      "current_headcount": 1783,
+      "prior_headcount": 1760,
+      "current_expenses_excluding_amortization_cad": 26029170,
+      "comparative_total_expenses_cad": 30902042,
+      "comparative_amortization_cad": 3199352,
+      "comparative_expenses_excluding_amortization_cad": 27702690,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2899577,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $         2,733,221    $           -     $           -     $           -     $     2,733,221    $    2,899,577"
+        },
+        {
+          "row": 25,
+          "cad": 264325,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        446,079   $               -      $           -     $           -     $           -     $       446,079    $      264,325"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -      $           -     $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 35450,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $         35,450   $               -      $           -     $           -     $           -     $        35,450    $       35,450"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "34acbdab094dde00d770759d2cb69e24b4700e8929f8c617ec0ca4ad309e895d"
+    },
+    {
+      "authority_code": "0048",
+      "name": "The Evergreen Catholic Separate School Division",
+      "current_headcount": 4255,
+      "prior_headcount": 4058,
+      "current_expenses_excluding_amortization_cad": 45981444,
+      "comparative_total_expenses_cad": 46691318,
+      "comparative_amortization_cad": 2969245,
+      "comparative_expenses_excluding_amortization_cad": 43722073,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2857536,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $         18,979    $        2,862,531    $           -    $             -      $           -     $     2,881,510    $    2,857,536"
+        },
+        {
+          "row": 25,
+          "cad": 103453,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $         50,731    $           29,584    $           -    $          36,079    $           -     $       116,394    $      103,453"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -      $              -      $           -    $             -      $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 8256,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -      $            9,036    $           -    $             -      $           -     $         9,036    $        8,256"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -      $              -      $           -    $             -      $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "6aa819fb0a66cd653fbe6d12c3f7b0d1c7f384030c93550d0337a33f02e50d76"
+    },
+    {
+      "authority_code": "0052",
+      "name": "The Clearview School Division",
+      "current_headcount": 2441,
+      "prior_headcount": 2478,
+      "current_expenses_excluding_amortization_cad": 34655409,
+      "comparative_total_expenses_cad": 37188499,
+      "comparative_amortization_cad": 2722450,
+      "comparative_expenses_excluding_amortization_cad": 34466049,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1952061,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $       1,713    $         31,866   $        1,885,977    $        70,544   $        35,213   $           -     $     2,025,313    $    1,952,061"
+        },
+        {
+          "row": 25,
+          "cad": 753682,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       9,246    $        172,052   $           37,614    $       510,382   $        30,974   $           -     $       760,268    $      753,682"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $              -      $           -     $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 16707,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $           16,707    $           -     $           -     $           -     $        16,707    $       16,707"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $              -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 15,
+      "source_sha256": "26946fbd802269b656e2748c0e4b451beb47fe09d2eb588beabff7ff571f34c9"
+    },
+    {
+      "authority_code": "0053",
+      "name": "The Chinook's Edge School Division",
+      "current_headcount": 11236,
+      "prior_headcount": 11088,
+      "current_expenses_excluding_amortization_cad": 140864354,
+      "comparative_total_expenses_cad": 138280214,
+      "comparative_amortization_cad": 6968416,
+      "comparative_expenses_excluding_amortization_cad": 131311798,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 5132127,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $       7,532   $        211,057    $         5,250,314    $         6,929   $           -      $            -     $     5,475,832    $     5,132,127"
+        },
+        {
+          "row": 25,
+          "cad": 1692199,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $      15,952   $        457,473    $           237,816    $     1,006,748   $       187,409    $            -     $     1,905,398    $     1,692,199"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $               -      $           -     $           -      $            -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 144090,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $               -      $           -     $           -      $            -     $           -      $       144,090"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -     $           -      $            -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 15,
+      "source_sha256": "53b3732310d983ae15649a5283c89f313d9d8bb84b4c96034d414de596799475"
+    },
+    {
+      "authority_code": "0054",
+      "name": "The Wolf Creek School Division",
+      "current_headcount": 7816,
+      "prior_headcount": 7722,
+      "current_expenses_excluding_amortization_cad": 94927814,
+      "comparative_total_expenses_cad": 97264781,
+      "comparative_amortization_cad": 5193967,
+      "comparative_expenses_excluding_amortization_cad": 92070814,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4017483,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $         90,791   $         3,924,599    $       206,138 $             -     $              -   $     4,221,528   $    4,017,483"
+        },
+        {
+          "row": 25,
+          "cad": 1037953,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $         91,114   $           155,623    $       557,304 $         102,647   $              -   $       906,688   $    1,037,953"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $               -      $           -    $            -     $              -   $           -     $          -"
+        },
+        {
+          "row": 27,
+          "cad": 138531,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $           138,531    $           -    $            -     $              -   $       138,531   $      138,531"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $               -      $           -    $            -     $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "9bee5790eb477e3291c0aa9e5ac87d262721dbbe445ee910ac0879a112b4b30f"
+    },
+    {
+      "authority_code": "0056",
+      "name": "The Westwind School Division",
+      "current_headcount": 4621,
+      "prior_headcount": 4612,
+      "current_expenses_excluding_amortization_cad": 58762861,
+      "comparative_total_expenses_cad": 62153530,
+      "comparative_amortization_cad": 4256927,
+      "comparative_expenses_excluding_amortization_cad": 57896603,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3505349,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -      $        3,621,675    $           -      $           -     $           -     $     3,621,675    $    3,505,349"
+        },
+        {
+          "row": 25,
+          "cad": 731160,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $         25,919    $          214,464    $       475,889    $        98,291   $           -     $       814,563    $      731,160"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $              -      $           -      $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 20418,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $           20,418    $           -      $           -     $           -     $        20,418    $       20,418"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $              -      $           -      $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "4d090392cc88309baa9463cdc99812a3899c2b94c8e94fc951c32a8d6ba26ae9"
+    },
+    {
+      "authority_code": "0109",
+      "name": "Westmount Charter School Society",
+      "current_headcount": 1316,
+      "prior_headcount": 1306,
+      "current_expenses_excluding_amortization_cad": 16500274,
+      "comparative_total_expenses_cad": 17596889,
+      "comparative_amortization_cad": 321802,
+      "comparative_expenses_excluding_amortization_cad": 17275087,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 240000,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $          240,000   $           -     $           -     $           -     $       240,000    $      240,000"
+        },
+        {
+          "row": 25,
+          "cad": 81802,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $            -     $          136,621   $           -     $           -     $           -     $       136,621    $       81,802"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $              -     $           -     $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $              -     $           -     $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $              -     $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "a763367af4415b59a26676a8c41e7e28740ee5aa095b1cb3d1953d5aeab51f0c"
+    },
+    {
+      "authority_code": "0110",
+      "name": "The Edmonton Catholic Separate School Division",
+      "current_headcount": 50013,
+      "prior_headcount": 47715,
+      "current_expenses_excluding_amortization_cad": 588940173,
+      "comparative_total_expenses_cad": 580693671,
+      "comparative_amortization_cad": 18705560,
+      "comparative_expenses_excluding_amortization_cad": 561988111,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 14821443,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $          -     $        692,027   $        18,098,215    $           -    $            -     $            -     $    18,790,242   $    14,821,443"
+        },
+        {
+          "row": 25,
+          "cad": 3220270,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $          -     $        875,085   $         1,854,363    $        67,405 $         335,741   $         14,435   $     3,147,029   $     3,220,270"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $          -     $            -     $               -      $           -    $            -     $            -     $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 663847,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $          -     $            -     $           691,157    $         7,626 $           4,358   $          2,723   $       705,864   $       663,847"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $          -     $            -     $               -      $           -    $            -     $            -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 16,
+      "source_sha256": "b006321d396ea180df5e5632927e5d06fe4b05442e99c2511003696a98b15bb1"
+    },
+    {
+      "authority_code": "0151",
+      "name": "Calgary Arts Academy Society",
+      "current_headcount": 643,
+      "prior_headcount": 599,
+      "current_expenses_excluding_amortization_cad": 7228913,
+      "comparative_total_expenses_cad": 7134515,
+      "comparative_amortization_cad": 598910,
+      "comparative_expenses_excluding_amortization_cad": 6535605,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 509533,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $          5,780   $          505,254    $           -    $            -     $              -   $       511,034   $       509,533"
+        },
+        {
+          "row": 25,
+          "cad": 89377,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $          9,760   $           62,259    $         1,758 $             -     $              -   $        73,777   $        89,377"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $              -      $           -    $            -     $              -   $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $              -      $           -    $            -     $              -   $           -     $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $              -      $           -    $            -     $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "44ad11ea9360da306a0cb64ebed4bf650bb7c5db9bffa56663d24e400e93f878"
+    },
+    {
+      "authority_code": "0152",
+      "name": "Calgary Girls' School Society",
+      "current_headcount": 516,
+      "prior_headcount": 469,
+      "current_expenses_excluding_amortization_cad": 6936015,
+      "comparative_total_expenses_cad": 6536994,
+      "comparative_amortization_cad": 24623,
+      "comparative_expenses_excluding_amortization_cad": 6512371,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -    $            -    $          95,000   $           -    $            -     $           -     $        95,000    $           -"
+        },
+        {
+          "row": 25,
+          "cad": 24623,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -    $         12,761 $           16,565   $         3,027 $             -     $           -     $        32,353    $        24,623"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -    $            -    $             -     $           -    $            -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -    $            -    $             -     $           -    $            -     $           -     $           -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -    $            -    $             -     $           -    $            -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "37346980b3b97fd803d5d79209e32915234030f991b2af5f15e3cb25642d5f86"
+    },
+    {
+      "authority_code": "0177",
+      "name": "The Peace Wapiti School Division",
+      "current_headcount": 6333,
+      "prior_headcount": 6272,
+      "current_expenses_excluding_amortization_cad": 88103987,
+      "comparative_total_expenses_cad": 93613041,
+      "comparative_amortization_cad": 4846006,
+      "comparative_expenses_excluding_amortization_cad": 88767035,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3168127,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $            -      $         3,825,362    $           -                        $              -   $    3,825,362    $    3,168,127"
+        },
+        {
+          "row": 25,
+          "cad": 1515514,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        368,482    $           230,611    $       986,005    $        28,984   $              -   $    1,614,082    $    1,515,514"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -      $               -      $           -      $           -     $              -   $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 162365,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -      $           162,365    $           -      $           -     $              -   $      162,365    $      162,365"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -      $               -      $           -      $           -     $              -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "d3277659d44650ae975ee529b8f4fca7239f73e3b742389b03c917094ec56dc3"
+    },
+    {
+      "authority_code": "0195",
+      "name": "The Prairie Rose School Division",
+      "current_headcount": 3863,
+      "prior_headcount": 3690,
+      "current_expenses_excluding_amortization_cad": 59640925,
+      "comparative_total_expenses_cad": 60158855,
+      "comparative_amortization_cad": 2591625,
+      "comparative_expenses_excluding_amortization_cad": 57567230,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2103916,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $       1,050   $         24,099    $        2,043,370    $           -    $            -     $           -      $    2,068,519    $     2,103,916"
+        },
+        {
+          "row": 25,
+          "cad": 391161,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       6,488   $        148,922    $          157,410    $       639,091 $          83,974   $        20,235    $    1,056,120    $       391,161"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $              -      $           -    $            -     $           -      $          -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 96548,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $           86,733    $           -    $          8,666   $         1,149    $       96,548    $        96,548"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $              -      $           -    $            -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "fb4b76403a0adf7e9eddba430a0b04d62d561e875e3d65994998b4557955ec4a"
+    },
+    {
+      "authority_code": "0224",
+      "name": "Valhalla School Foundation",
+      "current_headcount": 71,
+      "prior_headcount": 64,
+      "current_expenses_excluding_amortization_cad": 1545472,
+      "comparative_total_expenses_cad": 1766968,
+      "comparative_amortization_cad": 69416,
+      "comparative_expenses_excluding_amortization_cad": 1697552,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 25464,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -                         $         12,864    $        11,216                      $              -   $        24,080   $        25,464"
+        },
+        {
+          "row": 25,
+          "cad": 43952,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -                                             $        27,489    $         8,359   $              -   $        35,848   $        43,952"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $            -                         $           -     $              -   $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $            -      $            -     $           -     $              -   $           -     $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $            -      $            -     $           -     $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "ce04aa852282a57b79429cf143720f629b6cba733afb6d913cc15afe286f3721"
+    },
+    {
+      "authority_code": "0284",
+      "name": "The Southern Francophone Education Region",
+      "current_headcount": 3990,
+      "prior_headcount": 3998,
+      "current_expenses_excluding_amortization_cad": 63426645,
+      "comparative_total_expenses_cad": 65413622,
+      "comparative_amortization_cad": 4619047,
+      "comparative_expenses_excluding_amortization_cad": 60794575,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4302908,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $        133,051    $         5,317,622    $           -    $            -      $              -   $    5,450,673    $    4,302,908"
+        },
+        {
+          "row": 25,
+          "cad": 265780,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $         32,556    $           119,858    $         3,562 $         107,664    $              -   $      263,640    $      265,780"
+        },
+        {
+          "row": 26,
+          "cad": 50359,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $            50,359    $           -    $            -      $              -   $       50,359    $       50,359"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $               -      $           -    $            -      $              -   $          -      $          -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -    $            -      $              -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "f1574e627824cdcc7ca00f8851201977395a8407b7645d5cb67a3228aad4d5a6"
+    },
+    {
+      "authority_code": "0369",
+      "name": "New Humble Community School Association",
+      "current_headcount": 179,
+      "prior_headcount": 128,
+      "current_expenses_excluding_amortization_cad": 2330519,
+      "comparative_total_expenses_cad": 1859361,
+      "comparative_amortization_cad": 33707,
+      "comparative_expenses_excluding_amortization_cad": 1825654,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 11316,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $            -     $          24,054    $           -    $            -     $              -   $        24,054    $        11,316"
+        },
+        {
+          "row": 25,
+          "cad": 22391,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $            -     $          23,869    $           -    $            -     $              -   $        23,869    $        22,391"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $             -      $           -    $            -     $              -   $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $             -      $           -    $            -     $              -   $           -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $             -      $           -    $            -     $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "395a545f2cfb0614b28657a034810d7d03a3937d199301cd0e7967648dd03f0e"
+    },
+    {
+      "authority_code": "0370",
+      "name": "STEM Innovation Academy Society",
+      "current_headcount": 1154,
+      "prior_headcount": 837,
+      "current_expenses_excluding_amortization_cad": 14542317,
+      "comparative_total_expenses_cad": 12451828,
+      "comparative_amortization_cad": 961884,
+      "comparative_expenses_excluding_amortization_cad": 11489944,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 961884,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -    $           -     $          484,319   $           -    $            -     $              -   $      484,319    $       961,884"
+        },
+        {
+          "row": 25,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -    $           -     $          203,086   $           -    $            -     $              -   $      203,086    $           -"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -    $           -     $              -     $           -    $            -     $              -   $          -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -    $           -     $              -     $           -    $            -     $              -   $          -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -    $           -     $              -     $           -    $            -     $              -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "3a128804bddeb581f528f373d60682aa7f32afac870c817032417f2462a3130c"
+    },
+    {
+      "authority_code": "0395",
+      "name": "Alberta Classical Academy Ltd.",
+      "current_headcount": 1284,
+      "prior_headcount": 851,
+      "current_expenses_excluding_amortization_cad": 18960044,
+      "comparative_total_expenses_cad": 13378658,
+      "comparative_amortization_cad": 1145165,
+      "comparative_expenses_excluding_amortization_cad": 12233493,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1145165,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -      $        1,303,781   $           -    $            -     $           -     $     1,303,781    $     1,145,165"
+        },
+        {
+          "row": 25,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $            -      $           34,565   $           -    $            -     $           -     $        34,565    $           -"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $              -     $           -    $            -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $              -     $           -    $            -     $           -     $           -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $              -     $           -    $            -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "165b8e3cb056448f2b4e7ee2ae4c8a9e7cdcf5f4122abadbae43ab785bfebf71"
+    },
+    {
+      "authority_code": "0399",
+      "name": "Holden Rural Academy Society",
+      "current_headcount": 123,
+      "prior_headcount": 91,
+      "current_expenses_excluding_amortization_cad": 2222647,
+      "comparative_total_expenses_cad": 1930904,
+      "comparative_amortization_cad": 42061,
+      "comparative_expenses_excluding_amortization_cad": 1888843,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 25450,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -    $           -     $          42,503                     $             -     $           -     $        42,503    $        25,450"
+        },
+        {
+          "row": 25,
+          "cad": 10802,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -    $           -     $           6,470    $         9,191 $              -     $           -     $        15,661    $        10,802"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -    $           -     $             -      $           -    $             -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 5809,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -    $           -     $           5,809    $           -    $             -     $           -     $         5,809    $         5,809"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -    $           -     $             -      $           -    $             -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "17a7d0ea9bd378d5628ef5a3f900f183a7d8f5a5ea18a4197be41423cb62c173"
+    },
+    {
+      "authority_code": "0400",
+      "name": "STEM Collegiate Canada Society",
+      "current_headcount": 360,
+      "prior_headcount": 257,
+      "current_expenses_excluding_amortization_cad": 6450591,
+      "comparative_total_expenses_cad": 5992312,
+      "comparative_amortization_cad": 1153907,
+      "comparative_expenses_excluding_amortization_cad": 4838405,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1153907,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -    $           -      $        1,185,863   $           -    $            -     $              -   $     1,185,863    $     1,153,907"
+        },
+        {
+          "row": 25,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -    $           -      $           40,811   $           -    $            -     $              -   $        40,811    $           -"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -    $           -      $              -     $           -    $            -     $              -   $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -    $           -      $              -     $           -    $            -     $              -   $           -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -    $           -      $              -     $           -    $            -     $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "665eb98333d37a6ad72407032859cea3828a7b0e35d6b9b8f26f2a4f036273a3"
+    },
+    {
+      "authority_code": "1045",
+      "name": "The Horizon School Division",
+      "current_headcount": 3495,
+      "prior_headcount": 3521,
+      "current_expenses_excluding_amortization_cad": 51423784,
+      "comparative_total_expenses_cad": 52859424,
+      "comparative_amortization_cad": 2727236,
+      "comparative_expenses_excluding_amortization_cad": 50132188,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2188981,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $        139,413   $        2,424,905    $           -     $           -     $           -     $     2,564,318    $     2,188,981"
+        },
+        {
+          "row": 25,
+          "cad": 462843,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        294,570   $          112,379    $           -     $        36,678   $           -     $       443,627    $       462,843"
+        },
+        {
+          "row": 26,
+          "cad": 21150,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $           26,336    $           -     $           -     $           -     $        26,336    $        21,150"
+        },
+        {
+          "row": 27,
+          "cad": 54262,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $           49,078    $           -     $           -     $           -     $        49,078    $        54,262"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $              -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "fa88dac20beda32ef080080f2fa1869b53ac6f327b5b1042a2bb5c77dc3ed7e5"
+    },
+    {
+      "authority_code": "1070",
+      "name": "The Peace River School Division",
+      "current_headcount": 3081,
+      "prior_headcount": 3050,
+      "current_expenses_excluding_amortization_cad": 55152712,
+      "comparative_total_expenses_cad": 57249379,
+      "comparative_amortization_cad": 4245356,
+      "comparative_expenses_excluding_amortization_cad": 53004023,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2896749,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $            -     $        2,751,764    $           -    $            -      $           -     $     2,751,764    $    2,896,749"
+        },
+        {
+          "row": 25,
+          "cad": 1247398,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        194,043   $          145,534    $       939,348 $         120,182    $           -     $     1,399,107    $    1,247,398"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $              -      $           -    $            -      $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 101209,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $           63,859    $        23,221 $           9,676    $           -     $        96,756    $      101,209"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $              -      $           -    $            -      $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "fdc9ae0484e3d1e8af05d2b81b77cba823416f1c97d620d3a12d85c03d03c055"
+    },
+    {
+      "authority_code": "1085",
+      "name": "The Grande Yellowhead School Division",
+      "current_headcount": 4539,
+      "prior_headcount": 4507,
+      "current_expenses_excluding_amortization_cad": 67048897,
+      "comparative_total_expenses_cad": 63489523,
+      "comparative_amortization_cad": 3495427,
+      "comparative_expenses_excluding_amortization_cad": 59994096,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2445349,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $          -      $        222,309   $          2,112,500    $       143,982 $             -     $            -      $    2,478,791    $    2,445,349"
+        },
+        {
+          "row": 25,
+          "cad": 733187,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $          -      $        276,734   $             37,891    $       355,682 $             -     $            -      $      670,306    $      733,187"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $          -      $            -     $                -      $           -    $            -     $            -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 316891,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $          -      $            -     $            316,890    $           -    $            -     $            -      $      316,890    $      316,891"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $          -      $            -     $                -      $           -    $            -     $            -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "f3a2f42b93f0336ba8738c2cf502027a4d63fbb9b4a2d5bd24e4482efd67d6d4"
+    },
+    {
+      "authority_code": "1110",
+      "name": "The Sturgeon School Division",
+      "current_headcount": 5223,
+      "prior_headcount": 5205,
+      "current_expenses_excluding_amortization_cad": 74493196,
+      "comparative_total_expenses_cad": 85236370,
+      "comparative_amortization_cad": 4779603,
+      "comparative_expenses_excluding_amortization_cad": 80456767,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3865139,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $         3,868,639    $           -     $           -     $           -      $    3,868,639    $    3,865,139"
+        },
+        {
+          "row": 25,
+          "cad": 747459,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        651,865   $           112,470    $           -     $       102,627   $           -      $      866,962    $      747,459"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -      $           -     $           -     $           -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 167005,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $           175,740    $           -     $           -     $           -      $      175,740    $      167,005"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -      $           -     $           -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "c341c547e812f176059d9f8db9a8716891dadf5c5bd41ca45f34c9ae0ae8db46"
+    },
+    {
+      "authority_code": "1115",
+      "name": "The Prairie Land School Division",
+      "current_headcount": 3782,
+      "prior_headcount": 3245,
+      "current_expenses_excluding_amortization_cad": 41410892,
+      "comparative_total_expenses_cad": 41577144,
+      "comparative_amortization_cad": 3718724,
+      "comparative_expenses_excluding_amortization_cad": 37858420,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2646806,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "                  (24)       Amortization of supported tangible capital assets         $       5,373    $      123,790   $         2,012,264    $          -     $          -     $              -   $    2,141,427    $    2,646,806"
+        },
+        {
+          "row": 25,
+          "cad": 1033964,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "                  (25)       Amortization of unsupported tangible capital assets       $      14,882    $      342,861   $           171,164    $      537,047   $          -     $              -   $    1,065,954    $    1,033,964"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "                  (26)       Amortization of supported ARO tangible capital assets     $         -      $          -     $               -      $          -     $          -     $              -   $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 37954,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "                  (27)       Amortization of unsupported ARO tangible capital assets   $         -      $          -     $            40,986    $          -     $          -     $              -   $       40,986    $       37,954"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "                  (28)       Amortization of purchased intangibles                     $         -      $          -     $               -      $          -     $          -     $              -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "adf4de9a4aa24308a45df9a39b9de05787d46c22ff7ba8b6611df9149a2a1a07"
+    },
+    {
+      "authority_code": "1135",
+      "name": "The Livingstone Range School Division",
+      "current_headcount": 3747,
+      "prior_headcount": 3785,
+      "current_expenses_excluding_amortization_cad": 53189238,
+      "comparative_total_expenses_cad": 57410943,
+      "comparative_amortization_cad": 4511566,
+      "comparative_expenses_excluding_amortization_cad": 52899377,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3645910,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $         31,462   $        3,762,187    $        25,925   $           -     $           -      $    3,819,574    $    3,645,910"
+        },
+        {
+          "row": 25,
+          "cad": 718598,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $         89,429   $           73,132    $       464,968   $       115,998   $           -      $      743,527    $      718,598"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $              -      $           -     $           -     $           -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 147058,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $          149,490    $           -     $           -     $           -      $      149,490    $      147,058"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $              -      $           -     $           -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "e6f90bf57a0c0118ce6e57625f6a3c21fe9b228b1325b6188e389fc46bb62030"
+    },
+    {
+      "authority_code": "1155",
+      "name": "The Buffalo Trail School Division",
+      "current_headcount": 3749,
+      "prior_headcount": 3665,
+      "current_expenses_excluding_amortization_cad": 56266806,
+      "comparative_total_expenses_cad": 59191329,
+      "comparative_amortization_cad": 3322581,
+      "comparative_expenses_excluding_amortization_cad": 55868748,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3092020,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $            735   $        3,010,030    $         6,651   $           -     $           -     $     3,017,416    $    3,092,020"
+        },
+        {
+          "row": 25,
+          "cad": 194285,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       3,462    $        106,213   $           64,024    $           -     $        18,711   $           -     $       192,410    $      194,285"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $              -      $           -     $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 36276,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $           34,492    $           -     $         1,784   $           -     $        36,276    $       36,276"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $              -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "4ba8638b6d67a237ee4c33747a727937231fa873bc573e8839b9c0fd2bb5be8a"
+    },
+    {
+      "authority_code": "1175",
+      "name": "The Pembina Hills School Division",
+      "current_headcount": 5335,
+      "prior_headcount": 5696,
+      "current_expenses_excluding_amortization_cad": 67110627,
+      "comparative_total_expenses_cad": 69578366,
+      "comparative_amortization_cad": 2819663,
+      "comparative_expenses_excluding_amortization_cad": 66758703,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1745759,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -      $        1,758,240   $           -    $            -     $           -     $     1,758,240    $    1,745,759"
+        },
+        {
+          "row": 25,
+          "cad": 1040482,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        320,473    $           89,973   $       728,510 $         100,911   $           -     $     1,239,867    $    1,040,482"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $              -     $           -    $            -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 33422,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $           33,422   $           -    $            -     $           -     $        33,422    $       33,422"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $              -     $           -    $            -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "78b5ec3132de0f80e245f72730564c64331e11a88172b8a12554a5ecc9966e08"
+    },
+    {
+      "authority_code": "1180",
+      "name": "The Foothills School Division",
+      "current_headcount": 7931,
+      "prior_headcount": 8047,
+      "current_expenses_excluding_amortization_cad": 93655089,
+      "comparative_total_expenses_cad": 102140015,
+      "comparative_amortization_cad": 6763225,
+      "comparative_expenses_excluding_amortization_cad": 95376790,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 5790297,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $         5,558,720    $        40,938 $             -     $              -   $     5,599,658   $     5,790,297"
+        },
+        {
+          "row": 25,
+          "cad": 857041,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $         60,453   $           168,168    $       605,957 $             -     $              -   $       834,578   $       857,041"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -      $           -    $            -     $              -   $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 115887,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $           120,824    $           -    $            -     $              -   $       120,824   $       115,887"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -      $           -    $            -     $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "4858c4df72e1c64c116faeac407185f1ca77cdf62c89159b804992bea8db5313"
+    },
+    {
+      "authority_code": "1190",
+      "name": "The Rocky View School Division",
+      "current_headcount": 29225,
+      "prior_headcount": 28555,
+      "current_expenses_excluding_amortization_cad": 316942337,
+      "comparative_total_expenses_cad": 314170082,
+      "comparative_amortization_cad": 16764693,
+      "comparative_expenses_excluding_amortization_cad": 297405389,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 11638743,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $            -     $        13,469,024   $           -    $            -     $              -   $    13,469,024   $    11,638,743"
+        },
+        {
+          "row": 25,
+          "cad": 5141831,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $      1,138,184   $           291,774   $        71,121 $         409,225   $              -   $     1,910,304   $     5,141,831"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $               -     $           -    $            -     $              -   $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": -15881,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $           442,395   $           -    $            -     $              -   $       442,395   $       (15,881)"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $               -     $           -    $            -     $              -   $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "c82afbe624f0bd5943060a7d27ebc9badeaafdc22c97952fb610aedf069ecb0f"
+    },
+    {
+      "authority_code": "1220",
+      "name": "The High Prairie School Division",
+      "current_headcount": 2917,
+      "prior_headcount": 2880,
+      "current_expenses_excluding_amortization_cad": 47988777,
+      "comparative_total_expenses_cad": 50304028,
+      "comparative_amortization_cad": 2425501,
+      "comparative_expenses_excluding_amortization_cad": 47878527,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1311307,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $            -      $        1,287,006    $           -     $           -      $              -   $    1,287,006    $    1,311,307"
+        },
+        {
+          "row": 25,
+          "cad": 975082,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        162,592    $          134,555    $       696,781   $        51,202    $              -   $    1,045,130    $      975,082"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -      $              -      $           -     $           -      $              -   $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 139112,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $        139,112    $              -      $           -     $           -      $              -   $      139,112    $      139,112"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -      $              -      $           -     $           -      $              -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "5c4b3dc63a73a6fafbfecc2767b7bc3950f74134c7c6651cd2bd653be434fe57"
+    },
+    {
+      "authority_code": "1245",
+      "name": "The Northern Lights School Division",
+      "current_headcount": 5954,
+      "prior_headcount": 6002,
+      "current_expenses_excluding_amortization_cad": 90423199,
+      "comparative_total_expenses_cad": 94713741,
+      "comparative_amortization_cad": 5211883,
+      "comparative_expenses_excluding_amortization_cad": 89501858,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4043335,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $         23,900    $         4,014,158    $           -      $           -      $        18,410    $    4,056,468    $    4,043,335"
+        },
+        {
+          "row": 25,
+          "cad": 1034154,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       2,694    $        655,141    $           227,772    $       167,444    $        81,601    $         1,028    $    1,135,680    $    1,034,154"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -      $               -      $           -      $           -      $           -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 134394,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -      $           125,597    $           -      $         3,377    $           -      $      128,974    $      134,394"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -                                                                                                          $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "2780ad0e23f7f102cfb4fdd623b67a90e2bf81c7d6675b5745fd9435af460cd0"
+    },
+    {
+      "authority_code": "1250",
+      "name": "The Fort Vermilion School Division",
+      "current_headcount": 4124,
+      "prior_headcount": 3995,
+      "current_expenses_excluding_amortization_cad": 58516111,
+      "comparative_total_expenses_cad": 61177019,
+      "comparative_amortization_cad": 3610057,
+      "comparative_expenses_excluding_amortization_cad": 57566962,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2396212,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $        788,434   $         2,422,527    $           -    $            -     $           -     $     3,210,961    $    2,396,212"
+        },
+        {
+          "row": 25,
+          "cad": 1153573,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        210,724   $           414,576    $       637,877 $          37,400   $           -     $     1,300,577    $    1,153,573"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -      $           -    $            -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 60272,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $            52,332    $           -    $          7,940   $           -     $        60,272    $       60,272"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -      $           -    $            -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "d6ce06e863fed54fdb090f50dc32ef278b0e3a6ba38825bda29059decb7810bf"
+    },
+    {
+      "authority_code": "1280",
+      "name": "The Northland School Division",
+      "current_headcount": 1545,
+      "prior_headcount": 1649,
+      "current_expenses_excluding_amortization_cad": 60789206,
+      "comparative_total_expenses_cad": 60147641,
+      "comparative_amortization_cad": 4554212,
+      "comparative_expenses_excluding_amortization_cad": 55593429,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3453838,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $        108,876   $         3,456,839    $           -    $            727   $        211,804    $    3,778,246    $    3,453,838"
+        },
+        {
+          "row": 25,
+          "cad": 1096415,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        275,454   $           582,571    $       366,494 $          12,455   $        123,027    $    1,360,001    $    1,096,415"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $               -      $           -    $            -     $            -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 3959,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            261   $             3,571    $           -    $            -     $            128    $        3,960    $        3,959"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $               -      $           -    $            -     $            -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "e1f3cced3c93388098dec33f4f0c6901b2ee3f63ac5530073e54e2974f93090f"
+    },
+    {
+      "authority_code": "1325",
+      "name": "The Wild Rose School Division",
+      "current_headcount": 4577,
+      "prior_headcount": 4600,
+      "current_expenses_excluding_amortization_cad": 64120566,
+      "comparative_total_expenses_cad": 66274909,
+      "comparative_amortization_cad": 4160568,
+      "comparative_expenses_excluding_amortization_cad": 62114341,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3964862,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $         12,580   $         3,944,300   $           -    $            -     $           -     $     3,956,880    $    3,964,862"
+        },
+        {
+          "row": 25,
+          "cad": 166077,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        350,335   $            34,619   $           -    $         14,926   $           -     $       399,880    $      166,077"
+        },
+        {
+          "row": 26,
+          "cad": 29629,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $            29,629   $           -    $            -     $           -     $        29,629    $       29,629"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $               -     $           -    $            -     $           -     $           -      $          -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $               -     $           -    $            -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 13,
+      "source_sha256": "51bc896dc854bdc641fc0f748ba78b0d8a3b13a01cdc18944b3dc349c6b8d1a3"
+    },
+    {
+      "authority_code": "2045",
+      "name": "The Grasslands School Division",
+      "current_headcount": 3548,
+      "prior_headcount": 3553,
+      "current_expenses_excluding_amortization_cad": 50661915,
+      "comparative_total_expenses_cad": 52344385,
+      "comparative_amortization_cad": 2830400,
+      "comparative_expenses_excluding_amortization_cad": 49513985,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2187353,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $        2,193,444    $           -    $            -      $           -     $     2,193,444    $    2,187,353"
+        },
+        {
+          "row": 25,
+          "cad": 613395,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $          5,273   $          165,367    $       413,753 $          32,947    $           -     $       617,340    $      613,395"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $              -      $           -    $            -      $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 29652,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $           29,652    $           -    $            -      $           -     $        29,652    $       29,652"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $              -      $           -    $            -      $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "f7c25671847d0c9b0d93bfacd53adbc0135a81082177b407c99a783e679935b5"
+    },
+    {
+      "authority_code": "2115",
+      "name": "The Wetaskiwin School Division",
+      "current_headcount": 3268,
+      "prior_headcount": 3439,
+      "current_expenses_excluding_amortization_cad": 53647225,
+      "comparative_total_expenses_cad": 55618585,
+      "comparative_amortization_cad": 3590497,
+      "comparative_expenses_excluding_amortization_cad": 52028088,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2980152,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $        126,000    $        2,768,266    $           -      $           -     $              -   $    2,894,266    $    2,980,152"
+        },
+        {
+          "row": 25,
+          "cad": 541294,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        345,484    $           96,442    $           -      $        36,196   $              -   $      478,122    $      541,294"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -      $              -      $           -      $           -     $              -   $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 69051,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -      $           69,051    $           -      $           -     $              -   $       69,051    $       69,051"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -      $              -      $           -      $           -     $              -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "b532772c438336265d93c203995eccb6fa8247dcc7134561f887184fdf880eea"
+    },
+    {
+      "authority_code": "2125",
+      "name": "The Aspen View School Division",
+      "current_headcount": 2639,
+      "prior_headcount": 2696,
+      "current_expenses_excluding_amortization_cad": 42605181,
+      "comparative_total_expenses_cad": 45968292,
+      "comparative_amortization_cad": 2836898,
+      "comparative_expenses_excluding_amortization_cad": 43131394,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2665733,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $        373,749   $        2,323,954    $           -    $            -      $           -     $     2,697,703    $    2,665,733"
+        },
+        {
+          "row": 25,
+          "cad": 159693,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $         51,487   $           89,569    $         4,772 $          15,889    $           -     $       161,717    $      159,693"
+        },
+        {
+          "row": 26,
+          "cad": 3084,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $              -      $           -    $            -      $           -     $           -      $        3,084"
+        },
+        {
+          "row": 27,
+          "cad": 8388,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $            8,388    $           -    $            -      $           -     $         8,388    $        8,388"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $              -      $           -    $            -      $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "5b17ad40782436a7cbd33ac48ed1c152ed42e7d57c7de262be6264e20c806583"
+    },
+    {
+      "authority_code": "2155",
+      "name": "The Golden Hills School Division",
+      "current_headcount": 8742,
+      "prior_headcount": 8256,
+      "current_expenses_excluding_amortization_cad": 98553920,
+      "comparative_total_expenses_cad": 102745268,
+      "comparative_amortization_cad": 6547944,
+      "comparative_expenses_excluding_amortization_cad": 96197324,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4512440,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $        458,765    $         4,005,161    $           -     $           -     $           -     $     4,463,926    $     4,512,440"
+        },
+        {
+          "row": 25,
+          "cad": 1913926,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        340,935    $           461,390    $       817,592   $       276,328   $       206,089   $     2,102,334    $     1,913,926"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $               -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 121578,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $        121,578    $               -      $           -     $           -     $           -     $       121,578    $       121,578"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "7dd1a2ccbb6d3dfcbdd9a0946ac376c0d0398e82fda9451e199ad5f3d30b2c7d"
+    },
+    {
+      "authority_code": "2185",
+      "name": "The St. Paul School Division",
+      "current_headcount": 3633,
+      "prior_headcount": 3673,
+      "current_expenses_excluding_amortization_cad": 55961117,
+      "comparative_total_expenses_cad": 58964212,
+      "comparative_amortization_cad": 3775462,
+      "comparative_expenses_excluding_amortization_cad": 55188750,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3244535,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "       (24)     Amortization of supported tangible capital assets         $          -      $         34,690   $        3,227,055    $            -     $           -     $           -      $     3,261,745   $     3,244,535"
+        },
+        {
+          "row": 25,
+          "cad": 418908,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "       (25)     Amortization of unsupported tangible capital assets       $          -      $         53,922   $           88,352    $        147,975   $       131,855   $           -      $       422,104   $       418,908"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "       (26)     Amortization of supported ARO tangible capital assets     $          -      $            -     $              -      $            -     $           -     $           -      $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 112019,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "       (27)     Amortization of unsupported ARO tangible capital assets   $          -      $            -     $          115,574    $            -     $           -     $           -      $       115,574   $       112,019"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "       (28)     Amortization of purchased intangibles                     $          -      $            -     $              -      $            -     $           -     $           -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "5bcbb8598931e65f34c260de9ed90720cfd1d526e1c254ff3a6ff1050e3cf3ca"
+    },
+    {
+      "authority_code": "2195",
+      "name": "The Elk Island School Division",
+      "current_headcount": 17939,
+      "prior_headcount": 17749,
+      "current_expenses_excluding_amortization_cad": 205501500,
+      "comparative_total_expenses_cad": 211246579,
+      "comparative_amortization_cad": 7397698,
+      "comparative_expenses_excluding_amortization_cad": 203848881,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 5256183,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $        2,772    $         80,241    $         5,077,172   $           -    $             -     $            -      $     5,160,185    $     5,256,183"
+        },
+        {
+          "row": 25,
+          "cad": 1799963,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       44,027    $      1,274,588    $           155,501   $        58,910 $           85,277   $            -      $     1,618,303    $     1,799,963"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $          -      $            -      $               -     $           -    $             -     $            -      $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 341552,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $          -      $            -      $           213,635   $           -    $             -     $            -      $       213,635    $       341,552"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $          -      $            -      $               -     $           -    $             -     $            -      $           -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "123af1e9b4911873cc5121db4e03c8b4cfa72218b9e6142e3a96b402a9323f3f"
+    },
+    {
+      "authority_code": "2245",
+      "name": "The Black Gold School Division",
+      "current_headcount": 13487,
+      "prior_headcount": 13115,
+      "current_expenses_excluding_amortization_cad": 152739309,
+      "comparative_total_expenses_cad": 158218890,
+      "comparative_amortization_cad": 8910927,
+      "comparative_expenses_excluding_amortization_cad": 149307963,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 8100789,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $      1,061,242    $         7,914,625    $           -     $           -     $        47,930   $     9,023,797    $     8,100,789"
+        },
+        {
+          "row": 25,
+          "cad": 706190,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        351,776    $           322,996    $           -     $       101,461   $         3,125   $       779,358    $       706,190"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $               -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 103948,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $           108,756    $           -                       $           -     $       108,756    $       103,948"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -    $            -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "a37ce6c9533d3f7d1a1718119ab74160a79e4f2b3cbee23fad2865677d4d3b9c"
+    },
+    {
+      "authority_code": "2255",
+      "name": "The Palliser School Division",
+      "current_headcount": 9660,
+      "prior_headcount": 9482,
+      "current_expenses_excluding_amortization_cad": 112624329,
+      "comparative_total_expenses_cad": 113941181,
+      "comparative_amortization_cad": 4094011,
+      "comparative_expenses_excluding_amortization_cad": 109847170,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2809673,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -      $         4,233,370    $           -     $           -     $           -     $     4,233,370    $     2,809,673"
+        },
+        {
+          "row": 25,
+          "cad": 1280775,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        601,766    $           139,108    $       576,952   $       146,471   $           -     $     1,464,297    $     1,280,775"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $               -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 3563,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $             3,563    $           -     $           -     $           -     $         3,563    $         3,563"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 16,
+      "source_sha256": "cf51446fe955ebfb67660c67f7a3e4a360638ee2007ae2a7587c74d35ac48b12"
+    },
+    {
+      "authority_code": "2275",
+      "name": "The Northern Gateway School Division",
+      "current_headcount": 4773,
+      "prior_headcount": 4728,
+      "current_expenses_excluding_amortization_cad": 68225226,
+      "comparative_total_expenses_cad": 69912754,
+      "comparative_amortization_cad": 3999624,
+      "comparative_expenses_excluding_amortization_cad": 65913130,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2883101,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $            -     $        2,913,768    $           -     $           -     $           -     $     2,913,768    $    2,883,101"
+        },
+        {
+          "row": 25,
+          "cad": 896983,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        591,312   $           75,036    $        92,508   $       138,672   $           -     $       897,528    $      896,983"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $              -      $           -     $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 219540,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $          219,540    $           -     $           -     $           -     $       219,540    $      219,540"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $              -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "535b965ed7af97789ac1f80cd1ccf1e278feb050cef6326c2e788e41fd3455e4"
+    },
+    {
+      "authority_code": "2285",
+      "name": "The Battle River School Division",
+      "current_headcount": 5841,
+      "prior_headcount": 5902,
+      "current_expenses_excluding_amortization_cad": 78567672,
+      "comparative_total_expenses_cad": 84596918,
+      "comparative_amortization_cad": 4095060,
+      "comparative_expenses_excluding_amortization_cad": 80501858,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2640680,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $        136,630   $         2,594,118    $           -     $           -      $            -     $    2,730,748    $    2,640,680"
+        },
+        {
+          "row": 25,
+          "cad": 1058852,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        138,968   $           360,222    $       589,508   $       157,414    $            -     $    1,246,112    $    1,058,852"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $               -      $           -     $           -      $            -     $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 395528,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $           399,398    $        17,203   $        16,914    $            -     $      433,515    $      395,528"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $               -      $           -     $           -      $            -     $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "194f2caf763bd6a005148e606bf5ea1933825c0f3a4c5b7f090581afbb85f8ea"
+    },
+    {
+      "authority_code": "2305",
+      "name": "The Parkland School Division",
+      "current_headcount": 12776,
+      "prior_headcount": 12571,
+      "current_expenses_excluding_amortization_cad": 147832239,
+      "comparative_total_expenses_cad": 153950505,
+      "comparative_amortization_cad": 7640507,
+      "comparative_expenses_excluding_amortization_cad": 146309998,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 6189284,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            575    $         6,286,563    $           -     $           -     $        38,100   $     6,325,238    $     6,189,284"
+        },
+        {
+          "row": 25,
+          "cad": 1050038,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        727,229    $           205,670    $       153,149   $       158,446   $           -     $     1,244,494    $     1,050,038"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $               -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 401185,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $          1,142    $           356,182    $           -     $         4,016   $           -     $       361,340    $       401,185"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "7fc2d065df5b6c88136a5e481fa325fad9cbd15fd169efd78a47ee5c935714bd"
+    },
+    {
+      "authority_code": "2473",
+      "name": "Thrive Charter School Society",
+      "current_headcount": 168,
+      "prior_headcount": 101,
+      "current_expenses_excluding_amortization_cad": 3641274,
+      "comparative_total_expenses_cad": 3305265,
+      "comparative_amortization_cad": 185919,
+      "comparative_expenses_excluding_amortization_cad": 3119346,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 185919,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "         (24)     Amortization of supported tangible capital assets         $         -    $         103,786    $        98,350 $             -     $           -     $           -     $       202,136    $       185,919"
+        },
+        {
+          "row": 25,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "         (25)     Amortization of unsupported tangible capital assets       $         -    $             -      $           -    $            -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "         (26)     Amortization of supported ARO tangible capital assets     $         -    $             -      $           -    $            -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "         (27)     Amortization of unsupported ARO tangible capital assets   $         -    $             -      $           -    $            -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "         (28)     Amortization of purchased intangibles                     $         -    $             -      $           -    $            -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 18,
+      "source_sha256": "fe6abd757f745b9138324e69e27dc46dbcdfa08dd70fd973118744ab8400e8bd"
+    },
+    {
+      "authority_code": "3020",
+      "name": "The Edmonton School Division",
+      "current_headcount": 120918,
+      "prior_headcount": 115420,
+      "current_expenses_excluding_amortization_cad": 1285852543,
+      "comparative_total_expenses_cad": 1307787667,
+      "comparative_amortization_cad": 71708746,
+      "comparative_expenses_excluding_amortization_cad": 1236078921,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 46981296,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $          -      $           -     $     48,669,994    $           -    $            -    $            -      $    48,669,994   $    46,981,296"
+        },
+        {
+          "row": 25,
+          "cad": 14097673,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       25,104    $    12,208,299   $        604,008    $           601 $         702,320 $         358,055    $    13,898,387   $    14,097,673"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $          -      $           -     $            -      $           -    $            -    $            -      $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 10629777,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $          -      $           -     $      1,709,786    $           -    $            -    $            -      $     1,709,786   $    10,629,777"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $          -      $           -     $            -      $           -    $            -    $            -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 15,
+      "source_sha256": "8b432e7670fa1e9c979b025f07e649f3bc61000cd22cc8c15329986b112de0d9"
+    },
+    {
+      "authority_code": "3030",
+      "name": "The Calgary School Division",
+      "current_headcount": 142511,
+      "prior_headcount": 138079,
+      "current_expenses_excluding_amortization_cad": 1547563000,
+      "comparative_total_expenses_cad": 1564308000,
+      "comparative_amortization_cad": 88912000,
+      "comparative_expenses_excluding_amortization_cad": 1475396000,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 58854000,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $           -     $           -     $     61,722,000    $          -    $            -      $           -      $    61,722,000   $    58,854,000"
+        },
+        {
+          "row": 25,
+          "cad": 27186000,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $           -     $    24,106,000   $      6,037,000    $          -    $      1,064,000    $        37,000    $    31,244,000   $    27,186,000"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $-                $           -     $            -      $          -    $            -      $           -      $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 2872000,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $           -     $           -     $      2,819,000    $          -    $            -      $           -      $     2,819,000   $     2,872,000"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $           -     $           -     $            -      $          -    $            -      $           -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 18,
+      "source_sha256": "c56020c8492c32ff79cf748831214fd103d350637922e7e52e5efca9282f1459"
+    },
+    {
+      "authority_code": "3040",
+      "name": "The Lethbridge School Division",
+      "current_headcount": 12279,
+      "prior_headcount": 12209,
+      "current_expenses_excluding_amortization_cad": 141145418,
+      "comparative_total_expenses_cad": 144021020,
+      "comparative_amortization_cad": 7423901,
+      "comparative_expenses_excluding_amortization_cad": 136597119,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 6122323,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $        520,136    $         5,582,514    $           -     $        49,737   $           -      $     6,152,387    $     6,122,323"
+        },
+        {
+          "row": 25,
+          "cad": 1156325,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        953,361    $           155,641    $        41,529   $       108,370   $           -      $     1,258,901    $     1,156,325"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $               -      $           -     $           -     $           -      $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 145253,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $           130,202    $           -     $           -     $           -      $       130,202    $       145,253"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -     $           -     $           -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "a65bc46c7f2c5588422a1de8fbb611f1eef1956c84e307d3335fd5c1f95b24f6"
+    },
+    {
+      "authority_code": "3050",
+      "name": "The Medicine Hat School Division",
+      "current_headcount": 6837,
+      "prior_headcount": 6874,
+      "current_expenses_excluding_amortization_cad": 90184500,
+      "comparative_total_expenses_cad": 96016570,
+      "comparative_amortization_cad": 4758020,
+      "comparative_expenses_excluding_amortization_cad": 91258550,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3585106,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $        313,701    $         3,303,999    $           -     $           -     $           -     $     3,617,700    $    3,585,106"
+        },
+        {
+          "row": 25,
+          "cad": 1055217,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $      47,332    $        844,625    $           288,102    $           -     $        64,059   $        29,600   $     1,273,718    $    1,055,217"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -      $               -      $           -     $           -     $           -     $           -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 117697,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -      $           104,847    $           -     $           -     $           -     $       104,847    $      117,697"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -      $               -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "090fa0c9cd83a8b453aa65a187e60ff99cc3c0c06ce5d86aa515e724f776c1f8"
+    },
+    {
+      "authority_code": "3065",
+      "name": "The Canadian Rockies School Division",
+      "current_headcount": 2094,
+      "prior_headcount": 2133,
+      "current_expenses_excluding_amortization_cad": 33793455,
+      "comparative_total_expenses_cad": 36570425,
+      "comparative_amortization_cad": 2778916,
+      "comparative_expenses_excluding_amortization_cad": 33791509,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2196500,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $        146,660   $        2,033,711   $        45,790 $             -     $            -     $    2,226,161    $    2,196,500"
+        },
+        {
+          "row": 25,
+          "cad": 565317,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        155,002   $          237,098   $       184,446 $             -     $            -     $      576,546    $      565,317"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $              -     $           -    $            -     $            -     $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 17099,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $           15,975   $           -    $            -     $            -     $       15,975    $       17,099"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $              -     $           -    $            -     $            -     $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "53e1ef34adef88a8ac680efc73d2dd59b4ac80bc6bed5717d25fecff12c96250"
+    },
+    {
+      "authority_code": "3070",
+      "name": "The Red Deer School Division",
+      "current_headcount": 11388,
+      "prior_headcount": 11380,
+      "current_expenses_excluding_amortization_cad": 130881650,
+      "comparative_total_expenses_cad": 133338103,
+      "comparative_amortization_cad": 6623783,
+      "comparative_expenses_excluding_amortization_cad": 126714320,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 5605823,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -      $         6,368,765    $           -     $           -     $              -   $     6,368,765   $     5,605,823"
+        },
+        {
+          "row": 25,
+          "cad": 919285,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        454,929    $           219,423    $           -     $       101,093   $              -   $       775,445   $       919,285"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $               -      $           -     $           -     $              -   $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 98675,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $            98,675    $           -     $           -     $              -   $        98,675   $        98,675"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $               -      $           -     $           -     $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 15,
+      "source_sha256": "ad7d40b8839e2c9f7baaacacb0586e68b04d85b9106bb18dcfa685eaa032faca"
+    },
+    {
+      "authority_code": "3240",
+      "name": "The Grande Prairie School Division",
+      "current_headcount": 8897,
+      "prior_headcount": 8800,
+      "current_expenses_excluding_amortization_cad": 110896778,
+      "comparative_total_expenses_cad": 113182157,
+      "comparative_amortization_cad": 9320694,
+      "comparative_expenses_excluding_amortization_cad": 103861463,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 8970281,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "       (24)    Amortization of supported tangible capital assets         $          -      $            -      $         8,784,933    $           -    $            -     $           -      $     8,784,933    $     8,970,281"
+        },
+        {
+          "row": 25,
+          "cad": 321299,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "       (25)    Amortization of unsupported tangible capital assets       $          -      $            -      $           107,869    $           -    $        219,345   $           -      $       327,214    $       321,299"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "       (26)    Amortization of supported ARO tangible capital assets     $          -      $            -      $               -      $           -    $            -     $           -      $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 29114,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "       (27)    Amortization of unsupported ARO tangible capital assets   $          -      $            -      $            29,114    $           -    $            -     $           -      $        29,114    $        29,114"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "       (28)    Amortization of purchased intangibles                     $          -      $            -      $               -      $           -    $            -     $           -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "224b85620bc8ec6991748fdd55c7facd5eb3f87c2c31073d3393e6caff63931d"
+    },
+    {
+      "authority_code": "3260",
+      "name": "The Fort McMurray School Division",
+      "current_headcount": 8144,
+      "prior_headcount": 7743,
+      "current_expenses_excluding_amortization_cad": 100588904,
+      "comparative_total_expenses_cad": 111135312,
+      "comparative_amortization_cad": 10567660,
+      "comparative_expenses_excluding_amortization_cad": 100567652,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 9454005,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $-               $-                 $          9,205,069   $-                 $-                $              -   $     9,205,069   $     9,454,005"
+        },
+        {
+          "row": 25,
+          "cad": 933320,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       48,116   $        486,506   $            523,136   $-                 $         6,755   $              -   $     1,064,513   $       933,320"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets                                                                                                     $              -   $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 180335,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets                                       $           503,630                                         $              -   $       503,630   $       180,335"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $-               $-                 $-                     $-                 $-                $              -   $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "6623def2687332862008ab7e80dd2e46a644e3562452bf2b41c865416fe69e3d"
+    },
+    {
+      "authority_code": "4010",
+      "name": "The Calgary Roman Catholic Separate School Division",
+      "current_headcount": 63410,
+      "prior_headcount": 61478,
+      "current_expenses_excluding_amortization_cad": 680869179,
+      "comparative_total_expenses_cad": 672858012,
+      "comparative_amortization_cad": 29479216,
+      "comparative_expenses_excluding_amortization_cad": 643378796,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 26652508,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $          -      $            -     $        27,326,880   $           -    $            -     $        31,452   $    27,358,332    $    26,652,508"
+        },
+        {
+          "row": 25,
+          "cad": 2017219,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       75,742    $      1,145,434   $           414,020   $         1,293 $         397,247   $       169,815   $     2,203,551    $     2,017,219"
+        },
+        {
+          "row": 26,
+          "cad": -58405,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $          -      $            -     $            50,153   $           -    $            -     $           -     $        50,153    $       (58,405)"
+        },
+        {
+          "row": 27,
+          "cad": 867894,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $          -      $            -     $           738,706   $           -    $            -     $           -     $       738,706    $       867,894"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $          -      $            -     $               -     $           -    $            -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "4d583c679fbb16e133cca5eeb0f83d942ae1de421665fd9609ac36e506885765"
+    },
+    {
+      "authority_code": "4077",
+      "name": "The Greater St. Albert Roman Catholic Separate School Division",
+      "current_headcount": 5735,
+      "prior_headcount": 5548,
+      "current_expenses_excluding_amortization_cad": 68695586,
+      "comparative_total_expenses_cad": 72133071,
+      "comparative_amortization_cad": 4590100,
+      "comparative_expenses_excluding_amortization_cad": 67542971,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 3991890,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $         3,881,171    $           -     $           -     $           -      $    3,881,171    $    3,991,890"
+        },
+        {
+          "row": 25,
+          "cad": 372329,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        101,512   $           202,628    $        45,687   $        48,381   $           -      $      398,208    $      372,329"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -      $           -     $           -     $           -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 225881,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $           225,881    $           -     $           -     $           -      $      225,881    $      225,881"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -      $           -     $           -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "7d080ea3ec17b0edb6e44ad5a1e134595f039d7977fb98537d377155a2291359"
+    },
+    {
+      "authority_code": "4105",
+      "name": "The Lakeland Roman Catholic Separate School Division",
+      "current_headcount": 2708,
+      "prior_headcount": 2690,
+      "current_expenses_excluding_amortization_cad": 40249900,
+      "comparative_total_expenses_cad": 40226195,
+      "comparative_amortization_cad": 2104457,
+      "comparative_expenses_excluding_amortization_cad": 38121738,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1755111,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $        223,795    $        1,487,460    $           -     $           -     $           -      $    1,711,255    $      1,755,111"
+        },
+        {
+          "row": 25,
+          "cad": 303108,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        218,851    $           31,752    $           -     $        47,736   $           -      $      298,339    $        303,108"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $              -      $           -     $           -     $           -      $          -      $            -"
+        },
+        {
+          "row": 27,
+          "cad": 46238,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $          200,116    $           -     $        51,803   $           -      $      251,919    $         46,238"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $              -      $           -     $           -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "3abc4886c8b351a6953a9fde70cdf71f53f36e77b0fdf56a4174c03bf57d0bbc"
+    },
+    {
+      "authority_code": "4130",
+      "name": "The Grande Prairie Roman Catholic Separate School Division",
+      "current_headcount": 5412,
+      "prior_headcount": 5538,
+      "current_expenses_excluding_amortization_cad": 71610150,
+      "comparative_total_expenses_cad": 76404713,
+      "comparative_amortization_cad": 6607434,
+      "comparative_expenses_excluding_amortization_cad": 69797279,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 6240845,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "                  (24)       Amortization of supported tangible capital assets         $         -      $          -      $         6,170,861    $          -    $           -     $        52,848   $    6,223,709    $    6,240,845"
+        },
+        {
+          "row": 25,
+          "cad": 913141,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "                  (25)       Amortization of unsupported tangible capital assets       $         -      $          -      $           855,236    $       40,080 $         60,329   $           -     $      955,645    $      913,141"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "                  (26)       Amortization of supported ARO tangible capital assets     $         -      $          -      $               -      $          -    $           -     $           -     $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": -546552,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "                  (27)       Amortization of unsupported ARO tangible capital assets   $         -      $          -      $            20,476    $          -    $         5,639   $           -     $       26,115    $     (546,552)"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "                  (28)       Amortization of purchased intangibles                     $         -      $          -      $               -      $          -    $           -     $           -     $          -"
+        }
+      ],
+      "schedule_pdf_page": 12,
+      "source_sha256": "31c909d218e20aa734d2814dac56698f4b6e36a92b57ea810699654e0b89ffe7"
+    },
+    {
+      "authority_code": "4160",
+      "name": "The Fort McMurray Roman Catholic Separate School Division",
+      "current_headcount": 7015,
+      "prior_headcount": 6942,
+      "current_expenses_excluding_amortization_cad": 88159136,
+      "comparative_total_expenses_cad": 100299030,
+      "comparative_amortization_cad": 5263591,
+      "comparative_expenses_excluding_amortization_cad": 95035439,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4420297,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $         3,764,676                                        $        95,033   $     3,859,709    $     4,420,297"
+        },
+        {
+          "row": 25,
+          "cad": 767294,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $      53,957   $        468,880   $           145,094                      $        12,114   $         1,178   $       681,223    $       767,294"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -                                                            $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 76000,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $            76,000                                                          $        76,000    $        76,000"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -                                                            $           -"
+        }
+      ],
+      "schedule_pdf_page": 15,
+      "source_sha256": "44042a74fb977ff3ab0c4e219eab99e0ca338e24559c107aff6f2258c7744a74"
+    },
+    {
+      "authority_code": "4208",
+      "name": "The Christ the Redeemer Catholic Separate School Division",
+      "current_headcount": 10389,
+      "prior_headcount": 10129,
+      "current_expenses_excluding_amortization_cad": 105782153,
+      "comparative_total_expenses_cad": 107735796,
+      "comparative_amortization_cad": 5564957,
+      "comparative_expenses_excluding_amortization_cad": 102170839,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4467303,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $         63,680   $         4,421,056    $           -     $           -     $           -     $     4,484,736    $     4,467,303"
+        },
+        {
+          "row": 25,
+          "cad": 1088421,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        267,599   $           812,386    $           -     $        92,867   $           -     $     1,172,852    $     1,088,421"
+        },
+        {
+          "row": 26,
+          "cad": 314,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -     $               314    $           -     $           -     $           -     $           314    $           314"
+        },
+        {
+          "row": 27,
+          "cad": 8919,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -     $            30,622    $           -     $           -     $           -     $        30,622    $         8,919"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -     $               -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "f4692d55a131ff6647014b5ebd1246fbfa0501fe3685f1cf8b14d37a94897277"
+    },
+    {
+      "authority_code": "4330",
+      "name": "The East Central Alberta Catholic Separate School Division",
+      "current_headcount": 2644,
+      "prior_headcount": 2566,
+      "current_expenses_excluding_amortization_cad": 25693944,
+      "comparative_total_expenses_cad": 27965412,
+      "comparative_amortization_cad": 2763574,
+      "comparative_expenses_excluding_amortization_cad": 25201838,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 2193355,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -      $            -      $        2,189,200    $           -    $            -     $           -      $    2,189,200    $    2,193,355"
+        },
+        {
+          "row": 25,
+          "cad": 553182,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -      $        247,264    $          207,800    $        55,967 $          38,491   $           -      $      549,522    $      553,182"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -      $            -      $              -      $           -    $            -     $           -      $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 17037,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -      $            -      $           14,695    $           -    $          2,342   $           -      $       17,037    $       17,037"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -      $            -      $              -      $           -    $            -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "bbf6ef9c7c5edc13fdeeb4f3bb63126e7856095a2fe9151e8b43de6906ed41a5"
+    },
+    {
+      "authority_code": "4481",
+      "name": "The Holy Spirit Roman Catholic Separate School Division",
+      "current_headcount": 5577,
+      "prior_headcount": 5386,
+      "current_expenses_excluding_amortization_cad": 65852700,
+      "comparative_total_expenses_cad": 68160632,
+      "comparative_amortization_cad": 4910657,
+      "comparative_expenses_excluding_amortization_cad": 63249975,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4074195,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $        3,633,207  $            -    $            -     $              -   $    3,633,207    $    4,074,195"
+        },
+        {
+          "row": 25,
+          "cad": 753317,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $       1,505   $        447,522   $          276,714  $            -    $         94,827   $              -   $      820,568    $      753,317"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -                         $            -    $            -     $              -   $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 83145,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $           84,717 $             -    $            -     $              -   $       84,717    $       83,145"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $              -    $            -    $            -     $              -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 16,
+      "source_sha256": "9867a5cb37babd1b487a88f7929913fac4324ede33bdf51a66ec8b4121c60771"
+    },
+    {
+      "authority_code": "4501",
+      "name": "The Medicine Hat Roman Catholic Separate School Division",
+      "current_headcount": 2963,
+      "prior_headcount": 2947,
+      "current_expenses_excluding_amortization_cad": 37747081,
+      "comparative_total_expenses_cad": 39121617,
+      "comparative_amortization_cad": 1939734,
+      "comparative_expenses_excluding_amortization_cad": 37181883,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1689710,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $        1,724,263    $           -    $            -     $           -      $    1,724,263    $      1,689,710"
+        },
+        {
+          "row": 25,
+          "cad": 225591,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        144,822   $          105,883    $           -    $          9,592   $           -      $      260,297    $        225,591"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $              -      $           -    $            -     $           -      $          -      $            -"
+        },
+        {
+          "row": 27,
+          "cad": 24433,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $           24,433    $           -    $            -     $           -      $       24,433    $         24,433"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $              -      $           -    $            -     $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "a76330a23a7c0cf9bfdc08b7e2ba8717abe9382933536e562a316b060392b8a5"
+    },
+    {
+      "authority_code": "6015",
+      "name": "New Horizons Charter School Society",
+      "current_headcount": 441,
+      "prior_headcount": 444,
+      "current_expenses_excluding_amortization_cad": 4875113,
+      "comparative_total_expenses_cad": 5048716,
+      "comparative_amortization_cad": 387122,
+      "comparative_expenses_excluding_amortization_cad": 4661594,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 361711,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -      $        344,104    $           -     $           -     $           -     $       344,104    $       361,711"
+        },
+        {
+          "row": 25,
+          "cad": 25411,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $            -      $         24,247    $           -     $           -     $           -     $        24,247    $        25,411"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $            -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $            -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $            -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "a1fe2e82c5b2d75285ba1f7fd8b89187a5275f4e8a84fdd9f4cb4765a9b53839"
+    },
+    {
+      "authority_code": "6017",
+      "name": "Boyle Street Education Centre",
+      "current_headcount": 173,
+      "prior_headcount": 165,
+      "current_expenses_excluding_amortization_cad": 4184534,
+      "comparative_total_expenses_cad": 4595147,
+      "comparative_amortization_cad": 20652,
+      "comparative_expenses_excluding_amortization_cad": 4574495,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -    $            -     $              -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 25,
+          "cad": 20652,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -    $          6,028   $              -      $           -     $           -     $           -     $         6,028    $        20,652"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -    $            -     $              -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -    $            -     $              -      $           -     $           -     $           -     $           -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -    $            -     $              -      $           -     $           -     $           -     $           -"
+        }
+      ],
+      "schedule_pdf_page": 15,
+      "source_sha256": "b528262826857f4e4712f96356136fcfb5220427d86c39769fa397d848ddc7fb"
+    },
+    {
+      "authority_code": "6019",
+      "name": "CAPE - Centre for Academic and Personal Excellence Institute",
+      "current_headcount": 292,
+      "prior_headcount": 249,
+      "current_expenses_excluding_amortization_cad": 3645675,
+      "comparative_total_expenses_cad": 3913704,
+      "comparative_amortization_cad": 236684,
+      "comparative_expenses_excluding_amortization_cad": 3677020,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 224822,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $        224,923    $           -    $            -    $            -      $       224,923   $       224,822"
+        },
+        {
+          "row": 25,
+          "cad": 11862,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $            -     $         16,536    $           -    $            -    $            -      $        16,536   $        11,862"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $            -      $           -    $            -    $            -      $           -     $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $            -      $           -    $            -    $            -      $           -     $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $            -      $           -    $            -    $            -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 15,
+      "source_sha256": "57d7dcf14c8fdc41a5ae126280d4715201dd641195fc8b023ef35b39728b8cd0"
+    },
+    {
+      "authority_code": "6020",
+      "name": "Aurora School Ltd.",
+      "current_headcount": 1211,
+      "prior_headcount": 1095,
+      "current_expenses_excluding_amortization_cad": 15155606,
+      "comparative_total_expenses_cad": 14326386,
+      "comparative_amortization_cad": 1539174,
+      "comparative_expenses_excluding_amortization_cad": 12787212,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 477792,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -     $           525,839    $           -    $            -     $              -   $      525,839    $       477,792"
+        },
+        {
+          "row": 25,
+          "cad": 1061382,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $            -     $         1,070,196    $           -    $            -     $              -   $    1,070,196    $     1,061,382"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -      $           -    $            -     $              -   $          -      $           -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $               -      $           -    $            -     $              -   $          -      $           -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -      $           -    $            -     $              -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "0de9642130a66458c772a8bc8139e2e20a257aeea916418d64a4ab25ba46332c"
+    },
+    {
+      "authority_code": "6021",
+      "name": "Almadina School Society",
+      "current_headcount": 1391,
+      "prior_headcount": 1315,
+      "current_expenses_excluding_amortization_cad": 17095320,
+      "comparative_total_expenses_cad": 15673439,
+      "comparative_amortization_cad": 416411,
+      "comparative_expenses_excluding_amortization_cad": 15257028,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 191667,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $            -    $           435,218 $             -    $           -    $                -   $      435,218 $         191,667"
+        },
+        {
+          "row": 25,
+          "cad": 224744,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $            -    $           273,233 $             -    $        19,863 $                 -   $      293,096 $         224,744"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -    $               -    $            -    $           -    $                -   $          -    $            -"
+        },
+        {
+          "row": 27,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -    $               -    $            -    $           -    $                -   $          -    $            -"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -    $               -    $            -    $           -    $                -   $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "40edcb71c797d239e9cb2806d09cda73b6ec1993dcd097445b9fbfcd30830d8d"
+    },
+    {
+      "authority_code": "7020",
+      "name": "The St. Albert School Division",
+      "current_headcount": 9823,
+      "prior_headcount": 9560,
+      "current_expenses_excluding_amortization_cad": 105376878,
+      "comparative_total_expenses_cad": 107249310,
+      "comparative_amortization_cad": 5833652,
+      "comparative_expenses_excluding_amortization_cad": 101415658,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 5308549,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $          2,875    $     5,120,158    $           -    $            -     $           -      $     5,123,033   $     5,308,549"
+        },
+        {
+          "row": 25,
+          "cad": 497424,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $        379,496    $       138,766    $           -    $         48,406   $           -      $       566,668   $       497,424"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -      $           666    $           -    $            -     $           -      $           666   $           -"
+        },
+        {
+          "row": 27,
+          "cad": 27679,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -      $        28,451    $           -    $            -     $           -      $        28,451   $        27,679"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -      $           -      $           -    $            -     $           -      $           -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "07b00e12c796a0cae8d5c4e92c0c6c68ffc29624757ed14f9195c3b15e8f10b7"
+    },
+    {
+      "authority_code": "8040",
+      "name": "The Greater North Central Francophone Education Region",
+      "current_headcount": 4571,
+      "prior_headcount": 4264,
+      "current_expenses_excluding_amortization_cad": 76442760,
+      "comparative_total_expenses_cad": 74324480,
+      "comparative_amortization_cad": 4696888,
+      "comparative_expenses_excluding_amortization_cad": 69627592,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 4370859,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $      44,380   $        411,993   $         4,684,804    $           -     $           -     $            -     $    5,141,177    $    4,370,859"
+        },
+        {
+          "row": 25,
+          "cad": 321378,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $      18,030   $        167,372   $           137,847    $        11,973   $         8,936   $            -     $      344,158    $      321,378"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $               -      $           -     $           -     $            -     $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 4651,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $             9,056    $           -     $           -     $            -     $        9,056    $        4,651"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $               -      $           -     $           -     $            -     $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "475995e14dd016af7980c527cc9ccce61849ca2e0c7e78394d0dc8cbae46cca4"
+    },
+    {
+      "authority_code": "8050",
+      "name": "The Northwest Francophone Education Region",
+      "current_headcount": 475,
+      "prior_headcount": 484,
+      "current_expenses_excluding_amortization_cad": 12752798,
+      "comparative_total_expenses_cad": 13347471,
+      "comparative_amortization_cad": 1636832,
+      "comparative_expenses_excluding_amortization_cad": 11710639,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1526552,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -     $        149,807   $        1,386,153 $          35,402   $          -      $           -      $    1,571,362 $        1,526,552"
+        },
+        {
+          "row": 25,
+          "cad": 108530,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -     $         44,062   $            8,361 $          44,458   $       10,070    $           -      $      106,951 $          108,530"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -     $            -     $              -    $            -     $          -      $           -      $          -    $             -"
+        },
+        {
+          "row": 27,
+          "cad": 1750,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -     $            -     $            1,750 $             -     $          -      $           -      $        1,750 $            1,750"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -     $            -     $              -    $            -     $          -      $           -      $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "a7a1e31a89cda894d3f6b47cd8d3c52847cfb8e1a5f8c32aea9965c23438b278"
+    },
+    {
+      "authority_code": "8060",
+      "name": "The East Central Francophone Education Region",
+      "current_headcount": 801,
+      "prior_headcount": 780,
+      "current_expenses_excluding_amortization_cad": 17958622,
+      "comparative_total_expenses_cad": 19750048,
+      "comparative_amortization_cad": 1159524,
+      "comparative_expenses_excluding_amortization_cad": 18590524,
+      "prior_components": [
+        {
+          "row": 24,
+          "cad": 1051085,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (24)     Amortization of supported tangible capital assets         $         -    $         45,114   $        1,007,326    $           -     $           -      $            -     $    1,052,440    $    1,051,085"
+        },
+        {
+          "row": 25,
+          "cad": 104867,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (25)     Amortization of unsupported tangible capital assets       $         -    $            -     $           33,436    $           -     $        65,315    $            -     $       98,751    $      104,867"
+        },
+        {
+          "row": 26,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (26)     Amortization of supported ARO tangible capital assets     $         -    $            -     $              -      $           -     $           -      $            -     $          -      $          -"
+        },
+        {
+          "row": 27,
+          "cad": 3572,
+          "blank_prior_cell_treated_as_zero": false,
+          "source_line": "           (27)     Amortization of unsupported ARO tangible capital assets   $         -    $            -     $            3,572    $           -     $           -      $            -     $        3,572    $        3,572"
+        },
+        {
+          "row": 28,
+          "cad": 0,
+          "blank_prior_cell_treated_as_zero": true,
+          "source_line": "           (28)     Amortization of purchased intangibles                     $         -    $            -     $              -      $           -     $           -      $            -     $          -"
+        }
+      ],
+      "schedule_pdf_page": 14,
+      "source_sha256": "4c7261c90deeb6565888b4e7bc14e951640f5026387633a969e4345c81023344"
+    }
+  ],
+  "limitations": [
+    "This cohort omits four new2024authorities and one former2023authority; not a provincial total.",
+    "Priorcomparatives are reported in current2024-25statements; restatements and accountingchanges may affect comparison.",
+    "Northland final2023individualaudit signed2025-07-23 resolves originalcombined draft; comparativeexpense andamortization exactlymatch finalsource.",
+    "Valhalla auditqualification remains."
+  ]
+}

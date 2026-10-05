@@ -1,0 +1,31 @@
+period,component,estimate_status,source_product,source_metadata_notes
+2021/2022,Immigrants,final,17100008,6
+2021/2022,Net emigration,final,17100008,"13,14,21"
+2021/2022,Net non-permanent residents,final,17100008,11
+2021/2022,Net interprovincial migration,final,17100008,9
+2021/2022,Births,final,17100008,4
+2021/2022,Deaths,final,17100008,5
+2022/2023,Immigrants,final,17100008,6
+2022/2023,Net emigration,final,17100008,"13,14,21"
+2022/2023,Net non-permanent residents,final,17100008,11
+2022/2023,Net interprovincial migration,final,17100008,9
+2022/2023,Births,final,17100008,4
+2022/2023,Deaths,final,17100008,5
+2023/2024,Immigrants,final,17100008,6
+2023/2024,Net emigration,final,17100008,"13,14,21"
+2023/2024,Net non-permanent residents,updated,17100008,11
+2023/2024,Net interprovincial migration,final,17100008,9
+2023/2024,Births,final,17100008,4
+2023/2024,Deaths,final,17100008,5
+2024/2025,Immigrants,final,17100008,6
+2024/2025,Net emigration,updated,17100008,"13,14,21"
+2024/2025,Net non-permanent residents,updated,17100008,11
+2024/2025,Net interprovincial migration,final,17100008,9
+2024/2025,Births,updated,17100008,4
+2024/2025,Deaths,updated,17100008,5
+2025/2026,Immigrants,preliminary,17100008,6
+2025/2026,Net emigration,preliminary,17100008,"13,14,21"
+2025/2026,Net non-permanent residents,preliminary,17100008,11
+2025/2026,Net interprovincial migration,preliminary,17100008,9
+2025/2026,Births,preliminary,17100008,4
+2025/2026,Deaths,preliminary,17100008,5

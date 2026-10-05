@@ -1,0 +1,10 @@
+{
+  "url": "https://open.alberta.ca/dataset/400288ca-8ad0-45ce-b06b-83873b626637/resource/d5d04f0a-5952-4d21-a2cf-8744972c3b93/download/ecc-education-assurance-measure-results-province-2025-12.pdf",
+  "sha256": "419f3c96ae6d03be4fd470d9e8fac58aa66a34e4c1dd07acf6314336b020664e",
+  "original_bytes": 11215556,
+  "original_report_date": "2025-10-06",
+  "data_current_as_of": "2025-09-15",
+  "retained_excerpt": "assurance-fall2025-excerpt.txt",
+  "excerpt_pdf_pages": "1\u20139",
+  "retention": "Original retrieved and validated, then removed to avoid retaining11MB artifact. Re-download exact official URL using normal TLS for full source."
+}

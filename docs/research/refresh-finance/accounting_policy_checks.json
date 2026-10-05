@@ -1,0 +1,35 @@
+{
+  "scope": "79 continuing authorities",
+  "purchased_intangible_current_amortization_cad": 0,
+  "purchased_intangible_prior_amortization_cad": 0,
+  "current_combined_intangibles_and_other_balance_cad": 4635990,
+  "prior_combined_intangibles_and_other_balance_cad": 3035046,
+  "warning": "Combined asset category includes other assets; it is not a purchased-intangible total or a bound on capitalization effects.",
+  "verified_other_asset_examples": [
+    {
+      "authority": "Clearview",
+      "description": "No purchased intangibles atAugust2025; effectiveadoptionSeptember2023; noP3contracts."
+    },
+    {
+      "authority": "FFCA",
+      "description": "164732 longtermlease securitydeposits; note14."
+    },
+    {
+      "authority": "HolyFamily",
+      "description": "746191 AlbertaRiskManagementInsuranceConsortiumpoolshare; note12."
+    },
+    {
+      "authority": "PeaceWapiti",
+      "description": "1583179 ARMICmemberequity; note11."
+    },
+    {
+      "authority": "PembinaHills",
+      "description": "47876 equityincooperatives; note11."
+    },
+    {
+      "authority": "MedicineHatPublic",
+      "description": "20 AlbertaCapitalFinanceAuthorityshare; OCRPDFpage33."
+    }
+  ],
+  "not_quantified": "Full effect of accounting changes/P3capitalization on the reported-expense comparison. No attribution of the1.3222%change to resources rather than accounting is warranted."
+}

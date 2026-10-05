@@ -1,0 +1,355 @@
+  Alberta Education and Childcare Assurance
+               Measure Results
+
+
+
+
+                                               Fall 2025
+
+
+
+
+                                                 Alberta
+
+
+
+
+                                        Report Date: October 06, 2025
+
+
+
+
+                                                                                     Report Version 1.0
+Locked with Suppression for Fall 2025                                   Data Current as of Sep 15, 2025
+For more information, contact:
+
+System Assurance Branch                                       Phone:   (780) 643-9193 (in Edmonton)
+Alberta Education and Childcare                                        310-0000 (Toll-free within Alberta)
+2nd floor, 44 Capital Boulevard
+10044 – 108 Street                                            Email:   EDC.SystemAssurance@gov.ab.ca
+Edmonton, Alberta T5J 5E6
+
+
+
+
+Alberta Education and Childcare’s Accountability Pillar/Assurance Website:
+https://www.alberta.ca/accountability-education-system.aspx
+                                                TABLE OF CONTENTS
+
+1 WHAT'S NEW .................................................................................................................................... 1
+
+2 REQUIRED AECAMS - OVERALL SUMMARY .......................................................................................... 2
+      v Source Data Reference .................................................................................................................. 3
+      v Measure Evaluation Reference ......................................................................................................... 4
+
+3 STUDENT GROWTH AND ACHIEVEMENT ............................................................................................. 6
+      v Student Learning Engagement ...................................................................................................... 6
+            w Student Learning Engagement Measure History ........................................................................ 6
+            w Student Learning Engagement 3-Year Rolling Average ............................................................... 7
+            w Student Learning Engagement Measure History with Groups ...................................................... 8
+            w Student Learning Engagement Details .................................................................................... 11
+      v Citizenship ................................................................................................................................. 24
+            w Citizenship Measure History ................................................................................................... 24
+            w Citizenship 3-Year Rolling Average .......................................................................................... 25
+            w Citizenship Measure History with Groups ................................................................................. 26
+            w Citizenship Details ............................................................................................................... 29
+      v Citizenship (Pilot) ........................................................................................................................ 40
+            w Citizenship Question (Pilot) Details .......................................................................................... 40
+      v High School Completion ............................................................................................................... 50
+            w High School Completion Rates Measure History ........................................................................ 50
+            w High School Completion Rates 3-Year Rolling Average ............................................................... 51
+            w High School Completion Rates Details .................................................................................... 52
+      v PAT Results .............................................................................................................................. 55
+            w Grade 9 PAT By Number Enrolled Measure History ..................................................................... 55
+            w Grade 9 PAT By Students Enrolled 3-Year Rolling Average ......................................................... 56
+            w PAT Results Course By Course Summary By Enrolled With Measure Evaluation .............................. 57
+            w PAT Measure Evaluation Reference .......................................................................................... 58
+            w PAT Results Course Summary - By Number Writing .................................................................. 60
+            w PAT Results - Course by Course Details .................................................................................... 62
+      v Diploma Exam Results .................................................................................................................. 88
+            w Diploma Exam Results By Students Writing Measure History ...................................................... 88
+            w Diploma Exam Results By Students Writing 3-Year Rolling Average ............................................. 89
+            w Diploma Exam Results Course By Course Summary With Measure Evaluation .............................. 90
+            w Diploma Exam Results Measure Evaluation Reference ............................................................... 91
+            w Diploma Exam Results - Course by Course Details ..................................................................... 93
+
+4 TEACHING & LEADING .................................................................................................................. 117
+      v Education Quality ..................................................................................................................... 117
+            w Education Quality Measure History ....................................................................................... 117
+            w Education Quality 3-Year Rolling Average .............................................................................. 118
+            w Education Quality Measure History with Groups ..................................................................... 119
+            w Education Quality Details ................................................................................................... 122
+      v Education Quality (Pilot) ............................................................................................................ 143
+            w Education Quality Question (Pilot) Details .............................................................................. 143
+
+5 LEARNING SUPPORTS .................................................................................................................. 153
+      v WCRSLE ................................................................................................................................. 153
+            w WCRSLE Measure History ................................................................................................... 153
+            w WCRSLE 3-Year Rolling Average .......................................................................................... 154
+            w WCRSLE Measure History with Groups ................................................................................. 155
+            w WCRSLE Details .................................................................................................................. 158
+      v Access to Supports & Services ................................................................................................... 180
+            w Access to Supports & Services Measure History ..................................................................... 180
+            w Access to Supports & Services 3-Year Rolling Average ............................................................ 181
+            w Access to Supports & Services Measure History with Groups ................................................... 182
+            w Access to Supports & Services Details .................................................................................... 185
+
+6 GOVERNANCE ................................................................................................................................. 196
+      v Parental Involvement ............................................................................................................... 196
+            w Parental Involvement Measure History ................................................................................. 196
+            w Parental Involvement 3-Year Rolling Average ........................................................................ 197
+            w Parental Involvement Measure History with Groups ............................................................... 198
+            w Parental Involvement Details ................................................................................................ 200
+
+7 SUPPLEMENTAL AECAMS - OVERALL SUMMARY .............................................................................. 208
+      v Source Data Reference ............................................................................................................... 209
+      v Measure Evaluation Reference ................................................................................................... 210
+      v Diploma Exam Participation Rate ................................................................................................ 212
+            w Diploma Exam Participation Rate - Measure History ............................................................... 212
+            w Diploma Exam Participation Rate 3-Year Rolling Average ......................................................... 213
+            w Diploma Exam Participation Rate Details .............................................................................. 214
+      v Drop Out Rate ........................................................................................................................... 215
+            w Drop Out Rate Measure History ............................................................................................. 215
+            w Drop Out Rate 3-Year Rolling Average ................................................................................. 216
+            w Drop Out Rate Details ......................................................................................................... 217
+      v In-Service Jurisdiction Needs ...................................................................................................... 218
+            w In-Service Jurisdiction Needs Measure History ........................................................................ 218
+            w In-Service Jurisdiction Needs 3-Year Rolling Average ............................................................... 219
+            w In-Service Jurisdiction Needs Measure History with Groups ...................................................... 220
+            w In-Service Jurisdiction Needs Details .................................................................................... 221
+      v Lifelong Learning ..................................................................................................................... 225
+            w Lifelong Learning Measure History ....................................................................................... 225
+            w Lifelong Learning 3-Year Rolling Average .............................................................................. 226
+            w Lifelong Learning Measure History with Groups ..................................................................... 227
+            w Lifelong Learning Details ...................................................................................................... 229
+      v Program of Studies .................................................................................................................. 237
+            w Program of Studies Measure History .................................................................................... 237
+            w Program of Studies 3-Year Rolling Average ........................................................................... 238
+            w Program of Studies Measure History with Groups ..................................................................... 239
+            w Program of Studies Details ................................................................................................... 242
+      v Program of Studies - At Risk Students .......................................................................................... 262
+            w Program of Studies - At Risk Students Measure History ............................................................ 262
+            w Program of Studies - At Risk Students 3-Year Rolling Average ................................................... 263
+            w Program of Studies - At Risk Students Measure History with Groups .......................................... 264
+            w Program of Studies - At Risk Students Details ........................................................................ 267
+      v Rutherford Scholarship Eligibility Rate .......................................................................................... 278
+            w Rutherford Scholarship Eligibility Rate Measure History ............................................................ 278
+            w Rutherford Scholarship Eligibility Rate 3-Year Rolling Average ................................................... 279
+            w Rutherford Scholarship Eligibility Rate Details ........................................................................ 280
+    v Safe and Caring Schools ............................................................................................................ 281
+          w Safe and Caring Measure History .......................................................................................... 281
+          w Safe and Caring 3-Year Rolling Average ................................................................................. 282
+          w Safe and Caring Measure History with Groups ........................................................................ 283
+          w Safe and Caring Details ...................................................................................................... 286
+    v Satisfaction with Program Access ................................................................................................ 297
+          w Satisfaction with Program Access Measure History .................................................................. 297
+          w Satisfaction with Program Access 3-Year Rolling Average ......................................................... 298
+          w Satisfaction with Program Access Measure History with Groups ................................................ 299
+          w Satisfaction with Program Access Details .............................................................................. 302
+    v School Improvement .................................................................................................................. 317
+          w School Improvement Measure History .................................................................................... 317
+          w School Improvement 3-Year Rolling Average ........................................................................ 318
+          w School Improvement Measure History with Groups .................................................................. 319
+          w School Improvement Details ................................................................................................ 322
+    v Transition Rate ........................................................................................................................ 333
+          w Transition Rate Measure History .......................................................................................... 333
+          w Transition Rate 3-Year Rolling Average ................................................................................. 334
+          w Transition Rate Details ......................................................................................................... 335
+    v Work Preparation ..................................................................................................................... 336
+          w Work Preparation Measure History ....................................................................................... 336
+          w Work Preparation 3-Year Rolling Average .............................................................................. 337
+          w Work Preparation Measure History with Groups ..................................................................... 338
+          w Work Preparation Details ...................................................................................................... 340
+
+8 APPENDIX - DEFINITIONS FOR MEASURES AND KEY TERMS ......................................................... 348
+    v Required Measure Evaluation Reference with Groups ..................................................................... 351
+    v Supplemental Measure Evaluation Reference with Groups ............................................................... 352
+What's New for Fall 2025?
+This section outlines any changes to the data, calculations or measures compared to the Spring 2025 release.
+
+Data Updates
+
+Grade 6 Provincial Achievement Test (PAT) results:
+
+In the 2024/25 school year, the status of Grade 6 Provincial Achievement Tests (PATs) administered were:
+        ·    New Curriculum:
+                o English Language Arts and Literature 6, Mathematics 6
+
+         ·     Optional Implementation:
+                  o Social Studies 6
+
+         ·     Not Administered:
+                  o French Language Arts 6 année, Français 6 année, Science 6
+
+
+Grade 6 aggregate Provincial Achievement Test (PAT) results are not available:
+       · Aggregate reporting is only possible for tests that have achievement standards and are administered to
+          all students across the province. No Grade 6 tests administered in the 2024/25 school year met these
+          criteria.
+
+
+Grade 9 Provincial Achievement Test (PAT) results:
+       ·   New year of aggregate Grade 9 Provincial Achievement Tests (PATs) results.
+
+
+Diploma Examination results:
+      ·   The New year of Diploma Examination (DIP) results.
+
+
+
+
+Report Generated: Oct 03, 2025                                                                                   Report Version 1.0
+Locked with Suppression for Fall 2025                                                               Data Current as of Sep 15, 2025
+                                                                1
+Required Alberta Education and Childcare Assurance Measures - Overall Summary
+Fall 2025
+Province: Alberta
+
+
+                                                                                                    Alberta                                            Measure Evaluation
+    Assurance Domain                               Measure
+                                                                                 Current         Prev Year       Prev 3 Year
+                                                                                                                                   Achievement            Improvement               Overall
+                                                                                 Result           Result           Average
+                            Student Learning Engagement                            83.9              83.7            84.4           Intermediate       Declined Significantly        Issue
+
+                            Citizenship                                            79.8              79.4            80.4              High            Declined Significantly        Issue
+
+                            3-year High School Completion                          81.4              80.4            81.4           Intermediate            Maintained             Acceptable
+
+Student Growth and          5-year High School Completion                          87.1              88.1            87.9           Intermediate       Declined Significantly        Issue
+Achievement                 PAT9: Acceptable                                       62.5              62.5            62.6               Low                 Maintained               Issue
+
+                            PAT9: Excellence                                       15.6              15.4            15.5           Intermediate            Maintained             Acceptable
+
+                            Diploma: Acceptable                                    82.0              81.5            80.9           Intermediate      Improved Significantly         Good
+
+                            Diploma: Excellence                                    23.0              22.6            21.9              High           Improved Significantly         Good
+
+Teaching & Leading          Education Quality                                      87.7              87.6            88.2              High            Declined Significantly        Issue
+                            Welcoming, Caring, Respectful and Safe Learning
+                                                                                   84.4              84.0            84.9           Intermediate       Declined Significantly        Issue
+Learning Supports           Environments (WCRSLE)
+                            Access to Supports and Services                        80.1              79.9            80.7           Intermediate       Declined Significantly        Issue
+
+Governance                  Parental Involvement                                   80.0              79.5            79.1              High           Improved Significantly         Good
+
+Notes:
+1. Data values have been suppressed where the number of respondents/students is fewer than 6. Suppression is marked with an asterisk (*).
+2. Caution should be used when interpreting high school completion rate results over time, as participation in the 2019/20 to 2021/22 Diploma Exams was impacted by the COVID-19 pandemic. In
+   the absence of Diploma Exams, achievement level of diploma courses were determined solely by school-awarded marks.
+3. Aggregated Grade 9 PAT results are based upon a weighted average of percent meeting standards (Acceptable, Excellence). The weights are the number of students enrolled in each Grade 9
+   course. Courses included: English Language Arts (Grades 9, 9 KAE), Français (9e année), French Language Arts (9e année), Mathematics (Grades 9, 9 KAE), Science (Grades 9, 9 KAE),
+   Social Studies (Grades 9, 9 KAE).
+4. Aggregated Diploma results are a weighted average of percent meeting standards (Acceptable, Excellence) on Diploma Examinations. The weights are the number of students writing the
+   Diploma Exam for each course. Courses included: English Language Arts 30-1, English Language Arts 30-2, French Language Arts 30-1, Français 30-1, Mathematics 30-1, Mathematics 30-2,
+   Chemistry 30, Physics 30, Biology 30, Science 30, Social Studies 30-1, Social Studies 30-2.
+5. Participation in the PATs and Diploma Exams was impacted by the COVID-19 pandemic from 2020/21 to 2021/22. School years 2020/21 and 2021/22 are not included in the rolling 3-year
+   average. Caution should be used when interpreting trends over time.
+6. Participation in the PATs was impacted by wildfires in 2022/23 and 2023/24 and participation in Diploma Exams was impacted by wildfires in 2022/23. Caution should be used when interpreting
+   trends over time for the province and those school authorities affected by these events.
+7. Security breaches occurred over the last few days of the 2021/22 PAT administration window. Students most likely impacted by these security breaches have been excluded from the provincial
+   cohort. All students have been included in school and school authority reporting. Caution should be used when interpreting these results.
+
+
+
+
+Report Generated: Oct 03, 2025                                                                                                                                                  Report Version 1.0
+Locked with Suppression for Fall 2025                                                                                                                              Data Current as of Sep 15, 2025
+                                                                                                2
+Required Alberta Education and Childcare Assurance Measures - Overall
+Summary
+Source Data Reference
+
+Fall 2025
+                                                                                           Previous Year                             Achievement Standard
+       Assurance Domain                      Measure Evaluation           Current Result                   Previous 3 Year Average                            Last Updated
+                                                                                               Result                                       Years
+                                                                                                           School Years 2021/2022,
+                                    Student Learning Engagement             2024/2025        2023/2024                               2021/2022 to 2023/2024    May 01, 2025
+                                                                                                            2022/2023, 2023/2024
+                                                                                                           School Years 2021/2022,
+                                    Citizenship                             2024/2025        2023/2024                               2003/2004 to 2005/2006    May 01, 2025
+                                                                                                            2022/2023, 2023/2024
+                                                                                                           School Years 2020/2021,
+                                    3-year High School Completion           2023/2024        2022/2023                               2015/2016 to 2017/2018    Apr 04, 2025
+                                                                                                            2021/2022, 2022/2023
+                                                                                                           School Years 2020/2021,
+                                    5-year High School Completion           2023/2024        2022/2023                               2015/2016 to 2017/2018    Apr 04, 2025
+                                                                                                            2021/2022, 2022/2023
+Student Growth and Achievement
+                                                                                                           School Years 2022/2023,
+                                    PAT9: Acceptable                        2024/2025        2023/2024                               2011/2012 to 2013/2014    Sep 15, 2025
+                                                                                                                  2023/2024
+                                                                                                           School Years 2022/2023,
+                                    PAT9: Excellence                        2024/2025        2023/2024                               2011/2012 to 2013/2014    Sep 15, 2025
+                                                                                                                  2023/2024
+                                                                                                           School Years 2022/2023,
+                                    Diploma: Acceptable                     2024/2025        2023/2024                               2013/2014 to 2015/2016    Aug 27, 2025
+                                                                                                                  2023/2024
+                                                                                                           School Years 2022/2023,
+                                    Diploma: Excellence                     2024/2025        2023/2024                               2013/2014 to 2015/2016    Aug 27, 2025
+                                                                                                                  2023/2024
+                                                                                                           School Years 2021/2022,
+Teaching & Leading                  Education Quality                       2024/2025        2023/2024                               2003/2004 to 2005/2006    May 01, 2025
+                                                                                                            2022/2023, 2023/2024
+                                    Welcoming, Caring, Respectful and                                      School Years 2021/2022,
+                                                                            2024/2025        2023/2024                               2021/2022 to 2023/2024    May 01, 2025
+                                    Safe Learning Environments (WCRSLE)                                     2022/2023, 2023/2024
+Learning Supports
+                                                                                                           School Years 2021/2022,
+                                    Access to Supports and Services         2024/2025        2023/2024                               2021/2022 to 2023/2024    May 01, 2025
+                                                                                                            2022/2023, 2023/2024
+                                                                                                           School Years 2021/2022,
+Governance                          Parental Involvement                    2024/2025        2023/2024                               2003/2004 to 2005/2006    May 01, 2025
+                                                                                                            2022/2023, 2023/2024
+
+
+
+
+Report Generated: Oct 03, 2025                                                                                                                              Report Version 1.0
+Locked with Suppression for Fall 2025                                                                                                          Data Current as of Sep 15, 2025
+
+                                                                                            3
+Required Alberta Education and Childcare Assurance Measures - Overall
+Summary
+Measure Evaluation Reference
+Fall 2025
+Achievement Evaluation
+
+Achievement evaluation is based upon a comparison of Current Year data to a set of standards which remain consistent over time. The Standards are calculated by taking the three-year average of
+baseline data for each measure across all school jurisdictions and calculating the 5th, 25th, 75th and 95th percentiles. Once calculated, these standards remain in place from year to year to allow for
+consistent planning and evaluation.
+The table below shows the range of values defining the five achievement evaluation levels for each measure.
+
+                                                   Measure                        Very Low              Low          Intermediate           High            Very High
+                               Student Learning Engagement                       0.00 - 80.63      80.63 - 82.49     82.49 - 85.34      85.34 - 87.37     87.37 - 100.00
+                               Citizenship                                       0.00 - 66.30      66.30 - 71.63     71.63 - 77.50      77.50 - 81.08     81.08 - 100.00
+                               3-year High School Completion                     0.00 - 65.95      65.95 - 74.10     74.10 - 84.79      84.79 - 89.00     89.00 - 100.00
+                               5-year High School Completion                     0.00 - 72.59      72.59 - 80.82     80.82 - 89.18      89.18 - 91.96     91.96 - 100.00
+                               PAT9: Acceptable                                  0.00 - 62.37      62.37 - 67.35     67.35 - 76.70      76.70 - 81.94     81.94 - 100.00
+                               PAT9: Excellence                                  0.00 - 9.69       9.69 - 13.44      13.44 - 18.38      18.38 - 23.38     23.38 - 100.00
+                               Diploma: Acceptable                               0.00 - 71.45      71.45 - 78.34     78.34 - 84.76      84.76 - 87.95     87.95 - 100.00
+                               Diploma: Excellence                               0.00 - 9.55       9.55 - 12.59      12.59 - 19.38      19.38 - 23.20     23.20 - 100.00
+                               Education Quality                                 0.00 - 80.94      80.94 - 84.23     84.23 - 87.23      87.23 - 89.60     89.60 - 100.00
+                               Welcoming, Caring, Respectful and Safe
+                                                                                 0.00 - 79.99      79.99 - 82.81     82.81 - 87.17      87.17 - 90.40     90.40 - 100.00
+                               Learning Environments (WCRSLE)
+                               Access to Supports and Services                   0.00 - 74.19      74.19 - 78.27     78.27 - 83.43      83.43 - 88.16     88.16 - 100.00
+                               Parental Involvement                              0.00 - 70.76      70.76 - 74.58     74.58 - 78.50      78.50 - 82.30     82.30 - 100.00
+
+
+
+
+Notes:
+1. For all measures: The range of values at each evaluation level is interpreted as greater than or equal to the lower value, and less than the higher value. For the Very High evaluation level, values
+   range from greater than or equal to the lower value to 100%.
+
+
+
+
+Report Generated: Oct 03, 2025                                                                                                                                                       Report Version 1.0
+Locked with Suppression for Fall 2025                                                                                                                                   Data Current as of Sep 15, 2025
+
+                                                                                                    4
+

@@ -1,0 +1,194 @@
+[
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100008-eng.zip",
+    "retrieved_utc": "2026-10-05T02:35:22.028728+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:31 GMT",
+    "sha256": "85a3b6a331d4eecdc4d2bc3b2aa8a564a7ad0324dc3de23a832e23ad321e98e9",
+    "bytes": 58435,
+    "full_download_path": "docs/research/migration/17100008-eng.zip",
+    "full_csv_path": "docs/research/migration/17100008/17100008.csv",
+    "metadata_path": "docs/research/migration/17100008/17100008_MetaData.csv",
+    "metadata_sha256": "394e73e7e7dca37bb6eee1bb611cac6d2729a60c2d1d7fcf241638e3523fc817",
+    "retained_data": {
+      "path": "docs/research/migration/17100008/17100008.csv",
+      "sha256": "30617df6864e138f9c3a5ab8a3774bf2994623da952a5cc8ba91c560bc577fb9"
+    }
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100040-eng.zip",
+    "retrieved_utc": "2026-10-05T02:35:22.158264+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:32 GMT",
+    "sha256": "93393fbed83d3b89851e2c67057937c7bf524c5ba0575f649cb21cc140be76b3",
+    "bytes": 146122,
+    "full_download_path": "work/migration-downloads/17100040-eng.zip",
+    "full_csv_path": "work/migration-downloads/17100040/17100040.csv",
+    "metadata_path": "docs/research/migration/17100040-metadata.csv",
+    "retained_extract": {
+      "path": "docs/research/migration/17100040-alberta.csv",
+      "sha256": "9312f7870e867ec9e04331bae26735cb29b009c0bf8c7b7a33d0dfbf9d0cadde",
+      "filters": {
+        "GEO": "Alberta (origin or destination for17100045)",
+        "REF_DATE": "2021 onward",
+        "Gender": "Total - gender where present"
+      },
+      "rows": 163
+    },
+    "metadata_sha256": "f44eae7a6a7d7a47de6f93fc271211febe7372f5a8f3684485e7f9f6c26ff8ef"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100020-eng.zip",
+    "retrieved_utc": "2026-10-05T02:35:22.280231+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:32 GMT",
+    "sha256": "c3ce05e7f05bb3aab7c378f8deed678396b2ac4a1cfc4caaa01df56302824ca7",
+    "bytes": 49430,
+    "full_download_path": "work/migration-downloads/17100020-eng.zip",
+    "full_csv_path": "work/migration-downloads/17100020/17100020.csv",
+    "metadata_path": "docs/research/migration/17100020-metadata.csv",
+    "retained_extract": {
+      "path": "docs/research/migration/17100020-alberta.csv",
+      "sha256": "1e7524e08eb1af66ebf737a8af64b49e4d7839b7579a0860bdea736f873c636c",
+      "filters": {
+        "GEO": "Alberta (origin or destination for17100045)",
+        "REF_DATE": "2021 onward",
+        "Gender": "Total - gender where present"
+      },
+      "rows": 44
+    },
+    "metadata_sha256": "1ee66669220bd12c1e1ebeb5328c3c210730fcf09b1e294d0979ab30639e4141"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100045-eng.zip",
+    "retrieved_utc": "2026-10-05T02:35:22.383247+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:32 GMT",
+    "sha256": "38058dbf758082ef8c99b8af0dd6cd1dea62fbaa1b4432e90f02b1ef38f042ca",
+    "bytes": 218678,
+    "full_download_path": "work/migration-downloads/17100045-eng.zip",
+    "full_csv_path": "work/migration-downloads/17100045/17100045.csv",
+    "metadata_path": "docs/research/migration/17100045-metadata.csv",
+    "retained_extract": {
+      "path": "docs/research/migration/17100045-alberta.csv",
+      "sha256": "fb667084e3d3d91f60241ad3f5837b2cba0da84abc51f011264cba131ba88473",
+      "filters": {
+        "GEO": "Alberta (origin or destination for17100045)",
+        "REF_DATE": "2021 onward",
+        "Gender": "Total - gender where present"
+      },
+      "rows": 528
+    },
+    "metadata_sha256": "cb0725f35fe0315f95cbd0c639224103627bed83798d9f7e56643e2470891039"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100059-eng.zip",
+    "retrieved_utc": "2026-10-05T02:35:22.475596+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:32 GMT",
+    "sha256": "439dcad9e850ae1d555d8fb8b7944ffd821b439a2cce83a1372387c8ae36b717",
+    "bytes": 79031,
+    "full_download_path": "work/migration-downloads/17100059-eng.zip",
+    "full_csv_path": "work/migration-downloads/17100059/17100059.csv",
+    "metadata_path": "docs/research/migration/17100059-metadata.csv",
+    "retained_extract": {
+      "path": "docs/research/migration/17100059-alberta.csv",
+      "sha256": "165085cf190c08b0d76d71e7a955b52245677d4eacb660d8d6cf84175a09aa5f",
+      "filters": {
+        "GEO": "Alberta (origin or destination for17100045)",
+        "REF_DATE": "2021 onward",
+        "Gender": "Total - gender where present"
+      },
+      "rows": 44
+    },
+    "metadata_sha256": "eb593c4887994bfd2b901dff70a152028c8d9665f0c6ae54d358f5ff1e506aa5"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100005-eng.zip",
+    "retrieved_utc": "2026-10-05T02:35:23.172863+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:31 GMT",
+    "sha256": "fe0199629d63a98b410d8a2a9300a1a94fe7f575d55f7dd99f27d49993ad45b9",
+    "bytes": 3880235,
+    "full_download_path": "work/migration-downloads/17100005-eng.zip",
+    "full_csv_path": "work/migration-downloads/17100005/17100005.csv",
+    "metadata_path": "docs/research/migration/17100005-metadata.csv",
+    "retained_extract": {
+      "path": "docs/research/migration/17100005-alberta.csv",
+      "sha256": "b0b9cfd052e4d17feb4add7d6c19abd63bc05500a6867f8931394dc1def67a88",
+      "filters": {
+        "GEO": "Alberta (origin or destination for17100045)",
+        "REF_DATE": "2021 onward",
+        "Gender": "Total - gender where present"
+      },
+      "rows": 834
+    },
+    "metadata_sha256": "102be36d3a88635c3eaadb1643ba66cf8e41b370d67e2c440c7c2bb90af2d631"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100014-eng.zip",
+    "retrieved_utc": "2026-10-05T02:35:58.501236+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:31 GMT",
+    "sha256": "838f887c470369f2de1b27aba417d9ec9a80e172742f3fe01fe5f1c48911d94b",
+    "bytes": 19042754,
+    "full_download_path": "work/migration-downloads/17100014-eng.zip",
+    "full_csv_path": "work/migration-downloads/17100014/17100014.csv",
+    "metadata_path": "docs/research/migration/17100014-metadata.csv",
+    "retained_extract": {
+      "path": "docs/research/migration/17100014-alberta.csv",
+      "sha256": "ced7072d513b92c47546e781242f34ccb133bed97a69e4846abc5c5dde4a8feb",
+      "filters": {
+        "GEO": "Alberta (origin or destination for17100045)",
+        "REF_DATE": "2021 onward",
+        "Gender": "Total - gender where present"
+      },
+      "rows": 3588
+    },
+    "metadata_sha256": "b3fe24c0da85321e7ca80bf700f8a9fef98dee7f74a9a20a2c344de84b83df59"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100015-eng.zip",
+    "retrieved_utc": "2026-10-05T02:36:03.213500+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:31 GMT",
+    "sha256": "fe06166d6dd2c38cbe41b9a76693fd216cbf13b689bde9684397fb7815fcd0fb",
+    "bytes": 10001111,
+    "full_download_path": "work/migration-downloads/17100015-eng.zip",
+    "full_csv_path": "work/migration-downloads/17100015/17100015.csv",
+    "metadata_path": "docs/research/migration/17100015-metadata.csv",
+    "retained_extract": {
+      "path": "docs/research/migration/17100015-alberta.csv",
+      "sha256": "0c0cd89384b9de4e7d53821f3e491c1723f1c474698966e29ca901c0b4a0aa7e",
+      "filters": {
+        "GEO": "Alberta (origin or destination for17100045)",
+        "REF_DATE": "2021 onward",
+        "Gender": "Total - gender where present"
+      },
+      "rows": 2070
+    },
+    "metadata_sha256": "13d3b23dc2f265cfc49943c294ecc733c48d8cada6156bc6e7e9726e7864b6b4"
+  },
+  {
+    "url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100009-eng.zip",
+    "retrieved_utc": "2026-10-05T02:36:03.315770+00:00",
+    "status": 200,
+    "last_modified": "Wed, 23 Sep 2026 12:30:31 GMT",
+    "sha256": "b50bf05150e42edf3771ceb1d6868581fb6747b5886e0d1450b8b3437958bd0b",
+    "bytes": 30842,
+    "full_download_path": "work/migration-downloads/17100009-eng.zip",
+    "full_csv_path": "work/migration-downloads/17100009/17100009.csv",
+    "metadata_path": "docs/research/migration/17100009-metadata.csv",
+    "retained_extract": {
+      "path": "docs/research/migration/17100009-alberta.csv",
+      "sha256": "5186cb07519977734f518d68d5d486005679abd7cb4c6c818f15a5a9f14bd7e9",
+      "filters": {
+        "GEO": "Alberta (origin or destination for17100045)",
+        "REF_DATE": "2021 onward",
+        "Gender": "Total - gender where present"
+      },
+      "rows": 23
+    },
+    "metadata_sha256": "3562f152e9907582706c770744ac21872886f8ce58cdab00e7469fa87e955ebc"
+  }
+]
